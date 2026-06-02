@@ -1,4 +1,4 @@
-Sự kết chùm biến động (volatility clustering) và thay đổi chế độ thị trường là đặc tính cố hữu của các thị trường mới nổi như Việt Nam. Mục tiêu của chúng tôi là giảm thiểu mức sụt giảm tài sản tối đa (maximum drawdown) sau phí, trong khi vẫn duy trì tỷ lệ tham gia cao trong các pha thị trường tích cực. Chúng tôi coi rủi ro không chỉ là một con số thống kê, mà là một ngân sách cần được quản lý một cách minh bạch.
+Sự kết chùm biến động (volatility clustering) và thay đổi chế độ thị trường là đặc tính cố hữu của các thị trường mới nổi như Việt Nam. Mục tiêu của chúng tôi là giảm thiểu mức sụt giảm tài sản tối đa (maximum drawdown) sau phí, trong khi vẫn duy trì tỷ lệ tham gia cao trong các pha thị trường tích cực. Chúng tôi coi rủi ro không chỉ là một con số thống kê, mà là một ngân sách cần được quản lý một cách rõ ràng.
 
 Chúng tôi thừa nhận không thể kiểm soát thị trường hoặc dự báo mọi cú giảm; thay vào đó lập kế hoạch rõ ràng cho từng ngưỡng lỗ.
 

@@ -49,12 +49,12 @@ export const INSIGHTS_CONTENT = {
     "pilot-launch": {
         en: {
             title: "Your Article Title",
-            dateLine: "Ho Chi Minh City – December 2025",
+            dateLine: "HCMC – December 2025",
             body: parseMarkdown(pilotEnMd),
         },
         vi: {
             title: "Tiêu đề bài viết",
-            dateLine: "TP. Hồ Chí Minh – Tháng 12 năm 2025",
+            dateLine: "TP. HCM – Tháng 12 năm 2025",
             body: parseMarkdown(pilotViMd),
         },
     },

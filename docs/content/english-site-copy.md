@@ -3,7 +3,7 @@
 ## 1. Hero
 
 - **Headline:** Systematic Alpha in Vietnam
-- **Subheadline:** Aureus Sigma Capital (ASC) designs transparent, factor-based portfolios in Vietnam’s equity market, seeking attractive long-term, risk-adjusted returns with explicit drawdown controls. Through ASC’s licensed partners, institutional and professional investors can access these rules-based strategies within compliant mandates and products.
+- **Subheadline:** Aureus Sigma Capital (ASC) designs documented, factor-based research frameworks for Vietnam’s equity market. Through ASC’s licensed partners, institutional and professional investors can access rules-based strategies within compliant mandates and products where applicable.
 - **Primary CTA:** Learn about ASC’s licensed partners (links to `/partnerships`)
 - **Secondary CTA:** Explore our investment framework (links to `/what-we-do`)
 - **Highlights:**
@@ -15,29 +15,21 @@
 
 ## 2. Our Firm in Brief
 
-Aureus Sigma Capital (ASC) is an independent, founder-owned quantitative investment firm dedicated to Vietnam’s listed equities. We design and maintain systematic, factor-based strategies that apply global institutional standards to local data, trading and regulation.
+Aureus Sigma Capital (ASC) is a founder-led quantitative research firm dedicated to Vietnam’s listed equities. We design and maintain systematic, factor-based research frameworks that apply documented process standards to local data, trading and regulation.
 
 Our role is to build the investment engine behind Vietnamese equity portfolios. We clean and organise market and company data, codify value, quality and momentum insights, and express them as rules that determine what to own, how much to own and when to adjust. Every holding in the portfolio can be traced back to this documented framework.
 
-ASC does not manage client accounts or distribute products directly. Our strategies are implemented exclusively by ASC’s licensed partners, which handle client onboarding, suitability, execution and reporting. This separation keeps incentives aligned, allows clients to work with regulated counterparties, and enables ASC to focus on research, portfolio design and risk analytics, alongside investing the firm’s own capital in the same strategies.
+ASC does not manage client accounts or distribute products directly. Licensed partners handle onboarding, suitability, execution, reporting, and regulated client-facing work where applicable. ASC focuses on research, model design, risk oversight, and partner coordination.
 
 ### 2.1 Leadership bios
 
-**Duc (Huy) Nguyen – Co-Founder, Chairman & Chief Investment Officer**  
-Duc leads ASC’s investment philosophy, factor research, portfolio construction and risk framework for systematic Vietnamese equity strategies. He brings more than 20 years of experience in Vietnam’s capital markets.  
-As CEO of Techcom Capital and Managing Director of Techcom Securities, Duc helped build Techcombank’s investment management and securities platforms with a focus on public-markets investing and institutional clients. Previously, as Executive Director and Head of Corporate Finance Advisory and Financial Advisory Services at Deloitte Vietnam, he led over US$1 billion of investments, capital raisings and M&A transactions across banking, real estate and consumer sectors before holding senior finance and investment roles at regional investment and real-estate groups overseeing capital allocation and market-risk management.  
-At ASC, Duc serves as CIO and Head of Research, responsible for the systematic strategy architecture, model governance and ongoing performance and risk review across all strategies.
+**Duc (Huy) Nguyen – Founder & CEO**
+Duc leads ASC’s research, model design, risk oversight and partner coordination for systematic Vietnamese equity research. He brings more than 20 years of experience in Vietnam’s capital markets.
+As CEO of Techcom Capital and Managing Director of Techcom Securities, Duc helped build Techcombank’s investment management and securities platforms with a focus on public-markets investing and institutional clients. Previously, as Executive Director and Head of Corporate Finance Advisory and Financial Advisory Services at Deloitte Vietnam, he led over US$1 billion of investments, capital raisings and M&A transactions across banking, real estate and consumer sectors before holding senior finance and investment roles at regional investment and real-estate groups overseeing capital allocation and market-risk management.
+At ASC, Duc keeps the firm focused on documented rules, local data quality and clear risk controls while licensed partners handle regulated client-facing work where applicable.
 
-**Short card version (About page tiles)**  
-Co-founder of Aureus Sigma Capital and Chief Investment Officer. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on systematic, factor-based Vietnamese equity strategies and institutional-grade risk management.
-
-**Minh Mai, CFA – Co-Founder & Chief Executive Officer**  
-Minh leads ASC’s execution, operations and client delivery. As CEO, he is responsible for turning ASC’s research framework into live portfolios: overseeing trading workflows, broker relationships, operational risk controls and day-to-day portfolio monitoring, and working with licensed managers to embed ASC strategies into regulated mandates and products.  
-Before co-founding ASC, Minh was Head of Research at Fujiwara Capital, a global macro hedge fund, where he led investment research across macro themes and systematic trading ideas. Prior to that, he served as Research Lead at Vietbridge Capital, focusing on fundamental and quantitative research on Vietnamese assets. Minh is a CFA charterholder and a graduate of ESCP Europe, bringing an international macro and multi-asset perspective to ASC’s Vietnam-focused, factor-based strategies.  
-At ASC, Minh ensures that the rules designed by the CIO are implemented cleanly, efficiently and transparently in live portfolios, and that clients and partners receive clear, data-driven communication on how the strategies behave through different market environments.
-
-**Short card version (About page tiles)**  
-Leads ASC’s trading, operations and client delivery. Former Head of Research at Fujiwara Capital (global macro hedge fund) and Research Lead at Vietbridge Capital. CFA charterholder and ESCP Europe graduate, responsible for implementing ASC’s systematic Vietnamese equity framework in live portfolios and coordinating with licensed managers on mandates and reporting.
+**Short card version (About page tiles)**
+Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on systematic, factor-based Vietnamese equity research and risk-aware process design.
 
 ---
 
@@ -54,7 +46,7 @@ Our philosophy is that investors are better served by an approach that is:
 - **Local by design** – built on Vietnamese data, liquidity and regulation, not imported blindly from other markets.
 - **Risk-aware** – explicitly designed around drawdowns, liquidity and investor behaviour, not only headline returns.
 
-The objective is clear: seek to deliver attractive long-term, risk-adjusted returns from Vietnamese equities with a path that institutional allocators can understand, monitor and challenge.
+The objective is clear: maintain a documented, rules-based approach to Vietnamese equities with a path that institutional allocators can understand, monitor and challenge.
 
 ### 3.2 From philosophy to framework
 
@@ -63,7 +55,7 @@ We implement this philosophy as a research and engineering process:
 - **Data and diagnostics** – collect and clean point-in-time data on Vietnamese companies and prices, focusing on liquidity and disclosure quality.
 - **Factor research** – identify robust patterns in how value, quality and momentum have been rewarded across multiple market environments, including past stress episodes.
 - **Portfolio rules** – codify those insights into a framework that determines what to own, how much to own and how to adjust as fundamentals, prices and risk change.
-- **Testing and review** – test changes rigorously before introducing them into live portfolios and review realised performance, including drawdowns, against expectations.
+- **Testing and review** – test changes rigorously before introducing them into tracked strategies and review realised outcomes, including drawdowns, against expectations.
 
 This framework underpins all strategies built on ASC’s research.
 
@@ -133,7 +125,7 @@ Several features of ASC’s approach are particularly relevant in the Vietnamese
 
 Over a full market cycle, our goal is to:
 
-- aim to deliver higher risk-adjusted returns than a simple “buy-the-index” approach,
+- aim to provide a documented, rules-based approach compared with a simple “buy-the-index” approach,
 - limit the depth and duration of major drawdowns relative to the broad market, and
 - maintain a process that investors can understand, monitor and challenge.
 
@@ -218,11 +210,11 @@ Clients contract directly with the relevant licensed partner. That entity is res
 
 ### 5.3 ASC – the quantitative research partner
 
-Aureus Sigma Capital is an independent, founder-owned quantitative firm focused exclusively on Vietnam’s equity market. We:
+Aureus Sigma Capital is a founder-led quantitative research firm focused exclusively on Vietnam’s equity market. We:
 
 - design and maintain the factor-based investment framework for Vietnamese equities;
 - provide research updates, portfolio construction rules and risk analytics; and
-- invest our own capital alongside investors who access the strategies through licensed partners.
+- support partner coordination while licensed partners handle regulated client-facing work where applicable.
 
 ASC does not manage client accounts or distribute products. Implementation is carried out exclusively by licensed partners.
 
@@ -258,7 +250,7 @@ We publish concise notes for investors who want to understand how we think about
 ### 6.3 Cards (titles and summaries)
 
 1. **FIDES and Aureus Sigma Capital Sign Memorandum of Understanding (MOU)**  
-   FIDES Vietnam and ASC signed an MOU in Ho Chi Minh City on December 19, 2025 to cooperate on investment mandate execution, product development, and research/analytics within applicable regulation.
+   FIDES Vietnam and ASC signed an MOU in HCMC on December 19, 2025 to cooperate on investment mandate execution, product development, and research/analytics within applicable regulation.
 
 2. **The Case for Systematic Factors in Vietnamese Equities**  
    Vietnam’s equity market exhibits distinct microstructural inefficiencies. We discuss why a systematic, factor-based approach can help support more consistent decision-making than discretionary trading.

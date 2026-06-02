@@ -8,7 +8,7 @@ export default function EdgeSection({ data }) {
             <div className="absolute inset-0">
                 <img
                     src={`${BASE}assets/others/hcmc_skyline_1.png`}
-                    alt="Ho Chi Minh City Skyline"
+                    alt="HCMC Skyline"
                     className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-1000"
                 />
                 <div className="absolute inset-0 bg-slate-900/90"></div>

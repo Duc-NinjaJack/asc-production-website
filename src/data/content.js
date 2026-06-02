@@ -31,7 +31,6 @@ const BASE = import.meta.env.BASE_URL;
 export const LOGO_SRC = `${BASE}asc-logo-transparent.png`;
 export const TEAM_PHOTOS = {
     founder: `${BASE}team-duc.jpg`,
-    cofounder: `${BASE}team-minh.png`,
 };
 
 export const BRAND = {
@@ -84,7 +83,7 @@ export const i18n = {
             whyAsc: "Why ASC",
             title: "Systematic Alpha in Vietnam",
             subtitle:
-                "Aureus Sigma Capital (ASC) designs transparent, factor-based portfolios in Vietnam’s equity market, seeking attractive long-term, risk-adjusted returns with explicit drawdown controls. Through ASC’s licensed partners, institutional and professional investors can access these rules-based strategies within compliant mandates and products.",
+                "Aureus Sigma Capital (ASC) designs documented, factor-based research frameworks for Vietnam’s equity market. Through ASC’s licensed partners, institutional and professional investors can access rules-based strategies within compliant mandates and products where applicable.",
             ctas: [
                 { label: "Learn about ASC’s licensed partners", to: "/partnerships" },
                 { label: "Explore our investment framework", to: "/what-we-do" },
@@ -111,7 +110,7 @@ export const i18n = {
                 { label: "Risk-aware", body: "Drawdowns, liquidity, and behaviour are design inputs—not afterthoughts." },
             ],
             objective:
-                "The objective is clear: seek to deliver attractive long-term, risk-adjusted returns from Vietnamese equities with a path that institutional allocators can understand, monitor, and challenge. ASC’s framework is anchored in well-documented value, quality, and momentum premia, complemented by a stability lens that incorporates low-volatility, drawdown behaviour, and liquidity considerations.",
+                "The objective is clear: maintain a documented, rules-based approach to Vietnamese equities with a path that institutional allocators can understand, monitor, and challenge. ASC’s framework is anchored in well-documented value, quality, and momentum research, complemented by a stability lens that incorporates low-volatility, drawdown behaviour, and liquidity considerations.",
             processTitle: "From philosophy to framework",
             processIntro: "We implement this philosophy as a research and engineering process that sits behind every ASC strategy.",
             process: [
@@ -194,8 +193,8 @@ export const i18n = {
             expectations: {
                 title: "What investors can expect – and what they should not",
                 goals: [
-                    "Aim to deliver higher risk-adjusted returns than a simple “buy-the-index” approach over a full market cycle.",
-                    "Limit the depth and duration of major drawdowns relative to the broad market.",
+                    "Aim to deliver a documented, rules-based approach to Vietnamese equities over a full market cycle.",
+                    "Use explicit risk rules to monitor drawdowns and portfolio behaviour relative to the broad market.",
                     "Maintain a process that investors can understand, monitor, and challenge.",
                 ],
                 disclaimer:
@@ -241,7 +240,7 @@ export const i18n = {
             paragraphs: [
                 "ASC works with licensed investment managers that provide regulated products and bespoke mandates, handle client onboarding and ongoing relationships, and implement portfolios with full regulatory reporting.",
                 "Clients contract directly with the relevant licensed partner. That entity is responsible for ensuring suitability and compliance for each product or mandate.",
-                "Aureus Sigma Capital is an independent, founder-owned quantitative firm focused exclusively on Vietnam’s equity market. We design and maintain the factor-based investment framework, provide research updates, portfolio construction rules, and risk analytics, and invest our own capital alongside investors who access the strategies through licensed partners.",
+                "Aureus Sigma Capital is a founder-led quantitative research firm focused exclusively on Vietnam’s equity market. We design and maintain the factor-based investment framework, provide research updates, portfolio construction rules, and risk analytics for strategies accessed through licensed partners.",
                 "ASC does not manage client accounts or distribute products. Implementation is carried out exclusively by licensed partners.",
                 "Under each partnership arrangement, responsibilities are clearly defined: ASC develops and maintains the systematic framework, while licensed partners decide how and where to deploy strategies, manage day-to-day portfolios under their licences, and deliver regulated reporting and client service. This separation supports institutional governance standards.",
                 "As Vietnam’s markets deepen, ASC and its licensed partners plan to broaden the range of mandates and products that can incorporate ASC’s framework, while keeping research quality, risk control, and regulatory robustness at the centre.",
@@ -320,7 +319,7 @@ export const i18n = {
                     title: "FIDES and Aureus Sigma Capital Sign Memorandum of Understanding (MOU)",
                     slug: "fides-aureus-sigma-capital-strategic-partnership",
                     summary:
-                        "FIDES Vietnam and ASC signed an MOU at the FIDES office in Ho Chi Minh City on December 19, 2025 to cooperate on investment mandate execution, product development, and research within applicable regulations.",
+                        "FIDES Vietnam and ASC signed an MOU at the FIDES office in HCMC on December 19, 2025 to cooperate on investment mandate execution, product development, and research within applicable regulations.",
                     icon: "handshake",
                     image: "/assets/others/fides-asc-mou-document-exchange-16x9.jpg",
                 },
@@ -350,9 +349,9 @@ export const i18n = {
             title: "About Aureus Sigma Capital",
             intro: "Independent. Systematic. Dedicated to Vietnam.",
             details: [
-                "Aureus Sigma Capital (ASC) is an independent, founder-owned quantitative investment firm specializing in Vietnam’s listed equity market. We design and operate systematic, factor-based investment strategies, applying international asset management standards to the local data, trading, and legal context.",
+                "Aureus Sigma Capital (ASC) is a founder-led quantitative research firm specializing in Vietnam’s listed equity market. We design systematic, factor-based research frameworks and apply documented process standards to the local data, trading, and legal context.",
                 "ASC’s role is to build the investment engine for Vietnamese equity portfolios. We collect, clean, and organize market and corporate data; systematize signals on valuation, quality, and price trends; and then transform them into clear rules — determining which stocks to hold, at what weights, and when to adjust. Every investment in the portfolio can be traced back to this methodological framework.",
-                "ASC does not directly manage client accounts or distribute investment products. Our strategies are implemented through licensed partners responsible for client onboarding, suitability assessment, trade execution, and reporting. This segregated model ensures that the interests of all parties are aligned, clients are served by entities with full legal standing, while ASC focuses entirely on research, portfolio design, and risk analysis — while investing the firm’s own capital according to the same strategy.",
+                "ASC does not directly manage client accounts or distribute investment products. Licensed partners handle onboarding, suitability, execution, reporting, and regulated client-facing work where applicable. ASC focuses on research, model design, risk oversight, and partner coordination.",
             ],
             factSheet: {
                 title: "Fact Sheet",
@@ -370,32 +369,20 @@ export const i18n = {
             bioDetails: [
                 {
                     name: "Duc (Huy) Nguyen",
-                    title: "Co-Founder, Chairman & Chief Investment Officer",
+                    title: "Founder & CEO",
                     body: [
-                        "Duc is the founding architect of Aureus Sigma Capital’s systematic Vietnamese equity strategies. As CIO, he sets ASC’s investment philosophy and research agenda, leading the research, design and development of the firm’s quantitative models, backtesting framework, portfolio construction and risk systems across current and future strategies.",
+                        "Duc is the founding architect of Aureus Sigma Capital’s systematic Vietnamese equity research. He leads ASC’s research, model design, risk oversight, and partner coordination.",
                         "His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation frameworks through multiple cycles.",
-                        "At ASC, Duc brings this market, banking and advisory experience together with a systematic discipline, acting as the firm’s chief strategist and head of research. He is responsible for model development and governance, performance and risk oversight, and the ongoing evolution of ASC’s factor-based platform for institutional investors in Vietnam.",
-                    ],
-                },
-                {
-                    name: "Minh Mai, CFA",
-                    title: "Co-Founder & Chief Executive Officer",
-                    body: [
-                        "Minh leads ASC’s execution, operations, and client delivery. As CEO, he is responsible for turning ASC’s research framework into live portfolios: overseeing trading workflows, broker relationships, operational risk controls, and day-to-day portfolio monitoring, and working with licensed managers to embed ASC strategies into regulated mandates and products.",
-                        "Before co-founding ASC, Minh was Head of Research at Fujiwara Capital, a global macro hedge fund, where he led investment research across macro themes and systematic trading ideas. Prior to that, he served as Research Lead at Vietbridge Capital, focusing on fundamental and quantitative research on Vietnamese assets. Minh is a CFA charterholder and a graduate of ESCP Europe, bringing an international macro and multi-asset perspective to ASC’s Vietnam-focused, factor-based strategies.",
-                        "At ASC, Minh ensures that the rules designed by the CIO are implemented cleanly, efficiently, and transparently in live portfolios, and that clients and partners receive clear, data-driven communication on how the strategies behave through different market environments.",
+                        "ASC is founder-led. Duc keeps the firm focused on documented rules, local data quality, and clear risk controls while licensed partners handle regulated client-facing work where applicable.",
                     ],
                 },
             ],
             teamTitle: "Leadership",
         },
         team: {
-            founder: "Duc (Huy) Nguyen — Co-Founder, Chairman & Chief Investment Officer",
+            founder: "Duc (Huy) Nguyen — Founder & CEO",
             founderBio:
-                "Co-Founder and CIO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on systematic, factor-based Vietnamese equity strategies and institutional-grade risk management.",
-            cofounder: "Minh Mai, CFA — Co-Founder & Chief Executive Officer",
-            cofounderBio:
-                "Leads ASC’s trading, operations, and client delivery. Former Head of Research at Fujiwara Capital (global macro hedge fund) and Research Lead at Vietbridge Capital. CFA charterholder and ESCP Europe graduate, responsible for implementing ASC’s systematic Vietnamese equity framework in live portfolios and coordinating with licensed managers on mandates and reporting.",
+                "Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on systematic, factor-based Vietnamese equity research and risk-aware process design.",
         },
         contact: {
             title: "Contact",
@@ -436,7 +423,7 @@ export const i18n = {
             whyAsc: "Tại sao chọn ASC",
             title: "Đầu Tư Hệ Thống tại Việt Nam",
             subtitle:
-                "Aureus Sigma Capital (ASC) thiết kế các danh mục đầu tư minh bạch, dựa trên tiêu chí cụ thể (factor-based) tại thị trường cổ phiếu Việt Nam, hướng tới lợi nhuận dài hạn hấp dẫn, đã điều chỉnh theo rủi ro, với cơ chế kiểm soát sụt giảm rõ ràng. Thông qua các đối tác được cấp phép của ASC, nhà đầu tư tổ chức và chuyên nghiệp có thể tiếp cận các chiến lược dựa trên quy tắc này trong các ủy thác và sản phẩm tuân thủ quy định.",
+                "Aureus Sigma Capital (ASC) thiết kế các khung nghiên cứu rõ ràng, dựa trên tiêu chí cụ thể (factor-based) cho thị trường cổ phiếu Việt Nam. Thông qua các đối tác được cấp phép của ASC, nhà đầu tư tổ chức và chuyên nghiệp có thể tiếp cận các chiến lược dựa trên quy tắc trong các ủy thác và sản phẩm tuân thủ quy định khi phù hợp.",
             ctas: [
                 { label: "Tìm hiểu hợp tác với đối tác được cấp phép", to: "/partnerships" },
                 { label: "Khám phá khung đầu tư", to: "/what-we-do" },
@@ -536,7 +523,7 @@ export const i18n = {
                 title: "Lợi thế của chúng tôi tại Việt Nam",
                 bullets: [
                     "Chuyên sâu vào cổ phiếu Việt Nam, được tinh chỉnh phù hợp với dữ liệu, thanh khoản và khung pháp lý trong nước.",
-                    "Các nhân tố đầu tư minh bạch (giá trị, chất lượng, động lượng) thay vì mô hình \"hộp đen\" khó kiểm chứng.",
+                    "Các nhân tố đầu tư rõ ràng (giá trị, chất lượng, động lượng) thay vì mô hình \"hộp đen\" khó kiểm chứng.",
                     "Cơ chế kiểm soát rủi ro và giới hạn mức lỗ được thiết kế riêng cho đặc thù biến động của thị trường mới nổi.",
                     "Triển khai qua các đối tác được cấp phép, đảm bảo tùy chỉnh danh mục, báo cáo và tối ưu thuế.",
                 ],
@@ -549,7 +536,7 @@ export const i18n = {
                     "Vận hành theo quy trình rõ ràng để nhà đầu tư có thể theo dõi, đánh giá và đặt câu hỏi.",
                 ],
                 disclaimer:
-                    "Chúng tôi không cam kết vượt trội trong mọi giai đoạn hay tránh hoàn toàn các đợt giảm của thị trường. Việt Nam là thị trường có biến động cao và đầu tư cổ phiếu luôn tiềm ẩn rủi ro mất vốn. Điều chúng tôi cam kết là một khung đầu tư có kỷ luật, minh bạch — nơi quản trị rủi ro và kiểm soát mức sụt giảm được đặt làm nguyên tắc cốt lõi ngay từ đầu, chứ không chỉ là lời nói suông.",
+                    "Chúng tôi không cam kết vượt trội trong mọi giai đoạn hay tránh hoàn toàn các đợt giảm của thị trường. Việt Nam là thị trường có biến động cao và đầu tư cổ phiếu luôn tiềm ẩn rủi ro mất vốn. Điều chúng tôi cam kết là một khung đầu tư có kỷ luật, rõ ràng — nơi quản trị rủi ro và kiểm soát mức sụt giảm được đặt làm nguyên tắc cốt lõi ngay từ đầu, chứ không chỉ là lời nói suông.",
             },
             performance: {
                 title: "Phân tích Hiệu quả & Rủi ro",
@@ -583,7 +570,7 @@ export const i18n = {
         },
         solutions: {
             title: "Giải pháp cho Khách hàng",
-            intro: "Ủy thác đầu tư được thiết kế riêng và báo cáo minh bạch dành cho các nhà đầu tư tổ chức.",
+            intro: "Ủy thác đầu tư được thiết kế riêng và báo cáo rõ ràng dành cho các nhà đầu tư tổ chức.",
         },
         partnerships: {
             intro:
@@ -637,7 +624,7 @@ export const i18n = {
                 {
                     title: "Quản lý Gia sản",
                     body:
-                        "Dành cho các cá nhân và gia đình có tiềm lực tài chính, phương pháp đầu tư dựa trên quy tắc của chúng tôi mang đến sự bổ sung minh bạch cho các khoản phân bổ cổ phiếu Việt Nam theo phong cách quản lý chủ động (active management), với quy trình và cơ chế kiểm soát rủi ro được văn bản hoá.",
+                        "Dành cho các cá nhân và gia đình có tiềm lực tài chính, phương pháp đầu tư dựa trên quy tắc của chúng tôi mang đến sự bổ sung rõ ràng cho các khoản phân bổ cổ phiếu Việt Nam theo phong cách quản lý chủ động (active management), với quy trình và cơ chế kiểm soát rủi ro được văn bản hoá.",
                 },
             ],
             mandateTitle: "Các tham số thiết kế ủy thác",
@@ -651,7 +638,7 @@ export const i18n = {
             ],
             mandateNote:
                 "Quy mô đầu tư tối thiểu, cơ cấu phí và điều khoản thanh khoản được xác định ở cấp sản phẩm hoặc ủy thác bởi các nhà quản lý được cấp phép. ASC phối hợp với các đối tác để đảm bảo việc xây dựng danh mục và báo cáo phù hợp với các mục tiêu rủi ro và lợi nhuận đã thống nhất.",
-            reportingTitle: "Báo cáo và Minh bạch",
+            reportingTitle: "Báo cáo và rõ ràng",
             reportingBody:
                 "Khách hàng tổ chức nhận các báo cáo về hiệu suất, rủi ro, nhân tố và danh mục nắm giữ từ nhà quản lý được cấp phép. ASC hỗ trợ quá trình này bằng cách cung cấp phân tích, chẩn đoán và bình luận về hành vi chiến lược, đặc biệt trong các giai đoạn thị trường biến động mạnh.",
         },
@@ -669,7 +656,7 @@ export const i18n = {
                     title: "FIDES và Aureus Sigma Capital ký Biên bản ghi nhớ (MOU)",
                     slug: "fides-aureus-sigma-capital-strategic-partnership",
                     summary:
-                        "FIDES Việt Nam và ASC ký MOU tại văn phòng FIDES ở TP. Hồ Chí Minh ngày 19/12/2025 nhằm hợp tác trong thực hiện ủy thác đầu tư, phát triển sản phẩm và nghiên cứu phân tích trong khuôn khổ pháp luật hiện hành.",
+                        "FIDES Việt Nam và ASC ký MOU tại văn phòng FIDES ở TP. HCM ngày 19/12/2025 nhằm hợp tác trong thực hiện ủy thác đầu tư, phát triển sản phẩm và nghiên cứu phân tích trong khuôn khổ pháp luật hiện hành.",
                     icon: "handshake",
                     image: "/assets/others/fides-asc-mou-document-exchange-16x9.jpg",
                 },
@@ -700,9 +687,9 @@ export const i18n = {
             intro:
                 "Độc lập. Hệ thống hóa. Chuyên biệt cho Việt Nam.",
             details: [
-                "Aureus Sigma Capital (ASC) là công ty đầu tư định lượng độc lập, do chính nhà sáng lập sở hữu, chuyên sâu vào thị trường cổ phiếu niêm yết tại Việt Nam. Chúng tôi thiết kế và vận hành các chiến lược đầu tư hệ thống dựa trên nhân tố (factor-based), áp dụng chuẩn mực quản lý quỹ quốc tế vào bối cảnh dữ liệu, giao dịch và pháp lý trong nước.",
+                "Aureus Sigma Capital (ASC) là công ty nghiên cứu định lượng do nhà sáng lập dẫn dắt, chuyên sâu vào thị trường cổ phiếu niêm yết tại Việt Nam. Chúng tôi thiết kế các khung nghiên cứu đầu tư hệ thống dựa trên nhân tố (factor-based), áp dụng quy trình được văn bản hóa vào bối cảnh dữ liệu, giao dịch và pháp lý trong nước.",
                 "Vai trò của ASC là xây dựng bộ máy đầu tư cho các danh mục cổ phiếu Việt Nam. Chúng tôi thu thập, làm sạch và tổ chức dữ liệu thị trường cùng dữ liệu doanh nghiệp; hệ thống hóa các tín hiệu về định giá, chất lượng và xu hướng giá; rồi chuyển hóa thành các quy tắc rõ ràng — xác định nên nắm giữ cổ phiếu nào, với tỷ trọng bao nhiêu, và điều chỉnh vào thời điểm nào. Mỗi khoản đầu tư trong danh mục đều có thể truy ngược về khung phương pháp luận này.",
-                "ASC không trực tiếp quản lý tài khoản khách hàng hay phân phối sản phẩm đầu tư. Các chiến lược của chúng tôi được triển khai thông qua đối tác được cấp phép, chịu trách nhiệm tiếp nhận khách hàng, đánh giá phù hợp, thực thi giao dịch và báo cáo. Mô hình phân tách này giúp đảm bảo lợi ích các bên luôn đồng nhất, khách hàng được phục vụ bởi đơn vị có đầy đủ tư cách pháp lý, còn ASC tập trung toàn lực vào nghiên cứu, thiết kế danh mục và phân tích rủi ro — đồng thời đầu tư vốn tự có của công ty theo đúng chiến lược đó.",
+                "ASC không trực tiếp quản lý tài khoản khách hàng hay phân phối sản phẩm đầu tư. Đối tác được cấp phép xử lý việc tiếp nhận khách hàng, đánh giá phù hợp, thực thi giao dịch, báo cáo và các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng. ASC tập trung vào nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với đối tác.",
             ],
             factSheet: {
                 title: "Thông tin tổng quan",
@@ -720,32 +707,20 @@ export const i18n = {
             bioDetails: [
                 {
                     name: "Nguyễn Huy Đức",
-                    title: "Đồng sáng lập, Chủ tịch & Giám đốc Đầu tư (CIO)",
+                    title: "Nhà sáng lập kiêm Tổng Giám đốc",
                     body: [
-                        "Ông Đức là người sáng lập và xây dựng các chiến lược đầu tư hệ thống vào cổ phiếu Việt Nam của Aureus Sigma Capital. Với vai trò CIO, ông định hướng triết lý đầu tư và chương trình nghiên cứu của ASC, dẫn dắt công tác nghiên cứu, thiết kế và phát triển các mô hình định lượng, quy trình kiểm chứng lịch sử (backtesting), phương pháp xây dựng danh mục và hệ thống quản trị rủi ro cho các chiến lược hiện tại và trong tương lai.",
+                        "Ông Đức là người sáng lập và xây dựng hoạt động nghiên cứu đầu tư hệ thống vào cổ phiếu Việt Nam của Aureus Sigma Capital. Ông dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với các đối tác của ASC.",
                         "Sự nghiệp của ông gắn bó với thị trường vốn Việt Nam hơn hai mươi năm, trải qua các vị trí lãnh đạo cấp cao như Tổng Giám đốc Techcom Capital, Tổng Giám đốc Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông phụ trách mảng tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó đảm nhiệm vị trí Giám đốc Tài chính tập đoàn kiêm Trưởng bộ phận Đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, ứng dụng các mô hình định lượng, phân tích kịch bản và khung phân bổ vốn kỷ luật qua nhiều chu kỳ thị trường.",
-                        "Tại ASC, ông Đức kết hợp kinh nghiệm sâu rộng về thị trường, ngân hàng và tư vấn với tư duy hệ thống hóa, đảm nhiệm vai trò chiến lược gia trưởng và trưởng bộ phận nghiên cứu. Ông chịu trách nhiệm phát triển mô hình và quản trị quy trình, giám sát hiệu suất và rủi ro, đồng thời thúc đẩy sự phát triển liên tục của nền tảng đầu tư dựa trên nhân tố của ASC dành cho các nhà đầu tư tổ chức tại Việt Nam.",
-                    ],
-                },
-                {
-                    name: "Mai Đức Minh, CFA",
-                    title: "Đồng sáng lập & Giám đốc Điều hành (CEO)",
-                    body: [
-                        "Ông Minh phụ trách công tác thực thi, vận hành và phục vụ khách hàng tại ASC. Với vai trò CEO, ông chịu trách nhiệm chuyển hóa khung nghiên cứu của ASC thành các danh mục đầu tư thực tế: giám sát quy trình giao dịch, quan hệ với công ty chứng khoán, kiểm soát rủi ro vận hành, theo dõi danh mục hàng ngày, đồng thời phối hợp với các nhà quản lý được cấp phép để triển khai chiến lược ASC trong các ủy thác và sản phẩm đầu tư.",
-                        "Trước khi đồng sáng lập ASC, ông Minh giữ vị trí Trưởng bộ phận Nghiên cứu tại Fujiwara Capital — một quỹ phòng hộ vĩ mô toàn cầu, nơi ông dẫn dắt nghiên cứu đầu tư theo các chủ đề kinh tế vĩ mô và chiến lược giao dịch có hệ thống. Trước đó, ông là Trưởng nhóm Nghiên cứu tại Vietbridge Capital, tập trung vào phân tích cơ bản và định lượng cho các tài sản Việt Nam. Ông Minh là người nắm giữ chứng chỉ CFA và tốt nghiệp ESCP Europe, mang đến góc nhìn vĩ mô quốc tế và đa tài sản cho các chiến lược đầu tư nhân tố chuyên biệt tại Việt Nam của ASC.",
-                        "Tại ASC, ông Minh đảm bảo các quy tắc do CIO thiết kế được triển khai chính xác, hiệu quả và minh bạch trong danh mục thực tế, đồng thời đảm bảo khách hàng và đối tác nhận được thông tin rõ ràng, có căn cứ dữ liệu về cách các chiến lược vận hành trong từng điều kiện thị trường.",
+                        "ASC là công ty do nhà sáng lập dẫn dắt. Ông Đức giữ trọng tâm của công ty vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép xử lý các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng.",
                     ],
                 },
             ],
             teamTitle: "Ban Lãnh đạo",
         },
         team: {
-            founder: "Nguyễn Huy Đức — Đồng sáng lập, Chủ tịch & Giám đốc Đầu tư (CIO)",
+            founder: "Nguyễn Huy Đức — Nhà sáng lập kiêm Tổng Giám đốc",
             founderBio:
-                "Kiến trúc sư sáng lập các chiến lược cổ phiếu Việt Nam hệ thống của ASC. Cựu CEO Techcom Capital và Giám đốc Khối Ngân hàng Đầu tư tại Techcom Securities; nguyên CFO Ngân hàng Phương Đông (OCB). Với hơn 20 năm kinh nghiệm dẫn dắt tại thị trường vốn Việt Nam, ông chịu trách nhiệm phát triển mô hình định lượng và quản trị rủi ro cấp tổ chức.",
-            cofounder: "Mai Đức Minh, CFA — Đồng sáng lập & Giám đốc Điều hành (CEO)",
-            cofounderBio:
-                "CFA. Dẫn dắt hoạt động thực thi, vận hành và chuyển giao cho khách hàng của ASC. Cựu Trưởng bộ phận Nghiên cứu tại Fujiwara Capital (quỹ phòng hộ vĩ mô toàn cầu) và Trưởng nhóm Nghiên cứu tại Vietbridge Capital. Tốt nghiệp ESCP Europe. Ông chịu trách nhiệm triển khai khung hệ thống vào danh mục thực tế và phối hợp với các đối tác được cấp phép của ASC.",
+                "Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Giám đốc Khối Ngân hàng Đầu tư tại Techcom Securities; nguyên CFO Ngân hàng Phương Đông (OCB). Với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam, ông tập trung vào nghiên cứu định lượng, thiết kế quy trình và quản trị rủi ro.",
         },
         contact: {
             title: "Liên hệ",
@@ -778,22 +753,12 @@ export const INSIGHTS_CONTENT = {
     "fides-aureus-sigma-capital-strategic-partnership": {
         en: {
             title: "FIDES and Aureus Sigma Capital Sign Memorandum of Understanding (MOU)",
-            dateLine: "Ho Chi Minh City (FIDES Office), Vietnam – December 19, 2025",
-            heroImage: {
-                src: "/assets/others/fides-asc-mou-team-16x9.jpg",
-                alt: "FIDES and ASC team photo at the MOU signing.",
-                caption: "FIDES and ASC team at the MOU signing.",
-            },
+            dateLine: "HCMC (FIDES Office), Vietnam – December 19, 2025",
             body: parseMarkdown(fidesPilotEnMd),
         },
         vi: {
             title: "FIDES và Aureus Sigma Capital ký Biên bản ghi nhớ (MOU)",
-            dateLine: "TP. Hồ Chí Minh (văn phòng FIDES) – Ngày 19 tháng 12 năm 2025",
-            heroImage: {
-                src: "/assets/others/fides-asc-mou-team-16x9.jpg",
-                alt: "Ảnh tập thể FIDES và ASC tại lễ ký MOU.",
-                caption: "FIDES và ASC chụp ảnh tập thể tại lễ ký MOU.",
-            },
+            dateLine: "TP. HCM (văn phòng FIDES) – Ngày 19 tháng 12 năm 2025",
             body: parseMarkdown(fidesPilotViMd),
         },
     },
@@ -801,12 +766,12 @@ export const INSIGHTS_CONTENT = {
     // "fides-aureus-sigma-capital-strategic-partnership": {
     //     en: {
     //         title: "FIDES and Aureus Sigma Capital Sign Partnership to Develop Systematic Strategies for Vietnam",
-    //         dateLine: "Ho Chi Minh City, Vietnam – [Q1 2026 Date]",
+    //         dateLine: "HCMC, Vietnam – [Q1 2026 Date]",
     //         body: parseMarkdown(fidesEnMd),
     //     },
     //     vi: {
     //         title: "FIDES và Aureus Sigma Capital ký kết hợp tác phát triển chiến lược hệ thống cho Việt Nam",
-    //         dateLine: "TP. Hồ Chí Minh – [Ngày Q1 2026]",
+    //         dateLine: "TP. HCM – [Ngày Q1 2026]",
     //         body: parseMarkdown(fidesViMd),
     //     },
     // },

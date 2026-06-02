@@ -58,7 +58,7 @@ In practice, our investment discipline combines research, rules and monitoring:
 - **Research-driven signals** – We use Vietnamese company and market data to build systematic signals around factors such as value, quality and momentum. These are implemented through transparent rules rather than ad hoc judgement.
 - **Portfolio construction rules** – The portfolio is assembled to balance expected return, diversification and liquidity. Stronger profiles receive larger but controlled allocations; weaker names receive smaller weights or are excluded.
 - **Risk and drawdown ranges** – For each mandate, we define ranges of capital fluctuation that we consider acceptable, relative to the market and the strategy’s objectives. If conditions move beyond those ranges, the framework can call for reduced risk, for example by trimming exposures or tilting towards more resilient exposures.
-- **Ongoing diagnostics** – We track how the portfolio behaves in different environments and compare realised outcomes with expectations. When we refine the framework, changes are tested across history before they are introduced into live portfolios.
+- **Ongoing diagnostics** – We track how the portfolio behaves in different environments and compare realised outcomes with expectations. When we refine the framework, changes are tested across history before they are introduced into tracked strategies.
 
 This structure does not remove judgement. It channels judgement into how the framework is designed and maintained, rather than into day-to-day stock picking.
 

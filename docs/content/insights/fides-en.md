@@ -24,7 +24,7 @@ Clients contract directly with FIDES or another licensed manager. That entity is
 
 ## 3. Who is Aureus Sigma Capital?
 
-Aureus Sigma Capital is an independent, founder-owned quantitative investment firm focused exclusively on Vietnam’s equity market. We design and maintain systematic strategies that apply global institutional standards to local Vietnamese data, trading and regulation.
+Aureus Sigma Capital is a founder-led quantitative research firm focused exclusively on Vietnam’s equity market. We design and maintain systematic research frameworks that apply documented process standards to local Vietnamese data, trading and regulation.
 
 ASC specialises in:
 
@@ -32,7 +32,7 @@ ASC specialises in:
 - designing **portfolio construction and risk management frameworks** tailored to the realities of Vietnam’s market, and
 - providing **research, analytics and ongoing enhancements** to the strategies used by licensed managers.
 
-ASC does not manage client accounts or distribute products. Instead, we act as the quantitative research partner to licensed investment managers such as FIDES. Our own capital is invested alongside that of investors who access the strategy through these partners.
+ASC does not manage client accounts or distribute products. Instead, we act as the quantitative research partner to licensed investment managers such as FIDES. Licensed partners handle onboarding, suitability, execution, reporting, and regulated client-facing work where applicable.
 
 ---
 
@@ -66,7 +66,7 @@ The partnership between FIDES and ASC combines complementary strengths:
 
 - **Institutional-quality research, local focus** – ASC brings a specialised systematic framework built specifically for Vietnamese equities, using factor concepts that are familiar to global allocators but calibrated to local realities.
 - **Regulated implementation and client service** – FIDES provides the licensing, infrastructure and client-facing capabilities required to turn that framework into practical investment products for eligible investors.
-- **Aligned incentives** – ASC is an independent, founder-owned firm that invests its own capital alongside external investors. FIDES is responsible for product-level decisions, while ASC remains focused on research quality and risk management.
+- **Clear responsibilities** – ASC remains focused on research quality and risk management. FIDES is responsible for product-level decisions under its regulated role.
 - **Clear governance** – The separation between research and implementation helps clarify who is responsible for strategy design, portfolio management and regulatory compliance.
 
 For investors, this means they can access a systematic Vietnam equity strategy through a regulated manager, with transparency into both the underlying process and the operating structure.

@@ -1,4 +1,4 @@
-Ngày 19 tháng 12 năm 2025, Công ty Cổ phần Quản lý Quỹ FIDES (Việt Nam) ("FIDES Việt Nam") và Công ty Cổ phần Aureus Sigma Capital ("ASC") đã ký kết Biên bản ghi nhớ (MOU) tại văn phòng FIDES ở TP. Hồ Chí Minh. MOU thiết lập khuôn khổ hợp tác trong các lĩnh vực thực hiện ủy thác đầu tư, phát triển sản phẩm và nghiên cứu phân tích trong phạm vi pháp luật hiện hành.
+Ngày 19 tháng 12 năm 2025, Công ty Cổ phần Quản lý Quỹ FIDES (Việt Nam) ("FIDES Việt Nam") và Công ty Cổ phần Aureus Sigma Capital ("ASC") đã ký kết Biên bản ghi nhớ (MOU) tại văn phòng FIDES ở TP. HCM. MOU thiết lập khuôn khổ hợp tác trong các lĩnh vực thực hiện ủy thác đầu tư, phát triển sản phẩm và nghiên cứu phân tích trong phạm vi pháp luật hiện hành.
 
 FIDES Việt Nam là công ty quản lý tài sản có trụ sở tại Việt Nam với các nghiệp vụ chính như: quản lý quỹ, quản lý danh mục đầu tư và tư vấn đầu tư chứng khoán. FIDES Việt Nam hiện đang quản lý danh mục đầu tư của các khách hàng tổ chức, cá nhân và các quỹ đại chúng đầu tư vào thị trường chứng khoán, thị trường vốn tại Việt Nam.
 
