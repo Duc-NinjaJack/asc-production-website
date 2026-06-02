@@ -2,14 +2,14 @@
 
 ## 1. Hero
 
-- **Headline:** Alpha Hệ thống tại Việt Nam
-- **Subheadline:** Aureus Sigma Capital (ASC) thiết kế các khung nghiên cứu rõ ràng, dựa trên nhân tố (factor-based) cho thị trường chứng khoán Việt Nam. Thông qua các đối tác được cấp phép của ASC, nhà đầu tư tổ chức có thể tiếp cận các chiến lược dựa trên quy tắc trong các sản phẩm và ủy thác tuân thủ quy định khi phù hợp.
-- **Primary CTA:** Tìm hiểu hợp tác với đối tác được cấp phép (links to `/partnerships`)
-- **Secondary CTA:** Khám phá khung đầu tư (links to `/what-we-do`)
+- **Headline:** Hệ thống đầu tư cho thị trường vốn Việt Nam.
+- **Subheadline:** Aureus Sigma Capital xây dựng hạ tầng nghiên cứu, xây dựng danh mục, giao dịch, thực thi và kiểm soát rủi ro dựa trên bằng chứng thị trường để hỗ trợ phân bổ vốn có kỷ luật.
+- **Primary CTA:** Khám phá khung đầu tư (links to `/what-we-do`)
+- **Secondary CTA:** Liên hệ tổ chức (links to `/contact`)
 - **Highlights:**
   1. **Kỷ luật hệ thống cấp tổ chức** – Quyết định dựa trên dữ liệu, nghiên cứu văn bản hóa và quy tắc lặp lại.
-  2. **Đầu tư nhân tố tại Việt Nam** – Danh mục nghiêng về các nhân tố giá trị, chất lượng và động lượng trong nhóm cổ phiếu thanh khoản.
-  3. **Khung kiểm soát drawdown rõ ràng** – Mục tiêu tăng trưởng dài hạn đi kèm với các quy tắc phòng vệ cho các giai đoạn căng thẳng.
+  2. **Hệ thống danh mục** – Quy tắc tỷ trọng, tái cân bằng, kiểm soát phơi nhiễm và thiết kế phù hợp thực thi.
+  3. **Quản trị rủi ro** – Kiểm soát sụt giảm, thanh khoản, suy giảm mô hình và ranh giới vai trò trong quy trình.
 
 ---
 
@@ -17,19 +17,19 @@
 
 Aureus Sigma Capital (ASC) là một công ty đầu tư định lượng độc lập do nhà sáng lập sở hữu, tập trung vào cổ phiếu niêm yết tại Việt Nam. Chúng tôi thiết kế và duy trì các chiến lược hệ thống dựa trên nhân tố, áp dụng tiêu chuẩn tổ chức toàn cầu cho dữ liệu, giao dịch và quy định địa phương.
 
-Vai trò của chúng tôi là xây dựng động cơ đầu tư đứng sau các danh mục cổ phiếu Việt Nam. Chúng tôi làm sạch và tổ chức dữ liệu thị trường và doanh nghiệp, mã hóa các hiểu biết về giá trị, chất lượng và động lượng, chuyển hóa thành các quy tắc xác định mua gì, mua bao nhiêu và khi nào điều chỉnh. Mọi vị thế trong danh mục đều có thể truy xuất ngược lại khung được văn bản hóa này.
+Vai trò của chúng tôi là chuyển bằng chứng thị trường thành các hệ thống ra quyết định đầu tư có quản trị. Chúng tôi làm sạch và tổ chức dữ liệu, xây dựng động cơ nghiên cứu về nhân tố, cơ bản, hợp đồng tương lai và cấu trúc thị trường, rồi chuyển đầu ra mô hình thành quy tắc danh mục và rủi ro có thể rà soát.
 
-ASC không trực tiếp quản lý tài khoản khách hàng hoặc phân phối sản phẩm. Các chiến lược của chúng tôi được triển khai độc quyền bởi các đối tác được cấp phép của ASC, những đơn vị xử lý việc tiếp nhận khách hàng, đánh giá phù hợp, thực thi và báo cáo. Sự phân tách này giữ lợi ích đồng hướng, cho phép khách hàng làm việc với các đối tác được cấp phép, đồng thời giúp ASC tập trung vào nghiên cứu, thiết kế danh mục và phân tích rủi ro, trong khi vẫn đầu tư vốn của chính công ty vào cùng các chiến lược.
+ASC không trực tiếp quản lý tài khoản khách hàng hoặc phân phối sản phẩm. Đối tác được cấp phép xử lý tiếp nhận khách hàng, đánh giá phù hợp, thực thi, báo cáo và các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng. ASC tập trung vào nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với đối tác.
 
 ### 2.1 Tiểu sử lãnh đạo
 
 **Duc (Huy) Nguyen – Nhà sáng lập kiêm Tổng Giám đốc**
-Duc dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với đối tác cho hoạt động nghiên cứu cổ phiếu Việt Nam hệ thống của ASC. Ông có hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.
+Duc dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với đối tác cho các hệ thống đầu tư của ASC. Ông có hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.
 Trong vai trò CEO Techcom Capital và Managing Director Techcom Securities, Duc góp phần xây dựng nền tảng quản lý đầu tư và chứng khoán của Techcombank với trọng tâm đầu tư thị trường niêm yết và khách hàng tổ chức. Trước đó, với vai trò Executive Director kiêm Head of Corporate Finance Advisory and Financial Advisory Services tại Deloitte Vietnam, ông đã dẫn dắt hơn 1 tỷ USD các thương vụ đầu tư, huy động vốn và M&A trong các lĩnh vực ngân hàng, bất động sản và tiêu dùng, trước khi đảm nhiệm các vị trí lãnh đạo tài chính và đầu tư tại các tập đoàn đầu tư và bất động sản khu vực, phụ trách phân bổ vốn và quản trị rủi ro thị trường.
 Tại ASC, Duc giữ trọng tâm của công ty vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép xử lý các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng.
 
 **Phiên bản thẻ ngắn (thẻ giới thiệu trang About)**  
-Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Managing Director Techcom Securities, từng giữ các vai trò lãnh đạo tại Deloitte Vietnam và các tập đoàn đầu tư khu vực. Có hơn 20 năm kinh nghiệm thị trường vốn Việt Nam, tập trung vào nghiên cứu định lượng, thiết kế quy trình và quản trị rủi ro.
+Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Managing Director Techcom Securities, từng giữ các vai trò lãnh đạo tại Deloitte Vietnam và các tập đoàn đầu tư khu vực. Có hơn 20 năm kinh nghiệm thị trường vốn Việt Nam, tập trung vào hệ thống đầu tư và thiết kế quy trình có ý thức rủi ro.
 
 ---
 

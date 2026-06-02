@@ -16,6 +16,29 @@ import RiskBands from "../components/RiskBands";
 import EdgeSection from "../components/EdgeSection";
 import Expectations from "../components/Expectations";
 import PerformanceSection from "../components/PerformanceSection";
+import { ICON_MAP } from "../data/content";
+
+function SystemsSection({ title, intro, items = [] }) {
+    return (
+        <div className="space-y-6">
+            <SectionTitle icon={BookOpen} title={title} subtitle={intro} />
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+                {items.map((item) => {
+                    const Icon = ICON_MAP[item.icon] || BookOpen;
+                    return (
+                        <div key={item.title} className="border border-slate-200 rounded-lg bg-white p-6 shadow-sm hover:border-[#D4AF37]/50 hover:shadow-md transition-all duration-300">
+                            <div className="flex items-start justify-between gap-4 mb-4">
+                                <h3 className="text-base font-serif font-semibold text-slate-900">{item.title}</h3>
+                                <Icon className="h-5 w-5 text-[#D4AF37] shrink-0" />
+                            </div>
+                            <p className="text-sm text-slate-600 leading-relaxed">{item.body}</p>
+                        </div>
+                    );
+                })}
+            </div>
+        </div>
+    );
+}
 
 export default function WhatWeDoPage({ t }) {
     const mainBlocks = t.whatWeDo.blocks.slice(0, 3);
@@ -34,6 +57,12 @@ export default function WhatWeDoPage({ t }) {
                 parentSection="Our Approach"
             />
             <div className="mx-auto max-w-6xl px-6 space-y-16 pb-24">
+                {Array.isArray(t.whatWeDo.capabilities) && (
+                    <SystemsSection title={t.whatWeDo.capabilitiesTitle} intro={t.whatWeDo.capabilitiesIntro} items={t.whatWeDo.capabilities} />
+                )}
+                {Array.isArray(t.whatWeDo.strategyFamilies) && (
+                    <SystemsSection title={t.whatWeDo.strategyFamiliesTitle} intro={t.whatWeDo.strategyFamiliesIntro} items={t.whatWeDo.strategyFamilies} />
+                )}
                 {Array.isArray(t.whatWeDo.principles) && (
                     <div className="grid gap-4 md:grid-cols-2">
                         {t.whatWeDo.principles.map((principle, idx) => {

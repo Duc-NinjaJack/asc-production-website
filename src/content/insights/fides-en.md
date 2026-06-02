@@ -1,4 +1,4 @@
-FIDES, a licensed investment manager with Korean roots operating in Vietnam, and Aureus Sigma Capital, a Vietnam-based investment firm focused on rules-based strategies for Vietnamese equities, have signed a strategic memorandum of understanding.
+FIDES, a licensed investment manager with Korean roots operating in Vietnam, and Aureus Sigma Capital, a Vietnam-based firm building systematic investment systems, have signed a strategic memorandum of understanding.
 
 Vietnam’s stock market has grown rapidly, yet many portfolios are still managed using short-term opinions. Both firms see an opportunity to deliver disciplined, rules-based exposure while keeping investor protection and compliance at the center of the process.
 
