@@ -1,13 +1,11 @@
-FIDES (đơn vị quản lý quỹ có gốc Hàn Quốc tại Việt Nam) và Aureus Sigma Capital đã ký biên bản ghi nhớ hợp tác chiến lược nhằm triển khai chiến lược dựa trên quy tắc cho thị trường cổ phiếu Việt Nam.
+# Ghi chu hop tac FIDES
 
-Thị trường Việt Nam tăng trưởng nhanh nhưng nhiều danh mục vẫn phụ thuộc cảm tính và quyết định ngắn hạn. Hai bên cùng theo đuổi phương pháp kỷ luật, rõ ràng và chú trọng bảo vệ nhà đầu tư.
+FIDES, don vi quan ly quy duoc cap phep tai Viet Nam, va Aureus Sigma Capital, cong ty giao dich va dau tu he thong tap trung vao thi truong von Viet Nam, da ky bien ban ghi nho hop tac chien luoc.
 
-ASC thiết kế, kiểm định và duy trì bộ quy tắc xây dựng danh mục cũng như khung quản trị rủi ro, kết hợp dữ liệu thị trường và thông tin doanh nghiệp.
+ASC thiet ke, kiem dinh va duy tri he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro. Quy trinh nghien cuu ket hop du lieu thi truong, thong tin doanh nghiep, rang buoc giao dich va cac gioi han da van ban hoa.
 
-FIDES phụ trách triển khai sản phẩm sử dụng chiến lược của ASC: tiếp nhận khách hàng, thực thi danh mục, giám sát và báo cáo theo quy định tại Việt Nam.
+FIDES chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, thuc thi, bao cao va nghia vu tiep xuc khach hang trong pham vi giay phep.
 
-Theo khuôn khổ hợp tác, ASC cung cấp quy trình, cập nhật nghiên cứu và giám sát rủi ro; FIDES quyết định cách triển khai trong phạm vi giấy phép. ASC không trực tiếp cung cấp sản phẩm cho công chúng và không quản lý tiền của khách hàng.
+Theo khuon kho hop tac, ASC co the cung cap quy trinh, cap nhat nghien cuu, chan doan va giam sat rui ro. FIDES quyet dinh cach trien khai trong pham vi giay phep. ASC khong truc tiep cung cap san pham cho cong chung va khong quan ly tien cua khach hang thong qua website nay.
 
-Hai bên dự kiến mở rộng thêm các hướng đi hệ thống tại Việt Nam với nguyên tắc xuyên suốt: quy trình rõ ràng và ưu tiên quản trị rủi ro.
-
-Thông tin quan trọng: Tài liệu này chỉ nhằm mục đích cung cấp thông tin và không cấu thành lời chào bán hay mời gọi chào mua bất kỳ chứng khoán hay sản phẩm đầu tư nào tại bất kỳ khu vực pháp lý nào. Các chiến lược và khung đầu tư do Aureus Sigma Capital (ASC) phát triển được triển khai bởi các đối tác được cấp phép của ASC cho nhà đầu tư đủ điều kiện theo quy định pháp luật hiện hành. Nhà đầu tư quan tâm đến việc tiếp cận khung đầu tư của ASC nên làm việc với các đối tác được cấp phép của ASC.
+Thong tin quan trong: ghi chu nay chi nham muc dich cung cap thong tin va khong cau thanh loi chao ban hay moi chao mua bat ky chung khoan hay san pham dau tu nao tai bat ky khu vuc phap ly nao. ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay, khong nhan tai san cua khach hang thong qua website nay va khong cung cap tu van dau tu ca nhan thong qua website nay. Khi ASC hop tac voi doi tac duoc cap phep, doi tac do chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai, thuc thi, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat hien hanh.

@@ -12,7 +12,7 @@ The contact form on the website uses [Web3Forms](https://web3forms.com) to send 
 |-------|-------|
 | **Service** | Web3Forms |
 | **Account Email** | `contact@ascap.vn` |
-| **Access Key** | `03fdcd58-65b8-468c-a6a2-68f54c7b0da0` |
+| **Access Key** | `[PUBLIC_FORM_ACCESS_KEY_REDACTED_IN_DOC]` |
 | **Dashboard** | https://web3forms.com/dashboard |
 
 ## How It Works
@@ -29,8 +29,8 @@ The contact form on the website uses [Web3Forms](https://web3forms.com) to send 
 | `name` | User's full name |
 | `email` | User's email address |
 | `organization` | User's company/organization |
-| `message` | Objectives or notes from user |
-| `investor_confirmation` | Checkbox confirmation that user is institutional/professional investor |
+| `message` | Message from user |
+| `website_boundary_confirmation` | Checkbox confirmation that user understands the website boundary |
 
 ## Email Configuration
 
@@ -38,15 +38,15 @@ The form data is sent as JSON to the Web3Forms API:
 
 ```javascript
 const data = {
-    access_key: "03fdcd58-65b8-468c-a6a2-68f54c7b0da0",
+    access_key: "[PUBLIC_FORM_ACCESS_KEY_REDACTED_IN_DOC]",
     subject: "New Inquiry from ASC Website",
     from_name: "ASC Website Contact Form",
     name: form.name.value,
     email: form.email.value,
     organization: form.organization.value,
     message: form.message.value,
-    investor_confirmation: form.investor_confirmation.checked 
-        ? "Confirmed - Institutional/Professional Investor" 
+    website_boundary_confirmation: form.website_boundary_confirmation.checked
+        ? "Confirmed - website boundary understood"
         : "Not confirmed",
 };
 ```
@@ -129,4 +129,3 @@ If you see "Network error" when submitting the form:
 ---
 
 *Last updated: 2025-12-22*
-

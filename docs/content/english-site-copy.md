@@ -1,286 +1,67 @@
-# ASC Website Copy – English (v3, Nov 2025)
+# ASC Website Copy - English
 
-## 1. Hero
+## Hero
 
-- **Headline:** Systematic investment systems for Vietnam’s capital markets.
-- **Subheadline:** Aureus Sigma Capital builds empirical research, portfolio construction, trading, execution, and risk-control infrastructure designed to turn market evidence into disciplined capital allocation.
-- **Primary CTA:** Learn about ASC’s licensed partners (links to `/partnerships`)
-- **Secondary CTA:** Explore our investment framework (links to `/what-we-do`)
-- **Highlights:**
-  1. **Institutional systematic discipline** – Decisions are grounded in data, documented research and a repeatable process, not short-term opinion.
-  2. **Portfolio systems** – Sizing, rebalancing, exposure control and implementation-aware portfolio design.
-  3. **Risk governance** – Drawdown, liquidity, model-drift and mandate-boundary controls embedded into the process.
+- **Headline:** Proprietary systematic trading and investment systems for Vietnam's capital markets.
+- **Subheadline:** Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline.
+- **Primary CTA:** Explore what ASC builds
+- **Secondary CTA:** Partnerships and boundaries
 
----
+## Our Firm in Brief
 
-## 2. Our Firm in Brief
+Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam's capital markets.
 
-Aureus Sigma Capital (ASC) is a founder-led systematic investment systems company for Vietnam’s capital markets. We build research, data, portfolio-construction, execution-aware, and risk-control infrastructure for disciplined capital allocation.
+ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline. The work spans Vietnam equities, VN30F futures, factor and fundamental research, market-structure analysis and implementation-aware portfolio design.
 
-Our role is to turn market evidence into governed investment decision systems. We clean and organise data, build research engines across factors, fundamentals, futures, and market structure, and translate model outputs into portfolio and risk rules that can be reviewed.
+ASC may collaborate with licensed partners where appropriate. In those cases, licensed partners are responsible for regulated products, onboarding, suitability, execution, reporting and client-facing obligations. ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.
 
-ASC does not manage client accounts or distribute products directly. Licensed partners handle onboarding, suitability, execution, reporting, and regulated client-facing work where applicable. ASC focuses on research, model design, risk oversight, and partner coordination.
+## Leadership Bio
 
-### 2.1 Leadership bios
+**Duc (Huy) Nguyen - Founder & CEO**
 
-**Duc (Huy) Nguyen – Founder & CEO**
-Duc leads ASC’s research, model design, risk oversight and partner coordination for systematic investment systems. He brings more than 20 years of experience in Vietnam’s capital markets.
-As CEO of Techcom Capital and Managing Director of Techcom Securities, Duc helped build Techcombank’s investment management and securities platforms with a focus on public-markets investing and institutional clients. Previously, as Executive Director and Head of Corporate Finance Advisory and Financial Advisory Services at Deloitte Vietnam, he led over US$1 billion of investments, capital raisings and M&A transactions across banking, real estate and consumer sectors before holding senior finance and investment roles at regional investment and real-estate groups overseeing capital allocation and market-risk management.
-At ASC, Duc keeps the firm focused on documented rules, local data quality and clear risk controls while licensed partners handle regulated client-facing work where applicable.
+Duc leads ASC's research, model design, risk oversight and partner coordination. He brings more than 20 years of experience in Vietnam's capital markets.
 
-**Short card version (About page tiles)**
-Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on systematic investment systems and risk-aware process design.
+At ASC, Duc keeps the firm focused on documented rules, local data quality, execution discipline and clear risk controls while licensed partners handle regulated client-facing work where applicable.
 
----
+## What ASC Builds
 
-## 3. Our Philosophy & Approach (used on `/what-we-do`)
+1. **Research engines** - Factor, fundamental, futures and market-structure models tested against real implementation constraints.
+2. **Trading systems** - Rules that connect model decisions to timing, execution windows, market liquidity, broker workflow and post-trade review.
+3. **Portfolio construction** - Position sizing, rebalancing, exposure control, liquidity, concentration and drawdown-aware portfolio design.
+4. **Execution infrastructure** - Implementation logic designed around costs, timing, reconciliation, real trading constraints and operational review.
+5. **Risk governance** - Model validation, degradation monitoring, kill rules and boundaries between ASC systems and regulated partner obligations.
+6. **Evidence and model lifecycle** - Clean data used to support research, monitoring, post-trade review and model updates.
 
-### 3.1 Why a structured approach matters in Vietnam
+## Strategy Families
 
-Vietnam’s equity market is fast-moving and often emotional. Prices can move sharply on headlines, capital flows or policy expectations. For long-term investors, the challenge is not access to information, but staying anchored to a consistent discipline when sentiment swings.
+- VN30F / systematic trading systems.
+- Systematic equity research.
+- Fundamental / STCV frameworks.
+- Market structure and risk overlays.
+- Data infrastructure.
 
-Our philosophy is that investors are better served by an approach that is:
+## Partnerships and Boundaries
 
-- **Systematic** – based on written rules rather than ad hoc opinions or market stories.
-- **Evidence-driven** – research must be reproducible, tradable, risk-aware and monitored after use.
-- **Local by design** – built on Vietnamese data, liquidity and regulation, not imported blindly from other markets.
-- **Risk-aware** – explicitly designed around drawdowns, liquidity and investor behaviour, not only headline returns.
+ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC provides research frameworks, model rules, diagnostics and risk oversight.
 
-The objective is clear: maintain a documented, rules-based approach to Vietnamese equities with a path that institutional allocators can understand, monitor and challenge.
+Licensed partners are responsible for regulated products, onboarding, suitability, portfolio implementation, execution, reporting and client-facing obligations.
 
-### 3.2 From philosophy to framework
+ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
 
-We implement this philosophy as a research and engineering process:
+## Contact
 
-- **Data and diagnostics** – collect and clean point-in-time data on Vietnamese companies and prices, focusing on liquidity and disclosure quality.
-- **Factor research** – identify robust patterns in how value, quality and momentum have been rewarded across multiple market environments, including past stress episodes.
-- **Portfolio rules** – codify those insights into a framework that determines what to own, how much to own and how to adjust as fundamentals, prices and risk change.
-- **Testing and review** – test changes rigorously before introducing them into tracked strategies and review realised outcomes, including drawdowns, against expectations.
+For inquiries about ASC's research, trading systems, risk framework or partnership discussions, please contact ASC.
 
-This framework underpins all strategies built on ASC’s research.
+For regulated products, account opening, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.
 
----
+## Important Information
 
-## 4. What We Do – Page Content
+This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product or financial instrument in any jurisdiction.
 
-### 4.1 How we invest
+Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam's capital markets. ASC develops research, data, execution, portfolio-construction and risk-control systems.
 
-Our core strategy applies the framework above to a universe of liquid, exchange-listed Vietnamese equities.
+ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
 
-1. **Define the investable universe**  
-   We start from a universe of liquid, exchange-listed Vietnamese companies with sufficient trading volume, free float and disclosure quality to support institutional execution.
+Where ASC collaborates with licensed partners, those licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting and client-facing obligations under applicable law.
 
-2. **Score companies on core factors**  
-   Each company is evaluated along several dimensions, including for example:
-
-   - **Quality** – profitability, balance-sheet strength and earnings resilience.
-   - **Value** – cash-flow and earnings yields relative to fundamentals and peers.
-   - **Momentum** – the strength and persistence of recent price trends.
-   - **Stability and risk** – realised volatility, drawdown profile and liquidity, adding a defensive “low-volatility” lens to the core value, quality and momentum tilts.
-
-ASC’s framework is anchored in three well-documented equity premia—value, quality and momentum—complemented by this stability lens so that proven return drivers are paired with risk controls suited to Vietnam’s volatility.
-
-   These inputs are combined into a structured profile for each stock, updated on a regular schedule using point-in-time data.
-
-3. **Construct the portfolio**  
-   The portfolio is built by comparing all eligible companies side by side:
-
-   - Stocks with stronger, more resilient profiles receive larger but controlled allocations.
-   - Weaker or less stable profiles receive smaller allocations or are excluded.
-   - Portfolio construction respects explicit limits on single-name, sector and factor concentrations, as well as turnover and trading costs.
-
-The result is a coherent portfolio of Vietnamese companies sized relative to their contribution to risk and expected return, rather than a collection of individual “best ideas”.
-
-### 4.2 Human judgement and data working together
-
-Our process is quantitative, but it is not blind automation. Human judgement enters in the design, testing and oversight of the framework:
-
-- deciding which data to trust and how to clean it,
-- selecting which factors to emphasise and how to combine them,
-- choosing portfolio constraints that reflect the realities of Vietnamese trading and regulation, and
-- reviewing how the portfolio behaves across different market environments.
-
-Day-to-day implementation, however, follows written rules. This separation allows us to use human judgement where it adds the most value, while keeping live decisions consistent and repeatable.
-
-### 4.3 How we think about risk and capital behaviour
-
-Risk management is embedded in the framework, not added as an afterthought.
-
-- **Structural diversification** – We hold a meaningful number of names across sectors, with hard caps to prevent any single position or theme from dominating outcomes.
-- **Exposure controls** – We monitor the portfolio’s sensitivity to the broad market and adjust exposures when risk moves outside pre-defined ranges for a given mandate.
-- **Drawdown awareness** – We track how far the portfolio has moved from recent peaks. If losses extend beyond agreed thresholds, the framework can gradually reduce risk, for example by trimming volatile exposures or tilting further toward higher-quality, more resilient companies. Alongside diversification and exposure limits, we deliberately tilt away from persistently high-volatility names where the risk is not compensated, reinforcing the defensive profile in stressed markets.
-
-These mechanisms will not eliminate losses or protect against every market event. They are designed to make severe setbacks rarer and more manageable, especially in a volatile emerging market.
-
-### 4.4 Our edge in Vietnam
-
-Several features of ASC’s approach are particularly relevant in the Vietnamese context:
-
-- **Market specialisation** – We focus exclusively on Vietnam’s equity market, allowing models and assumptions to be calibrated to local data, liquidity and regulation.
-- **Institutional methodology** – Our framework draws on global best practices in systematic factor investing but is adapted for the structure and depth of the Vietnamese market.
-- **Transparent factors, not black boxes** – We build on explainable drivers such as value, quality and momentum rather than opaque, hard-to-interpret models.
-- **Risk controls built for volatility** – Exposure limits, diversification and drawdown awareness are designed around the higher volatility and liquidity characteristics of an emerging market.
-
-### 4.5 What investors can expect – and what they should not
-
-Over a full market cycle, our goal is to:
-
-- aim to provide a documented, rules-based approach compared with a simple “buy-the-index” approach,
-- limit the depth and duration of major drawdowns relative to the broad market, and
-- maintain a process that investors can understand, monitor and challenge.
-
-We do not promise outperformance in every period or protection from all market declines. Vietnam is a volatile market and equity investing carries real risk. Our commitment is to a disciplined, transparent framework that treats risk management and drawdowns as central design problems, not marketing language.
-
----
-
-## 5. Performance & Risk Analytics
-
-### 5.1 How we present performance
-
-Where available, we present both live and backtested results for ASC’s strategies in a format familiar to institutional allocators. Performance is shown:
-
-- net of estimated management fees and transaction costs, unless stated otherwise;
-- relative to appropriate benchmarks such as Vietnam’s main equity index; and
-- over multiple horizons (since inception, and rolling one-, three- and five-year periods).
-
-Alongside returns we highlight risk and capital behaviour, including:
-
-- annualised volatility and tracking error;
-- Sharpe ratio and information ratio;
-- maximum drawdown and time to recovery; and
-- exposure and concentration statistics by sector, factor and single name.
-
-### 5.2 Live and simulated history
-
-Vietnam remains a developing market, and our strategies have a shorter live history than large global indices. To give investors a fuller picture, we combine:
-
-- historical simulations based on point-in-time Vietnamese data, which show how the framework would have behaved through multiple market cycles and stress periods; and
-- observed or implemented results, where available and approved for sharing, reviewed with actual costs and implementation constraints.
-
-Backtests are tools, not promises. They help us and our investors understand the strategy’s sensitivity to different environments, but they are not forecasts. All results are accompanied by clear disclosures on methodology, assumptions and limitations.
-
-### 5.3 Access to detailed reporting
-
-For institutional and professional investors, our partners can provide detailed reports and data files on request, including performance, risk and attribution, subject to product-level terms. We work with ASC’s licensed partners to align reporting with each client’s governance and oversight requirements.
-
----
-
-## 5. Partnerships – ASC & Licensed Partners
-
-## 6. Client Solutions
-
-### 6.1 Solutions by client objective
-
-ASC’s framework can support a range of mandates run by ASC’s licensed partners. Rather than leading with products, we help structure solutions around specific objectives:
-
-- **Corporate treasuries** – ASC supports licensed partners with rules-based portfolio design, liquidity review and risk-control infrastructure for Vietnam market exposure.
-- **Pension funds and insurance portfolios** – ASC’s systems help licensed partners explain portfolio behaviour through exposure, drawdown, liquidity and model-monitoring metrics.
-- **Family offices and HNW investors** – ASC’s rules-based research can support disciplined Vietnam allocation discussions through licensed partners, with clear documentation of process and risk controls.
-
-### 6.2 Mandate design parameters
-
-Within the constraints of local regulation and each manager’s licences, strategies built on ASC’s framework can be tailored along dimensions such as:
-
-- target volatility and tracking error ranges;
-- permissible sector and concentration limits;
-- the role of cash and index futures in managing overall market exposure; and
-- environmental, social or governance (ESG) screens where requested and feasible under local data availability.
-
-Minimum investment sizes, fee structures and liquidity terms are set at the product or mandate level by licensed managers. ASC works with those partners to ensure that portfolio construction and reporting remain consistent with the agreed risk and return objectives.
-
-### 6.3 Reporting and transparency
-
-Institutional clients typically receive regular reporting, including performance, risk, factor exposures and portfolio holdings, from the licensed manager. ASC supports this by providing underlying analytics, diagnostics and commentary on strategy behaviour, especially during periods of market stress.
-
-### 5.1 Overview
-
-ASC’s strategies are accessed through regulated investment products and mandates run by ASC’s licensed partners. ASC designs and maintains the systematic framework; licensed partners handle client onboarding, suitability, execution and regulatory reporting.
-
-Together, ASC and its licensed partners support disciplined access to Vietnam market strategies through research, portfolio-design support and non-discretionary model outputs within a regulated structure.
-
-### 5.2 Licensed partners – regulated investment managers
-
-ASC’s licensed partners are regulated investment managers responsible for:
-
-- providing regulated investment products and bespoke mandates under its licences;
-- onboarding clients and managing ongoing relationships; and
-- implementing portfolios and reporting in line with Vietnamese regulation.
-
-Clients contract directly with the relevant licensed partner. That entity is responsible for ensuring that each product or mandate is suitable for the investor and compliant with local requirements.
-
-### 5.3 ASC – the quantitative research partner
-
-Aureus Sigma Capital is a founder-led systematic investment systems company focused on Vietnam’s capital markets. We:
-
-- design and maintain research engines, portfolio rules, execution-aware models and risk analytics;
-- provide research updates, portfolio construction rules and risk analytics; and
-- support partner coordination while licensed partners handle regulated client-facing work where applicable.
-
-ASC does not manage client accounts or distribute products. Implementation is carried out exclusively by licensed partners.
-
-### 5.4 How the partnership operates
-
-Under each partnership arrangement, responsibilities are clearly defined:
-
-- **ASC** develops and maintains the systematic investment framework, supplies research updates and diagnostics, and monitors how portfolios behave relative to expectations.
-- **Licensed partners** decide how and where to deploy ASC’s strategies, manage day-to-day portfolios under their licences (including execution and cash management), and provide regulated reporting and client service.
-
-This separation between research and implementation clarifies who is responsible for strategy design, portfolio management and regulatory compliance, and supports institutional governance standards.
-
-### 5.5 Looking ahead
-
-As Vietnam’s capital markets deepen and investor requirements evolve, ASC and its licensed partners intend to broaden the range of mandates and products that can incorporate ASC’s framework, while maintaining a disciplined focus on research quality, risk control and regulatory robustness.
-
-### 5.6 Call to action
-
-For investors interested in accessing ASC’s strategies, please contact an ASC licensed partner directly, or reach out to ASC for an introduction and further information on how the framework is applied in practice.
-
----
-
-## 6. Insights Landing Page Copy
-
-### 6.1 Section title
-
-**Insights**
-
-### 6.2 Intro
-
-We publish concise notes for investors who want to understand how we think about Vietnamese equities, risk management and the role of systematic strategies in a broader portfolio.
-
-### 6.3 Cards (titles and summaries)
-
-1. **FIDES and Aureus Sigma Capital Sign Memorandum of Understanding (MOU)**  
-   FIDES Vietnam and ASC signed an MOU in HCMC on December 19, 2025 to cooperate on investment mandate execution, product development, and research/analytics within applicable regulation.
-
-2. **The Case for Systematic Factors in Vietnamese Equities**  
-   Vietnam’s equity market exhibits distinct microstructural inefficiencies. We discuss why a systematic, factor-based approach can help support more consistent decision-making than discretionary trading.
-
-3. **Drawdown Management Framework: A Systematic Approach**  
-   Preserving capital during tail events is critical to long-term compounding. We outline our multi-layered defense mechanism, incorporating volatility targeting and regime-based allocation adjustments.
-
----
-
-## 7. Contact CTA Copy
-
-> For institutional or professional inquiries about ASC’s investment-system research, portfolio-design support or licensed-partner collaboration, please use the form below.
->
-> Email: contact@ascap.vn
->
-> For information about products, account types and documentation, please contact ASC.
-
-- **Button label:** “Submit inquiry”  
-- **Success message:** “Thank you for your inquiry. We will review your message and respond via email.”
-
----
-
-## 8. Disclaimer (English)
-
-> **Important Information**  
-> This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security or investment product in any jurisdiction.
->
-> Strategies and investment frameworks developed by Aureus Sigma Capital (ASC) are implemented by ASC’s licensed partners for eligible investors under applicable regulation.
->
-
----
-
-*This document is the single English copy reference for the ASC website. Update this file whenever wording in the front-end components changes, so that web and marketing content remain consistent.*
+Any discussion of research, models, simulations, backtests, frameworks or strategy behaviour is illustrative and subject to limitations. Past performance, simulated performance or modelled results do not promise future results. All investment and trading activity involves risk, including possible loss of capital.

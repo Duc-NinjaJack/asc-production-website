@@ -1,9 +1,9 @@
-Market microstructure dynamics often outpace human reaction times. Behavioral biases and noise trading can lead to suboptimal execution and emotional decision-making.
+Vietnam’s market can move faster than human judgement. Prices, liquidity and news can change quickly. ASC’s answer is to write rules before the pressure arrives.
 
-ASC defines its rules in advance: what we can own, when we buy or sell, how large each position may be, and how quickly the portfolio can change.
+The rules define what a system may trade, when it may add or reduce risk, how large positions may be, and how quickly exposure may change.
 
-Because the rules are written down, we can review decisions objectively, refine the process using data, and keep responses consistent during stress.
+Because the rules are written down, ASC can review decisions objectively, test changes with data, and keep the process consistent during stress.
 
-The approach starts with a liquid universe of leading Vietnamese companies. We combine price behaviour, company fundamentals, and risk characteristics, then size positions within documented limits.
+The research process starts with liquid Vietnamese instruments. It combines price behaviour, company information, trading constraints and risk characteristics, then sizes exposure within documented limits.
 
-Risk checks are embedded at each step. If losses reach predefined thresholds, the rules tell us to slow down or reduce exposure. It is not about predicting the future; it is about executing the same way regardless of headlines.
+Risk checks are part of each step. If losses reach predefined thresholds, the system may slow down, reduce exposure or pause. This does not predict the future or promise results. It keeps trading and investment decisions tied to evidence instead of headlines.

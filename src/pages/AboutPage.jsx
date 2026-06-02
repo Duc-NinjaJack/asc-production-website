@@ -72,8 +72,7 @@ export default function AboutPage({ t }) {
                         <h3 className="text-xl md:text-2xl font-serif font-semibold text-slate-900">{t.about.teamTitle || "Leadership"}</h3>
                         <div className="space-y-4 md:space-y-6">
                             {t.about.bioDetails.map((bio, idx) => {
-                                const isFounder = idx === 0;
-                                const photo = isFounder ? TEAM_PHOTOS.founder : TEAM_PHOTOS.cofounder;
+                                const photo = idx === 0 ? TEAM_PHOTOS.founder : TEAM_PHOTOS.founder;
                                 return (
                                     <TeamCard
                                         key={bio.name}
@@ -91,4 +90,3 @@ export default function AboutPage({ t }) {
         </div>
     );
 }
-

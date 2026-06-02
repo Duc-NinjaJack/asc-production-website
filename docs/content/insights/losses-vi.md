@@ -1,9 +1,9 @@
-Biến động nhỏ có thể chấp nhận, nhưng drawdown sâu kéo dài gây thiệt hại nặng. Mục tiêu của chúng tôi là giới hạn mức mất mát trong khi vẫn tham gia xu hướng dài hạn.
+Bien dong don cum va thay doi che do thi truong la dieu binh thuong o thi truong moi noi. ASC xem khoan lo lon la van de thiet ke he thong, khong phai dieu co the bo qua bang cam tinh.
 
-Chúng tôi thừa nhận không thể kiểm soát thị trường hoặc dự báo mọi cú giảm; thay vào đó lập kế hoạch rõ ràng cho từng ngưỡng lỗ.
+ASC khong the kiem soat thi truong hoac du bao moi cu giam. Thay vao do, cong ty xac dinh truoc hanh dong co the xay ra khi muc lo vuot cac nguong da viet.
 
-Đa dạng hóa, giới hạn vị thế và giới hạn phơi nhiễm chung giúp giảm tác động từ một cổ phiếu hoặc chủ đề riêng lẻ.
+Da dang hoa, gioi han vi the va gioi han phoi nhiem chung giup giam phu thuoc vao mot co phieu, mot nganh hoac mot cau chuyen rieng le.
 
-Khi drawdown tiến gần ngưỡng chịu đựng, quy tắc có thể yêu cầu giảm bớt phơi nhiễm hoặc dùng hợp đồng tương lai chỉ số để hạ rủi ro thị trường. Nếu căng thẳng kéo dài, mức độ phản ứng sẽ tăng lên.
+Khi muc lo tien gan gioi han da viet, quy tac co the yeu cau giam phoi nhiem hoac dung hop dong tuong lai chi so de giam rui ro thi truong rong. Neu cang thang tang len, phan ung co the phong thu hon.
 
-Các bước phòng vệ có thể khiến danh mục hồi phục chậm hoặc phát sinh chi phí, nhưng đó là đánh đổi cần thiết để duy trì kỷ luật rủi ro.
+Cac buoc nay co the khien he thong cham hon trong cac nhip hoi nhanh hoac phat sinh chi phi phong ve. Chung khong hua hen mot muc lo toi da. Chung ton tai de giu quyet dinh rui ro co ky luat khi thi truong cang thang.

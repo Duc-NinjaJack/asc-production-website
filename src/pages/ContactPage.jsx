@@ -22,8 +22,8 @@ export default function ContactPage({ t, lang }) {
             email: form.email.value,
             organization: form.organization.value,
             message: form.message.value,
-            investor_confirmation: form.investor_confirmation.checked
-                ? "Confirmed - Institutional/Professional Investor"
+            website_boundary_confirmation: form.website_boundary_confirmation.checked
+                ? "Confirmed - website boundary understood"
                 : "Not confirmed",
         };
 
@@ -62,7 +62,7 @@ export default function ContactPage({ t, lang }) {
                 title={t.contact.title}
                 subtitle={t.contact.desc}
                 image="/assets/others/hcmc_skyline_1.png"
-                parentSection="Institutional Access"
+                parentSection="Website Boundary"
             />
             <div className="mx-auto max-w-3xl px-4 pb-10 md:pb-16">
                 {status === "success" ? (
@@ -113,19 +113,23 @@ export default function ContactPage({ t, lang }) {
                             name="message"
                             className="w-full rounded-lg border border-slate-300 px-4 py-3 text-base focus:outline-none focus:ring-2 focus:ring-slate-900 focus:border-transparent"
                             rows={4}
-                            placeholder={lang === "en" ? "Objectives or notes" : "Mục tiêu hoặc ghi chú"}
+                            placeholder={lang === "en" ? "Message" : "Nội dung"}
                             disabled={status === "loading"}
                         />
                         <label className="flex gap-3 text-sm text-slate-700">
                             <input
                                 type="checkbox"
-                                name="investor_confirmation"
-                                value="I confirm that I am an institutional/professional investor or represent a licensed entity."
+                                name="website_boundary_confirmation"
+                                value="I understand ASC does not offer products, accept assets, or provide personalized investment advice through this website."
                                 required
                                 className="mt-0.5 h-5 w-5 shrink-0"
                                 disabled={status === "loading"}
                             />
-                            <span className="leading-relaxed">{lang === "en" ? "I confirm that I am an institutional/professional investor or represent a licensed entity." : "Tôi xác nhận là nhà đầu tư tổ chức/chuyên nghiệp hoặc đại diện tổ chức được cấp phép."}</span>
+                            <span className="leading-relaxed">
+                                {lang === "en"
+                                    ? "I understand ASC does not offer products, accept assets, or provide personalized investment advice through this website."
+                                    : "Tôi hiểu ASC không chào bán sản phẩm, không nhận tài sản và không cung cấp tư vấn đầu tư cá nhân thông qua website này."}
+                            </span>
                         </label>
                         <button
                             type="submit"
@@ -166,4 +170,3 @@ export default function ContactPage({ t, lang }) {
         </div>
     );
 }
-

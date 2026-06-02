@@ -1,9 +1,9 @@
-Động lực vi mô của thị trường thường diễn biến nhanh hơn tốc độ phản ứng của con người. Các thiên kiến hành vi—như sợ thua lỗ (loss aversion) hay tâm lý bầy đàn—dễ khiến nhà đầu tư chủ động bán tháo tại đáy hoặc đuổi theo đà tăng tại đỉnh. Khung hệ thống của chúng tôi thay thế sự dao động cảm xúc bằng tính nhất quán dựa trên dữ liệu.
+Thị trường Việt Nam có thể biến động nhanh hơn phán đoán của con người. Giá, thanh khoản và tin tức có thể thay đổi rất nhanh. Cách tiếp cận của ASC là viết quy tắc trước khi áp lực xuất hiện.
 
-ASC xác định trước những gì được nắm giữ, thời điểm mua/bán và giới hạn tỷ trọng, nhờ đó quyết định luôn dựa trên dữ liệu.
+Quy tắc xác định hệ thống có thể giao dịch gì, khi nào được tăng hoặc giảm rủi ro, vị thế có thể lớn đến đâu và mức phơi nhiễm có thể thay đổi nhanh thế nào.
 
-Vì quy tắc được ghi lại, chúng tôi có thể đánh giá khách quan, cải thiện dựa trên dữ liệu và giữ phản ứng nhất quán khi thị trường biến động mạnh.
+Vì quy tắc được ghi lại, ASC có thể đánh giá quyết định một cách khách quan, kiểm thử thay đổi bằng dữ liệu và giữ quy trình nhất quán khi thị trường căng thẳng.
 
-Quy trình bắt đầu từ nhóm cổ phiếu thanh khoản cao; kết hợp hành vi giá, yếu tố cơ bản và đặc tính rủi ro để xác định tỷ trọng trong giới hạn định trước.
+Quy trình nghiên cứu bắt đầu từ các công cụ thanh khoản tại Việt Nam. Hệ thống kết hợp hành vi giá, thông tin doanh nghiệp, ràng buộc giao dịch và đặc tính rủi ro, rồi phân bổ phơi nhiễm trong giới hạn đã viết.
 
-Kiểm soát rủi ro được tích hợp ở mỗi bước. Khi mức lỗ chạm ngưỡng, quy tắc yêu cầu giảm tốc hoặc giảm phơi nhiễm. Không nhằm đoán trước tương lai mà nhằm duy trì kỷ luật bất kể tin tức.
+Kiểm soát rủi ro nằm trong từng bước. Nếu mức lỗ chạm ngưỡng định trước, hệ thống có thể giảm tốc, giảm phơi nhiễm hoặc tạm dừng. Điều này không dự báo tương lai và không hứa hẹn kết quả. Mục tiêu là giữ quyết định giao dịch và đầu tư gắn với bằng chứng thay vì tin tức.

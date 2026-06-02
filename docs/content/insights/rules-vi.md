@@ -1,9 +1,9 @@
-Thị trường biến động nhanh hơn khả năng phản ứng của con người; cảm xúc dễ khiến nhà đầu tư bán ở đáy hoặc đuổi theo câu chuyện ngắn hạn.
+Thi truong Viet Nam co the bien dong nhanh hon phan doan cua con nguoi. Gia, thanh khoan va tin tuc co the thay doi rat nhanh. Cach tiep can cua ASC la viet quy tac truoc khi ap luc xuat hien.
 
-ASC xác định trước những gì được nắm giữ, thời điểm mua/bán và giới hạn tỷ trọng, nhờ đó quyết định luôn dựa trên dữ liệu.
+Quy tac xac dinh he thong co the giao dich gi, khi nao duoc tang hoac giam rui ro, vi the co the lon den dau va muc phoi nhiem co the thay doi nhanh the nao.
 
-Vì quy tắc được ghi lại, chúng tôi có thể đánh giá khách quan, cải thiện dựa trên dữ liệu và giữ phản ứng nhất quán khi thị trường biến động mạnh.
+Vi quy tac duoc ghi lai, ASC co the danh gia quyet dinh mot cach khach quan, kiem thu thay doi bang du lieu va giu quy trinh nhat quan khi thi truong cang thang.
 
-Quy trình bắt đầu từ nhóm cổ phiếu thanh khoản cao; kết hợp hành vi giá, yếu tố cơ bản và đặc tính rủi ro để xác định tỷ trọng trong giới hạn định trước.
+Quy trinh nghien cuu bat dau tu cac cong cu thanh khoan tai Viet Nam. He thong ket hop hanh vi gia, thong tin doanh nghiep, rang buoc giao dich va dac tinh rui ro, roi phan bo phoi nhiem trong gioi han da viet.
 
-Kiểm soát rủi ro được tích hợp ở mỗi bước. Khi mức lỗ chạm ngưỡng, quy tắc yêu cầu giảm tốc hoặc giảm phơi nhiễm. Không nhằm đoán trước tương lai mà nhằm duy trì kỷ luật bất kể tin tức.
+Kiem soat rui ro nam trong tung buoc. Neu muc lo cham nguong dinh truoc, he thong co the giam toc, giam phoi nhiem hoac tam dung. Dieu nay khong du bao tuong lai va khong hua hen ket qua. Muc tieu la giu quyet dinh giao dich va dau tu gan voi bang chung thay vi tin tuc.

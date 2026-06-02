@@ -1,9 +1,9 @@
-Sự kết chùm biến động (volatility clustering) và thay đổi chế độ thị trường là đặc tính cố hữu của các thị trường mới nổi như Việt Nam. Mục tiêu của chúng tôi là giảm thiểu mức sụt giảm tài sản tối đa (maximum drawdown) sau phí, trong khi vẫn duy trì tỷ lệ tham gia cao trong các pha thị trường tích cực. Chúng tôi coi rủi ro không chỉ là một con số thống kê, mà là một ngân sách cần được quản lý một cách rõ ràng.
+Biến động dồn cụm và thay đổi chế độ thị trường là điều bình thường ở thị trường mới nổi. ASC xem khoản lỗ lớn là vấn đề thiết kế hệ thống, không phải điều có thể bỏ qua bằng cảm tính.
 
-Chúng tôi thừa nhận không thể kiểm soát thị trường hoặc dự báo mọi cú giảm; thay vào đó lập kế hoạch rõ ràng cho từng ngưỡng lỗ.
+ASC không thể kiểm soát thị trường hoặc dự báo mọi cú giảm. Thay vào đó, công ty xác định trước hành động có thể xảy ra khi mức lỗ vượt các ngưỡng đã viết.
 
-Đa dạng hóa, giới hạn vị thế và giới hạn phơi nhiễm chung giúp giảm tác động từ một cổ phiếu hoặc chủ đề riêng lẻ.
+Đa dạng hóa, giới hạn vị thế và giới hạn phơi nhiễm chung giúp giảm phụ thuộc vào một cổ phiếu, một ngành hoặc một câu chuyện riêng lẻ.
 
-Khi drawdown tiến gần ngưỡng chịu đựng, quy tắc có thể yêu cầu giảm bớt phơi nhiễm hoặc dùng hợp đồng tương lai chỉ số để hạ rủi ro thị trường. Nếu căng thẳng kéo dài, mức độ phản ứng sẽ tăng lên.
+Khi mức lỗ tiến gần giới hạn đã viết, quy tắc có thể yêu cầu giảm phơi nhiễm hoặc dùng hợp đồng tương lai chỉ số để giảm rủi ro thị trường ròng. Nếu căng thẳng tăng lên, phản ứng có thể phòng thủ hơn.
 
-Các bước phòng vệ có thể khiến danh mục hồi phục chậm hoặc phát sinh chi phí, nhưng đó là đánh đổi cần thiết để duy trì kỷ luật rủi ro.
+Các bước này có thể khiến hệ thống chậm hơn trong các nhịp hồi nhanh hoặc phát sinh chi phí phòng vệ. Chúng không hứa hẹn một mức lỗ tối đa. Chúng tồn tại để giữ quyết định rủi ro có kỷ luật khi thị trường căng thẳng.
