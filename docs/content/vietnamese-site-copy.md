@@ -11,7 +11,7 @@
 
 Aureus Sigma Capital (ASC) la cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam.
 
-ASC xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat. Cong viec cua ASC bao gom co phieu Viet Nam, hop dong tuong lai VN30F, nghien cuu nhan to va co ban, phan tich cau truc thi truong va thiet ke danh muc co y thuc thuc thi.
+ASC xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat. Cong viec cua ASC tap trung vao bang chung thi truong, tinh thuc te khi thuc thi, kiem soat rui ro, phan tich cau truc thi truong va thiet ke danh muc co y thuc thuc thi.
 
 ASC co the hop tac voi cac doi tac duoc cap phep khi phu hop. Trong cac truong hop do, doi tac duoc cap phep chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai danh muc, thuc thi giao dich, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat. ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay va khong nhan tai san cua khach hang thong qua website nay.
 
@@ -25,20 +25,21 @@ Tai ASC, ong Duc giu trong tam vao quy tac duoc van ban hoa, chat luong du lieu 
 
 ## ASC xay dung gi
 
-1. **Dong co nghien cuu** - Mo hinh nhan to, co ban, hop dong tuong lai va cau truc thi truong duoc kiem thu voi cac rang buoc thuc thi thuc te.
-2. **He thong giao dich** - Quy tac ket noi quyet dinh mo hinh voi thoi diem, khung gio thuc thi, thanh khoan thi truong, quy trinh moi gioi va ra soat sau giao dich.
+1. **Dong co nghien cuu** - Mo hinh nghien cuu duoc kiem thu voi bang chung, thanh khoan, chi phi va cac rang buoc thuc thi thuc te.
+2. **Quy trinh giao dich** - Quy tac ket noi quyet dinh mo hinh voi thoi diem, thanh khoan, chi phi, kiem soat van hanh va ra soat.
 3. **Xay dung danh muc** - Quy tac ty trong, tai can bang, phoi nhiem, thanh khoan, tap trung va thiet ke danh muc co y thuc ve sut giam.
 4. **Ha tang thuc thi** - Logic trien khai duoc thiet ke quanh chi phi, thoi diem, doi soat, rang buoc giao dich that va ra soat van hanh.
 5. **Quan tri rui ro** - Tham dinh mo hinh, giam sat suy giam, quy tac dung va ranh gioi giua he thong ASC voi nghia vu cua doi tac duoc cap phep.
 6. **Bang chung va vong doi mo hinh** - Du lieu sach dung de ho tro nghien cuu, giam sat, ra soat sau giao dich va cap nhat mo hinh.
 
-## Nhom chien luoc
+## Cach ASC van hanh
 
-- VN30F / he thong giao dich co quy tac.
-- Nghien cuu co phieu he thong.
-- Khung co ban / STCV.
-- Cau truc thi truong va lop phu rui ro.
-- Ha tang du lieu.
+Cong viec cua ASC duoc xay dung quanh cac ky luat co the lap lai: nghien cuu, thuc thi, kiem soat rui ro va ra soat sau giao dich. Chung toi khong cong bo chi tiet chien luoc, quy tac mo hinh hay tin hieu giao dich.
+
+1. **Nghien cuu** - Chung toi nghien cuu thi truong Viet Nam qua du lieu, cau truc thi truong va bang chung co the lap lai.
+2. **Thuc thi** - Chung toi thiet ke quy trinh giao dich quanh thanh khoan, thoi diem, chi phi va kiem soat van hanh.
+3. **Rui ro** - Chung toi giam sat sut giam, phoi nhiem, tap trung va hanh vi mo hinh truoc khi tang rui ro.
+4. **Ra soat** - Moi chien luoc phai vuot qua bang chung thuc te, kiem tra sau giao dich va giam sat lien tuc.
 
 ## Doi tac va ranh gioi
 

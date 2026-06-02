@@ -95,8 +95,8 @@ export const i18n = {
             ],
             highlights: [
                 { label: "Proprietary capital discipline", body: "ASC builds infrastructure to trade and compound capital with discipline, not to chase market narratives.", icon: "rules" },
-                { label: "Research and data infrastructure", body: "Rules-based research across Vietnamese equities, VN30F futures, fundamentals, factors and market structure.", icon: "database" },
-                { label: "Execution-aware design", body: "Models are designed around liquidity, costs, timing, broker workflow and real implementation constraints.", icon: "activity" },
+                { label: "Research and data infrastructure", body: "Rules-based research built on market data, company evidence, liquidity and market structure.", icon: "database" },
+                { label: "Execution-aware design", body: "Models are designed around liquidity, costs, timing, operational workflow and real implementation constraints.", icon: "activity" },
                 { label: "Risk governance", body: "Drawdown limits, model monitoring, post-trade review and kill rules are part of the system, not an afterthought.", icon: "shield" },
             ],
         },
@@ -110,12 +110,12 @@ export const i18n = {
             capabilities: [
                 {
                     title: "Research engines",
-                    body: "Factor, fundamental, futures, and market-structure models tested against real implementation constraints.",
+                    body: "Research models tested against evidence, liquidity, costs and real implementation constraints.",
                     icon: "rules",
                 },
                 {
-                    title: "Trading systems",
-                    body: "Rules that connect model decisions to timing, execution windows, market liquidity, broker workflow and post-trade review.",
+                    title: "Trading workflows",
+                    body: "Rules that connect model decisions to timing, liquidity, costs, operational control and review.",
                     icon: "sliders",
                 },
                 {
@@ -135,33 +135,33 @@ export const i18n = {
                 },
                 {
                     title: "Evidence and model lifecycle",
-                    body: "Clean market, fundamental, intraday and operating data used to support research, monitoring, post-trade review and model updates.",
+                    body: "Clean market, company, intraday and operating data used to support research, monitoring, review and model updates.",
                     icon: "database",
                 },
             ],
-            strategyFamiliesTitle: "Strategy families",
-            strategyFamiliesIntro:
-                "The ASC platform is broader than one factor model or one asset class. Each strategy family must earn its place through evidence, execution realism, risk control and ongoing monitoring.",
-            strategyFamilies: [
+            howAscWorksTitle: "How ASC works",
+            howAscWorksIntro:
+                "ASC’s work is built around repeatable disciplines: research, execution, risk control and post-trade review. We do not publish strategy details, model rules or trading signals.",
+            howAscWorksItems: [
                 {
-                    title: "VN30F / Systematic trading systems",
-                    body: "Rules-based futures systems designed around official model decisions, execution windows, broker controls, and post-trade reconciliation.",
+                    title: "Research",
+                    body: "We study Vietnam’s markets through data, market structure and repeatable evidence.",
+                    icon: "rules",
+                },
+                {
+                    title: "Execution",
+                    body: "We design trading workflows around liquidity, timing, costs and operational control.",
+                    icon: "process",
+                },
+                {
+                    title: "Risk",
+                    body: "We monitor drawdown, exposure, concentration and model behaviour before increasing risk.",
+                    icon: "shield",
+                },
+                {
+                    title: "Review",
+                    body: "Every strategy must survive live evidence, reconciliation and ongoing monitoring.",
                     icon: "activity",
-                },
-                {
-                    title: "Systematic equity research",
-                    body: "Vietnam equity research using valuation, quality, momentum, liquidity and portfolio-construction discipline.",
-                    icon: "skyline",
-                },
-                {
-                    title: "Fundamental / STCV frameworks",
-                    body: "Data-driven fundamental ranking and valuation frameworks for listed Vietnamese companies.",
-                    icon: "building",
-                },
-                {
-                    title: "Market structure and risk overlays",
-                    body: "Regime, liquidity, correlation and drawdown frameworks designed to guide risk exposure.",
-                    icon: "network",
                 },
             ],
             principles: [
@@ -173,10 +173,10 @@ export const i18n = {
             objective:
                 "The objective is clear: turn market evidence into disciplined proprietary trading and capital-allocation decisions that can be reviewed before and after implementation.",
             processTitle: "System architecture",
-            processIntro: "We implement the framework as a research and engineering process behind every ASC strategy family.",
+            processIntro: "We implement the framework as a research and engineering process behind ASC’s trading work.",
             process: [
                 { label: "Data foundation", body: "Collect, clean, and monitor market, company, intraday, and operational data with clear lineage and quality checks." },
-                { label: "Research engines", body: "Build models across factors, fundamentals, futures, and market structure, then test them against real implementation constraints." },
+                { label: "Research engines", body: "Build models from market evidence, then test them against real implementation constraints." },
                 { label: "Trading and portfolio systems", body: "Translate model outputs into sizing, rebalancing, exposure, liquidity, cost and execution rules." },
                 { label: "Risk governance", body: "Monitor drawdowns, concentration, liquidity, model drift, degradation and regulated partner boundaries where relevant." },
             ],
@@ -219,7 +219,7 @@ export const i18n = {
                 intro: "Our process is quantitative, but not automation for its own sake. Judgement enters where it adds the most value:",
                 steps: [
                     "Selecting and cleaning the underlying market and company data.",
-                    "Choosing which factors to emphasise and how to combine them.",
+                    "Choosing which evidence to use and how to combine it.",
                     "Setting portfolio and risk limits that reflect Vietnamese market structure.",
                     "Reviewing how the portfolio behaves across different environments.",
                 ],
@@ -246,7 +246,7 @@ export const i18n = {
                 title: "Our edge in Vietnam",
                 bullets: [
                     "Vietnam-focused systems calibrated to local data, liquidity, market structure, and regulation.",
-                    "Research engines that include factor, fundamental, futures, and market-structure work.",
+                    "Research engines that test market evidence against execution and risk constraints.",
                     "Execution realism built into strategy design instead of treated as an afterthought.",
                     "Licensed partner collaboration remains available where regulated product or client-facing work is involved.",
                 ],
@@ -275,7 +275,7 @@ export const i18n = {
                     "Annualised volatility and tracking error.",
                     "Sharpe ratio and information ratio.",
                     "Maximum drawdown and time to recovery.",
-                    "Exposure and concentration statistics by sector, factor, instrument, and single name.",
+                    "Exposure and concentration statistics across relevant risk dimensions.",
                 ],
                 historyTitle: "Observed and simulated history",
                 historyIntro:
@@ -386,10 +386,10 @@ export const i18n = {
                 },
                 {
                     category: "Perspectives",
-                    title: "The Case for Systematic Factors in Vietnamese Equities",
+                    title: "Why ASC Uses Rules Instead of Market Stories",
                     slug: "why-we-use-rules-instead-of-gut-feeling",
                     summary:
-                        "Vietnam’s equity market exhibits distinct microstructural inefficiencies. We discuss why a systematic, factor-based approach can support more consistent decision-making than discretionary trading.",
+                        "Vietnam’s markets can move quickly. We discuss why written rules and evidence can support more consistent decision-making than discretionary trading.",
                     comingSoon: true,
                     icon: "compass",
                     image: "/assets/others/quant_office_dark_2.png",
@@ -399,7 +399,7 @@ export const i18n = {
                     title: "Drawdown Management Framework: A Systematic Approach",
                     slug: "how-we-try-to-limit-big-losses",
                     summary:
-                        "Preserving capital during tail events is critical to long-term compounding. We outline our multi-layered defense mechanism, incorporating volatility targeting and regime-based allocation adjustments.",
+                        "Preserving capital during tail events is critical to long-term compounding. We outline our multi-layered defense mechanism, incorporating volatility targeting and risk-based allocation adjustments.",
                     comingSoon: true,
                     icon: "shield",
                     image: "/assets/others/abstract_equity_curve_2.png",
@@ -411,7 +411,7 @@ export const i18n = {
             intro: "Proprietary. Systematic. Built for Vietnam’s capital markets.",
             details: [
                 "Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.",
-                "ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline. Our work spans Vietnam equities, VN30F futures, factor and fundamental research, market-structure analysis and implementation-aware portfolio design.",
+                "ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline. Our work spans market evidence, execution realism, risk controls, market-structure analysis and implementation-aware portfolio design.",
                 "ASC may collaborate with licensed partners where appropriate. In those cases, licensed partners are responsible for regulated products, onboarding, suitability, execution, reporting and client-facing obligations. ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.",
             ],
             factSheet: {
@@ -496,8 +496,8 @@ export const i18n = {
             ],
             highlights: [
                 { label: "Kỷ luật vốn độc quyền", body: "ASC xây dựng hệ thống để giao dịch và phát triển vốn có kỷ luật, không chạy theo câu chuyện thị trường.", icon: "rules" },
-                { label: "Hệ thống nghiên cứu và dữ liệu", body: "Nghiên cứu dựa trên quy tắc cho cổ phiếu Việt Nam, VN30F, cơ bản, nhân tố và cấu trúc thị trường.", icon: "database" },
-                { label: "Thiết kế có ý thức thực thi", body: "Mô hình được thiết kế quanh thanh khoản, chi phí, thời điểm, quy trình môi giới và ràng buộc thực tế.", icon: "activity" },
+                { label: "Hệ thống nghiên cứu và dữ liệu", body: "Nghiên cứu dựa trên quy tắc từ dữ liệu thị trường, bằng chứng doanh nghiệp, thanh khoản và cấu trúc thị trường.", icon: "database" },
+                { label: "Thiết kế có ý thức thực thi", body: "Mô hình được thiết kế quanh thanh khoản, chi phí, thời điểm, kiểm soát vận hành và ràng buộc thực tế.", icon: "activity" },
                 { label: "Quản trị rủi ro", body: "Giới hạn sụt giảm, giám sát mô hình, rà soát sau giao dịch và quy tắc dừng là một phần của hệ thống.", icon: "shield" },
             ],
         },
@@ -511,12 +511,12 @@ export const i18n = {
             capabilities: [
                 {
                     title: "Động cơ nghiên cứu",
-                    body: "Mô hình nhân tố, cơ bản, hợp đồng tương lai và cấu trúc thị trường được kiểm thử với các ràng buộc thực thi thực tế.",
+                    body: "Mô hình nghiên cứu được kiểm thử với bằng chứng, thanh khoản, chi phí và các ràng buộc thực thi thực tế.",
                     icon: "rules",
                 },
                 {
-                    title: "Hệ thống giao dịch",
-                    body: "Quy tắc kết nối quyết định mô hình với thời điểm, khung giờ thực thi, thanh khoản thị trường, quy trình môi giới và rà soát sau giao dịch.",
+                    title: "Quy trình giao dịch",
+                    body: "Quy tắc kết nối quyết định mô hình với thời điểm, thanh khoản, chi phí, kiểm soát vận hành và rà soát.",
                     icon: "sliders",
                 },
                 {
@@ -536,33 +536,33 @@ export const i18n = {
                 },
                 {
                     title: "Bằng chứng và vòng đời mô hình",
-                    body: "Dữ liệu thị trường, cơ bản, trong ngày và vận hành được làm sạch để hỗ trợ nghiên cứu, giám sát, rà soát sau giao dịch và cập nhật mô hình.",
+                    body: "Dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành được làm sạch để hỗ trợ nghiên cứu, giám sát, rà soát và cập nhật mô hình.",
                     icon: "database",
                 },
             ],
-            strategyFamiliesTitle: "Nhóm chiến lược",
-            strategyFamiliesIntro:
-                "Nền tảng ASC rộng hơn một mô hình nhân tố hoặc một loại tài sản. Mỗi nhóm chiến lược phải chứng minh giá trị qua bằng chứng, tính khả thi khi thực thi, kiểm soát rủi ro và giám sát liên tục.",
-            strategyFamilies: [
+            howAscWorksTitle: "Cách ASC vận hành",
+            howAscWorksIntro:
+                "Công việc của ASC được xây dựng quanh các kỷ luật có thể lặp lại: nghiên cứu, thực thi, kiểm soát rủi ro và rà soát sau giao dịch. Chúng tôi không công bố chi tiết chiến lược, quy tắc mô hình hay tín hiệu giao dịch.",
+            howAscWorksItems: [
                 {
-                    title: "VN30F / Hệ thống giao dịch có quy tắc",
-                    body: "Hệ thống hợp đồng tương lai dựa trên quy tắc, xoay quanh quyết định mô hình chính thức, khung giờ thực thi, kiểm soát môi giới và đối soát sau giao dịch.",
+                    title: "Nghiên cứu",
+                    body: "Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể lặp lại.",
+                    icon: "rules",
+                },
+                {
+                    title: "Thực thi",
+                    body: "Chúng tôi thiết kế quy trình giao dịch quanh thanh khoản, thời điểm, chi phí và kiểm soát vận hành.",
+                    icon: "process",
+                },
+                {
+                    title: "Rủi ro",
+                    body: "Chúng tôi giám sát sụt giảm, phơi nhiễm, tập trung và hành vi mô hình trước khi tăng rủi ro.",
+                    icon: "shield",
+                },
+                {
+                    title: "Rà soát",
+                    body: "Mọi chiến lược phải vượt qua bằng chứng thực tế, kiểm tra sau giao dịch và giám sát liên tục.",
                     icon: "activity",
-                },
-                {
-                    title: "Nghiên cứu cổ phiếu hệ thống",
-                    body: "Nghiên cứu cổ phiếu Việt Nam dùng định giá, chất lượng, động lượng, thanh khoản và kỷ luật xây dựng danh mục.",
-                    icon: "skyline",
-                },
-                {
-                    title: "Khung cơ bản / STCV",
-                    body: "Khung xếp hạng cơ bản và định giá dựa trên dữ liệu cho doanh nghiệp niêm yết Việt Nam.",
-                    icon: "building",
-                },
-                {
-                    title: "Cấu trúc thị trường và lớp phủ rủi ro",
-                    body: "Khung về chế độ thị trường, thanh khoản, tương quan và sụt giảm để định hướng mức độ rủi ro.",
-                    icon: "network",
                 },
             ],
             principles: [
@@ -574,10 +574,10 @@ export const i18n = {
             objective:
                 "Mục tiêu rõ ràng: chuyển bằng chứng thị trường thành các quyết định giao dịch và phân bổ vốn độc quyền có kỷ luật, có thể rà soát trước và sau khi triển khai.",
             processTitle: "Kiến trúc hệ thống",
-            processIntro: "Chúng tôi triển khai khung này như một quy trình nghiên cứu và kỹ thuật đứng sau từng nhóm chiến lược của ASC.",
+            processIntro: "Chúng tôi triển khai khung này như một quy trình nghiên cứu và kỹ thuật đứng sau hoạt động giao dịch của ASC.",
             process: [
                 { label: "Nền tảng dữ liệu", body: "Thu thập, làm sạch và giám sát dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành với nguồn gốc và kiểm tra chất lượng rõ ràng." },
-                { label: "Động cơ nghiên cứu", body: "Xây dựng mô hình về nhân tố, cơ bản, hợp đồng tương lai và cấu trúc thị trường, sau đó kiểm thử với các ràng buộc thực thi thực tế." },
+                { label: "Động cơ nghiên cứu", body: "Xây dựng mô hình từ bằng chứng thị trường, sau đó kiểm thử với các ràng buộc thực thi thực tế." },
                 { label: "Hệ thống giao dịch và danh mục", body: "Chuyển đầu ra mô hình thành quy tắc tỷ trọng, tái cân bằng, phơi nhiễm, thanh khoản, chi phí và thực thi." },
                 { label: "Quản trị rủi ro", body: "Giám sát sụt giảm, tập trung, thanh khoản, suy giảm mô hình và ranh giới với đối tác được cấp phép khi phù hợp." },
             ],
@@ -585,7 +585,7 @@ export const i18n = {
                 {
                     title: "Xác định phạm vi thị trường",
                     body:
-                        "Chúng tôi xác định công cụ, quy tắc thanh khoản, chất lượng dữ liệu, khung thời gian giao dịch và yêu cầu dữ liệu để chiến lược có tính thực tế tại Việt Nam.",
+                        "Chúng tôi xác định phạm vi giao dịch, quy tắc thanh khoản, chất lượng dữ liệu, thời điểm và yêu cầu dữ liệu để chiến lược có tính thực tế tại Việt Nam.",
                     icon: "database",
                 },
                 {
@@ -618,7 +618,7 @@ export const i18n = {
                 intro: "Quy trình của chúng tôi mang tính định lượng, nhưng không phải tự động hóa chỉ vì tự động hóa. Phán đoán con người được đưa vào ở những khâu mang lại giá trị cao nhất:",
                 steps: [
                     "Lựa chọn và làm sạch dữ liệu thị trường và doanh nghiệp.",
-                    "Quyết định nhấn mạnh nhân tố nào và kết hợp chúng ra sao.",
+                    "Quyết định dùng bằng chứng nào và kết hợp chúng ra sao.",
                     "Thiết lập giới hạn danh mục và rủi ro phản ánh cấu trúc thị trường Việt Nam.",
                     "Đánh giá cách danh mục vận hành trong các môi trường khác nhau.",
                 ],
@@ -645,7 +645,7 @@ export const i18n = {
                 title: "Lợi thế của chúng tôi tại Việt Nam",
                 bullets: [
                     "Hệ thống tập trung vào Việt Nam, được tinh chỉnh theo dữ liệu, thanh khoản, cấu trúc thị trường và quy định trong nước.",
-                    "Động cơ nghiên cứu bao gồm nhân tố, cơ bản, hợp đồng tương lai và cấu trúc thị trường.",
+                    "Động cơ nghiên cứu kiểm thử bằng chứng thị trường với các ràng buộc về thực thi và rủi ro.",
                     "Tính thực tế khi thực thi được đưa vào thiết kế chiến lược ngay từ đầu.",
                     "Hợp tác với đối tác được cấp phép vẫn phù hợp khi có sản phẩm được quản lý hoặc công việc tiếp xúc khách hàng.",
                 ],
@@ -784,10 +784,10 @@ export const i18n = {
                 },
                 {
                     category: "Góc nhìn",
-                    title: "Cơ sở cho Đầu tư theo Tiêu chí Hệ thống tại Việt Nam",
+                    title: "Vì sao ASC dùng quy tắc thay vì câu chuyện thị trường",
                     slug: "why-we-use-rules-instead-of-gut-feeling",
                     summary:
-                        "Thị trường cổ phiếu Việt Nam có những đặc thù riêng về cấu trúc vi mô. Chúng tôi thảo luận lý do tại sao phương pháp đầu tư theo tiêu chí cụ thể có thể hỗ trợ ra quyết định nhất quán hơn so với giao dịch theo cảm tính.",
+                        "Thị trường Việt Nam có thể thay đổi nhanh. Chúng tôi thảo luận lý do vì sao quy tắc được văn bản hóa và bằng chứng có thể hỗ trợ quyết định nhất quán hơn so với giao dịch theo cảm tính.",
                     comingSoon: true,
                     icon: "compass",
                     image: "/assets/others/quant_office_dark_2.png",
@@ -810,7 +810,7 @@ export const i18n = {
                 "Độc quyền. Có hệ thống. Xây dựng cho thị trường vốn Việt Nam.",
             details: [
                 "Aureus Sigma Capital (ASC) là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
-                "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật. Công việc của ASC bao gồm cổ phiếu Việt Nam, hợp đồng tương lai VN30F, nghiên cứu nhân tố và cơ bản, phân tích cấu trúc thị trường và thiết kế danh mục có ý thức thực thi.",
+                "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật. Công việc của ASC tập trung vào bằng chứng thị trường, tính thực tế khi thực thi, kiểm soát rủi ro, phân tích cấu trúc thị trường và thiết kế danh mục có ý thức thực thi.",
                 "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi giao dịch, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này và không nhận tài sản của khách hàng thông qua website này.",
             ],
             factSheet: {

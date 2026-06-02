@@ -60,8 +60,8 @@ export default function WhatWeDoPage({ t }) {
                 {Array.isArray(t.whatWeDo.capabilities) && (
                     <SystemsSection title={t.whatWeDo.capabilitiesTitle} intro={t.whatWeDo.capabilitiesIntro} items={t.whatWeDo.capabilities} />
                 )}
-                {Array.isArray(t.whatWeDo.strategyFamilies) && (
-                    <SystemsSection title={t.whatWeDo.strategyFamiliesTitle} intro={t.whatWeDo.strategyFamiliesIntro} items={t.whatWeDo.strategyFamilies} />
+                {Array.isArray(t.whatWeDo.howAscWorksItems) && (
+                    <SystemsSection title={t.whatWeDo.howAscWorksTitle} intro={t.whatWeDo.howAscWorksIntro} items={t.whatWeDo.howAscWorksItems} />
                 )}
                 {Array.isArray(t.whatWeDo.principles) && (
                     <div className="grid gap-4 md:grid-cols-2">

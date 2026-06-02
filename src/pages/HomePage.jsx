@@ -45,11 +45,11 @@ export default function HomePage({ t }) {
                     </div>
                 </section>
             )}
-            {Array.isArray(t.whatWeDo.strategyFamilies) && (
+            {Array.isArray(t.whatWeDo.howAscWorksItems) && (
                 <section className="py-12 md:py-16 bg-slate-50 border-y border-slate-100">
                     <div className="mx-auto max-w-6xl px-4 space-y-8">
-                        <SectionTitle icon={BookOpen} title={t.whatWeDo.strategyFamiliesTitle} subtitle={t.whatWeDo.strategyFamiliesIntro} />
-                        <SystemGrid items={t.whatWeDo.strategyFamilies} />
+                        <SectionTitle icon={BookOpen} title={t.whatWeDo.howAscWorksTitle} subtitle={t.whatWeDo.howAscWorksIntro} />
+                        <SystemGrid items={t.whatWeDo.howAscWorksItems} />
                     </div>
                 </section>
             )}
