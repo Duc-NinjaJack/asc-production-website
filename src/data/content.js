@@ -81,9 +81,9 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Why ASC",
-            title: "Proprietary systematic trading and investment systems for Vietnam’s capital markets.",
+            title: "Proprietary systematic trading for Vietnam’s capital markets.",
             subtitle:
-                "Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline.",
+                "Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline.",
             ctas: [
                 { label: "Explore what ASC builds", to: "/what-we-do" },
                 { label: "Partnerships and boundaries", to: "/partnerships" },
@@ -91,11 +91,11 @@ export const i18n = {
             stats: [
                 { label: "Founded", value: "2025", icon: "clock" },
                 { label: "Market", value: "Vietnam capital markets", icon: "map" },
-                { label: "Role", value: "Proprietary systems", icon: "shield-check" },
+                { label: "Role", value: "Proprietary trading", icon: "shield-check" },
             ],
             highlights: [
-                { label: "Proprietary capital discipline", body: "ASC builds systems to trade and compound capital with discipline, not to chase market narratives.", icon: "rules" },
-                { label: "Research and data systems", body: "Rules-based research across Vietnamese equities, VN30F futures, fundamentals, factors and market structure.", icon: "database" },
+                { label: "Proprietary capital discipline", body: "ASC builds infrastructure to trade and compound capital with discipline, not to chase market narratives.", icon: "rules" },
+                { label: "Research and data infrastructure", body: "Rules-based research across Vietnamese equities, VN30F futures, fundamentals, factors and market structure.", icon: "database" },
                 { label: "Execution-aware design", body: "Models are designed around liquidity, costs, timing, broker workflow and real implementation constraints.", icon: "activity" },
                 { label: "Risk governance", body: "Drawdown limits, model monitoring, post-trade review and kill rules are part of the system, not an afterthought.", icon: "shield" },
             ],
@@ -368,7 +368,7 @@ export const i18n = {
         insights: {
             sectionTitle: "Insights",
             intro:
-                "We publish concise notes for readers and partners who want to understand Vietnam market structure, investment systems, risk governance, and systematic strategy development.",
+                "We publish concise notes for readers and partners who want to understand Vietnam market structure, trading infrastructure, risk governance, and systematic strategy development.",
             readMore: "Read article",
             backToInsights: "Back to insights",
             comingSoonLabel: "Coming soon",
@@ -418,13 +418,13 @@ export const i18n = {
                 title: "Fact Sheet",
                 items: [
                     { label: "Founded", value: "2025" },
-                    { label: "Focus", value: "Proprietary systematic systems for Vietnam" },
+                    { label: "Focus", value: "Proprietary systematic trading for Vietnam" },
                     { label: "Website boundary", value: "No direct public product offering" },
                 ]
             },
             highlights: [
                 { label: "Systematic discipline", body: "Rules-based research and governance tailored to Vietnam’s capital markets.", icon: "rules" },
-                { label: "Investment systems", body: "Research, portfolio, execution, data and risk-control infrastructure.", icon: "network" },
+                { label: "Trading infrastructure", body: "Research, portfolio, execution, data and risk-control infrastructure.", icon: "network" },
                 { label: "Clear boundaries", body: "Licensed partners remain responsible for regulated client-facing work where relevant.", icon: "shield-check" },
             ],
             bioDetails: [
@@ -432,7 +432,7 @@ export const i18n = {
                     name: "Duc (Huy) Nguyen",
                     title: "Founder & CEO",
                     body: [
-                        "Duc is the founding architect of Aureus Sigma Capital’s systematic investment systems. He leads ASC’s research, model design, risk oversight, and partner coordination.",
+                        "Duc is the founding architect of Aureus Sigma Capital’s proprietary trading infrastructure. He leads ASC’s research, model design, risk oversight, and partner coordination.",
                         "His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation frameworks through multiple cycles.",
                         "Duc keeps ASC focused on documented rules, local data quality, execution discipline and clear risk controls while licensed partners handle regulated client-facing work where applicable.",
                     ],
@@ -443,7 +443,7 @@ export const i18n = {
         team: {
             founder: "Duc (Huy) Nguyen — Founder & CEO",
             founderBio:
-                "Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on proprietary systematic systems and risk-aware process design.",
+                "Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on proprietary systematic trading and risk-aware process design.",
         },
         contact: {
             title: "Contact",
@@ -482,9 +482,9 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Tại sao chọn ASC",
-            title: "Hệ thống giao dịch và đầu tư hệ thống độc quyền cho thị trường vốn Việt Nam.",
+            title: "Giao dịch hệ thống cho thị trường vốn Việt Nam.",
             subtitle:
-                "Aureus Sigma Capital xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật.",
+                "Aureus Sigma Capital xây dựng hạ tầng nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật.",
             ctas: [
                 { label: "Khám phá ASC xây dựng gì", to: "/what-we-do" },
                 { label: "Đối tác và ranh giới", to: "/partnerships" },
@@ -653,7 +653,7 @@ export const i18n = {
             expectations: {
                 title: "Hệ thống được thiết kế để làm gì — và không làm gì",
                 goals: [
-                    "Một hệ thống giao dịch và đầu tư được văn bản hóa và dựa trên quy tắc, không phải quyết định theo câu chuyện thị trường.",
+                    "Một quy trình giao dịch được văn bản hóa và dựa trên quy tắc, không phải quyết định theo câu chuyện thị trường.",
                     "Quy tắc rủi ro rõ ràng cho sụt giảm, thanh khoản, tập trung, thực thi và rà soát mô hình.",
                     "Một quy trình mà ASC và đối tác được cấp phép, khi phù hợp, có thể giám sát và đặt câu hỏi.",
                 ],
@@ -700,7 +700,7 @@ export const i18n = {
             paragraphs: [
                 "Trong các trường hợp đó, ASC cung cấp khung nghiên cứu, quy tắc mô hình, chẩn đoán và giám sát rủi ro.",
                 "Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi giao dịch, báo cáo và nghĩa vụ tiếp xúc khách hàng.",
-                "Aureus Sigma Capital là công ty giao dịch và đầu tư hệ thống tập trung vào thị trường vốn Việt Nam.",
+                "Aureus Sigma Capital là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
                 "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này và không nhận tài sản của khách hàng thông qua website này.",
                 "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật.",
                 "Hợp tác chỉ được dùng khi sản phẩm được quản lý, triển khai hoặc nghĩa vụ tiếp xúc khách hàng cần một tổ chức được cấp phép.",
@@ -766,7 +766,7 @@ export const i18n = {
         },
         insights: {
             sectionTitle: "Góc nhìn",
-            intro: "Chúng tôi xuất bản các ghi chú ngắn gọn cho người đọc và đối tác muốn hiểu cấu trúc thị trường Việt Nam, hệ thống đầu tư, quản trị rủi ro và phát triển chiến lược hệ thống.",
+            intro: "Chúng tôi xuất bản các ghi chú ngắn gọn cho người đọc và đối tác muốn hiểu cấu trúc thị trường Việt Nam, hạ tầng giao dịch, quản trị rủi ro và phát triển chiến lược hệ thống.",
             readMore: "Đọc bài viết",
             backToInsights: "Xem thêm bài viết",
             comingSoonLabel: "Sắp ra mắt",
@@ -787,7 +787,7 @@ export const i18n = {
                     title: "Cơ sở cho Đầu tư theo Tiêu chí Hệ thống tại Việt Nam",
                     slug: "why-we-use-rules-instead-of-gut-feeling",
                     summary:
-                        "Thị trường cổ phiếu Việt Nam có những đặc thù riêng về cấu trúc vi mô. Chúng tôi thảo luận lý do tại sao phương pháp đầu tư hệ thống, dựa trên tiêu chí cụ thể có thể hỗ trợ ra quyết định nhất quán hơn so với giao dịch theo cảm tính.",
+                        "Thị trường cổ phiếu Việt Nam có những đặc thù riêng về cấu trúc vi mô. Chúng tôi thảo luận lý do tại sao phương pháp đầu tư theo tiêu chí cụ thể có thể hỗ trợ ra quyết định nhất quán hơn so với giao dịch theo cảm tính.",
                     comingSoon: true,
                     icon: "compass",
                     image: "/assets/others/quant_office_dark_2.png",
@@ -809,7 +809,7 @@ export const i18n = {
             intro:
                 "Độc quyền. Có hệ thống. Xây dựng cho thị trường vốn Việt Nam.",
             details: [
-                "Aureus Sigma Capital (ASC) là công ty giao dịch và đầu tư hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
+                "Aureus Sigma Capital (ASC) là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
                 "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật. Công việc của ASC bao gồm cổ phiếu Việt Nam, hợp đồng tương lai VN30F, nghiên cứu nhân tố và cơ bản, phân tích cấu trúc thị trường và thiết kế danh mục có ý thức thực thi.",
                 "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi giao dịch, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này và không nhận tài sản của khách hàng thông qua website này.",
             ],
@@ -823,7 +823,7 @@ export const i18n = {
             },
             highlights: [
                 { label: "Kỷ luật hệ thống", body: "Nghiên cứu và quản trị dựa trên quy tắc, được tinh chỉnh cho thị trường vốn Việt Nam.", icon: "rules" },
-                { label: "Hệ thống đầu tư", body: "Hạ tầng nghiên cứu, danh mục, thực thi, dữ liệu và kiểm soát rủi ro.", icon: "network" },
+                { label: "Hạ tầng giao dịch", body: "Hạ tầng nghiên cứu, danh mục, thực thi, dữ liệu và kiểm soát rủi ro.", icon: "network" },
                 { label: "Ranh giới rõ ràng", body: "Đối tác được cấp phép chịu trách nhiệm công việc tiếp xúc khách hàng khi phù hợp.", icon: "shield-check" },
             ],
             bioDetails: [
@@ -831,7 +831,7 @@ export const i18n = {
                     name: "Nguyễn Huy Đức",
                     title: "Nhà sáng lập kiêm Tổng Giám đốc",
                     body: [
-                        "Ông Đức là người sáng lập và xây dựng các hệ thống đầu tư của Aureus Sigma Capital. Ông dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với các đối tác của ASC.",
+                        "Ông Đức là người sáng lập và xây dựng hạ tầng giao dịch độc quyền của Aureus Sigma Capital. Ông dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với các đối tác của ASC.",
                         "Sự nghiệp của ông gắn bó với thị trường vốn Việt Nam hơn hai mươi năm, trải qua các vị trí lãnh đạo cấp cao như Tổng Giám đốc Techcom Capital, Tổng Giám đốc Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông phụ trách mảng tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó đảm nhiệm vị trí Giám đốc Tài chính tập đoàn kiêm Trưởng bộ phận Đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, ứng dụng các mô hình định lượng, phân tích kịch bản và khung phân bổ vốn kỷ luật qua nhiều chu kỳ thị trường.",
                         "Ông Đức giữ trọng tâm của ASC vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép xử lý các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng.",
                     ],
@@ -860,7 +860,7 @@ export const i18n = {
         },
         legal: {
             body:
-                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch và đầu tư hệ thống tập trung vào thị trường vốn Việt Nam. ASC phát triển các hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này, không nhận tài sản của khách hàng thông qua website này và không cung cấp tư vấn đầu tư cá nhân thông qua website này. Khi ASC hợp tác với đối tác được cấp phép, đối tác đó chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest, khung đầu tư hoặc hành vi chiến lược chỉ mang tính minh họa và có các giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không phải là cam kết cho kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.",
+                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam. ASC phát triển hạ tầng nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này, không nhận tài sản của khách hàng thông qua website này và không cung cấp tư vấn đầu tư cá nhân thông qua website này. Khi ASC hợp tác với đối tác được cấp phép, đối tác đó chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest, khung đầu tư hoặc hành vi chiến lược chỉ mang tính minh họa và có các giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không phải là cam kết cho kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.",
             rights: "© " + new Date().getFullYear() + " Aureus Sigma Capital. All rights reserved.",
         },
         cookie: {

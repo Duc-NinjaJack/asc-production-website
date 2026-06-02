@@ -78,7 +78,7 @@ export default function Layout({ t, lang, setLang, children }) {
                         )}
                         <div className="hidden md:block">
                             <div className="font-serif font-semibold text-slate-900 text-lg tracking-tight">Aureus Sigma Capital</div>
-                            <div className="text-[10px] uppercase tracking-widest text-slate-500 font-medium">Proprietary Systematic Systems</div>
+                            <div className="text-[10px] uppercase tracking-widest text-slate-500 font-medium">Proprietary Systematic Trading</div>
                         </div>
                     </Link>
 

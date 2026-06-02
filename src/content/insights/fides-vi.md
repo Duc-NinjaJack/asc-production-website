@@ -1,4 +1,4 @@
-FIDES (đơn vị quản lý quỹ có gốc Hàn Quốc tại Việt Nam) và Aureus Sigma Capital, công ty giao dịch và đầu tư hệ thống tập trung vào thị trường vốn Việt Nam, đã ký biên bản ghi nhớ hợp tác chiến lược.
+FIDES (đơn vị quản lý quỹ có gốc Hàn Quốc tại Việt Nam) và Aureus Sigma Capital, công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam, đã ký biên bản ghi nhớ hợp tác chiến lược.
 
 Thị trường Việt Nam tăng trưởng nhanh nhưng nhiều danh mục vẫn phụ thuộc cảm tính và quyết định ngắn hạn. Hai bên cùng theo đuổi phương pháp kỷ luật, rõ ràng và chú trọng bảo vệ nhà đầu tư.
 

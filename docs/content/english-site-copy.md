@@ -2,8 +2,8 @@
 
 ## Hero
 
-- **Headline:** Proprietary systematic trading and investment systems for Vietnam's capital markets.
-- **Subheadline:** Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline.
+- **Headline:** Proprietary systematic trading for Vietnam's capital markets.
+- **Subheadline:** Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline.
 - **Primary CTA:** Explore what ASC builds
 - **Secondary CTA:** Partnerships and boundaries
 
@@ -11,7 +11,7 @@
 
 Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam's capital markets.
 
-ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline. The work spans Vietnam equities, VN30F futures, factor and fundamental research, market-structure analysis and implementation-aware portfolio design.
+ASC builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline. The work spans Vietnam equities, VN30F futures, factor and fundamental research, market-structure analysis and implementation-aware portfolio design.
 
 ASC may collaborate with licensed partners where appropriate. In those cases, licensed partners are responsible for regulated products, onboarding, suitability, execution, reporting and client-facing obligations. ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.
 

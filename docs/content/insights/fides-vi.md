@@ -1,6 +1,6 @@
 # Ghi chu hop tac FIDES
 
-FIDES, don vi quan ly quy duoc cap phep tai Viet Nam, va Aureus Sigma Capital, cong ty giao dich va dau tu he thong tap trung vao thi truong von Viet Nam, da ky bien ban ghi nho hop tac chien luoc.
+FIDES, don vi quan ly quy duoc cap phep tai Viet Nam, va Aureus Sigma Capital, cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam, da ky bien ban ghi nho hop tac chien luoc.
 
 ASC thiet ke, kiem dinh va duy tri he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro. Quy trinh nghien cuu ket hop du lieu thi truong, thong tin doanh nghiep, rang buoc giao dich va cac gioi han da van ban hoa.
 

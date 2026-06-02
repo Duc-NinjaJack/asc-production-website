@@ -2,16 +2,16 @@
 
 ## Hero
 
-- **Headline:** He thong giao dich va dau tu he thong doc quyen cho thi truong von Viet Nam.
-- **Subheadline:** Aureus Sigma Capital xay dung he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat.
+- **Headline:** Giao dich he thong cho thi truong von Viet Nam.
+- **Subheadline:** Aureus Sigma Capital xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat.
 - **Primary CTA:** Kham pha ASC xay dung gi
 - **Secondary CTA:** Doi tac va ranh gioi
 
 ## Tong quan ve ASC
 
-Aureus Sigma Capital (ASC) la cong ty giao dich va dau tu he thong doc quyen tap trung vao thi truong von Viet Nam.
+Aureus Sigma Capital (ASC) la cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam.
 
-ASC xay dung he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat. Cong viec cua ASC bao gom co phieu Viet Nam, hop dong tuong lai VN30F, nghien cuu nhan to va co ban, phan tich cau truc thi truong va thiet ke danh muc co y thuc thuc thi.
+ASC xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat. Cong viec cua ASC bao gom co phieu Viet Nam, hop dong tuong lai VN30F, nghien cuu nhan to va co ban, phan tich cau truc thi truong va thiet ke danh muc co y thuc thuc thi.
 
 ASC co the hop tac voi cac doi tac duoc cap phep khi phu hop. Trong cac truong hop do, doi tac duoc cap phep chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai danh muc, thuc thi giao dich, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat. ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay va khong nhan tai san cua khach hang thong qua website nay.
 
@@ -58,7 +58,7 @@ Doi voi thong tin ve san pham duoc quan ly, mo tai khoan, danh gia su phu hop, t
 
 Website nay chi nham muc dich cung cap thong tin. Noi dung tren website khong cau thanh loi chao ban, loi moi chao mua, khuyen nghi dau tu hay tu van dau tu ca nhan doi voi bat ky chung khoan, san pham dau tu hoac cong cu tai chinh nao tai bat ky khu vuc phap ly nao.
 
-Aureus Sigma Capital (ASC) la cong ty giao dich va dau tu he thong tap trung vao thi truong von Viet Nam. ASC phat trien cac he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro.
+Aureus Sigma Capital (ASC) la cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam. ASC phat trien ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro.
 
 ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay, khong nhan tai san cua khach hang thong qua website nay va khong cung cap tu van dau tu ca nhan thong qua website nay.
 
