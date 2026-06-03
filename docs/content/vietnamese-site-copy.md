@@ -41,4 +41,4 @@ Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên w
 ## Metadata
 
 - **Title:** Aureus Sigma Capital | Proprietary Systematic Trading
-- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.
+- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets.

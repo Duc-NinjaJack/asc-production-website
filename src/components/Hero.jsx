@@ -31,7 +31,7 @@ export default function Hero({ t }) {
                         <div className="space-y-4 md:space-y-6">
                             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#D4AF37]/10 border border-[#D4AF37]/20 backdrop-blur-sm">
                                 <span className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] animate-pulse"></span>
-                                <span className="text-[9px] md:text-[10px] uppercase tracking-[0.15em] md:tracking-[0.2em] text-[#D4AF37] font-bold">Proprietary Trading</span>
+                                <span className="text-[9px] md:text-[10px] uppercase tracking-[0.15em] md:tracking-[0.2em] text-[#D4AF37] font-bold">Proprietary Systematic Trading</span>
                             </div>
                             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-serif font-medium leading-[1.1] tracking-tight text-white">
                                 {t.hero.title}

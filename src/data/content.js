@@ -81,7 +81,7 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Why ASC",
-            title: "We trade our own capital in Vietnam's markets.",
+            title: "Proprietary systematic trading in Vietnam’s capital markets.",
             subtitle:
                 "Aureus Sigma Capital is a proprietary systematic trading firm — disciplined research, execution, and risk control in Vietnam's capital markets.",
             brief:

@@ -30,7 +30,7 @@ export default function HomePage({ t, lang }) {
         <div>
             <SEO
                 title="Aureus Sigma Capital | Proprietary Systematic Trading"
-                description="Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets."
+                description="Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets."
                 lang={lang}
             />
             <Hero t={t} />

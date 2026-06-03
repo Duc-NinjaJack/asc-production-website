@@ -2,7 +2,7 @@
 
 ## Hero
 
-- **Headline:** We trade our own capital in Vietnam's markets.
+- **Headline:** Proprietary systematic trading in Vietnam’s capital markets.
 - **Subheadline:** Aureus Sigma Capital is a proprietary systematic trading firm - disciplined research, execution, and risk control in Vietnam's capital markets.
 - **Primary CTA:** How we work
 - **Secondary CTA:** Partnerships
@@ -41,8 +41,8 @@ This website is for informational purposes only. It does not constitute an offer
 ## Metadata
 
 - **Title:** Aureus Sigma Capital | Proprietary Systematic Trading
-- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.
+- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets.
 - **OG title:** Aureus Sigma Capital | Proprietary Systematic Trading
-- **OG description:** ASC is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.
+- **OG description:** Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets.
 - **Keywords:** omitted
 - **Canonical:** https://www.aureussigmacapital.com/

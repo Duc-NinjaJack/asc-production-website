@@ -40,8 +40,8 @@ export default function Layout({ t, lang, setLang, children }) {
                 <div className="mx-auto max-w-6xl px-4 py-2 flex items-center justify-between text-xs">
                     <div className="flex items-center gap-2">
                         <ShieldCheck className="h-4 w-4 shrink-0" />
-                        <span className="opacity-90 hidden sm:inline">Proprietary Trading • Vietnam Focus • Founded 2025</span>
-                        <span className="opacity-90 sm:hidden text-[10px]">Proprietary • Vietnam • 2025</span>
+                        <span className="opacity-90 hidden sm:inline">Proprietary Systematic Trading • Vietnam Focus • Founded 2025</span>
+                        <span className="opacity-90 sm:hidden text-[10px]">Systematic • Vietnam • 2025</span>
                     </div>
                     <div className="flex items-center gap-1">
                         <button
@@ -78,7 +78,7 @@ export default function Layout({ t, lang, setLang, children }) {
                         )}
                         <div className="hidden md:block">
                             <div className="font-serif font-semibold text-slate-900 text-lg tracking-tight">Aureus Sigma Capital</div>
-                            <div className="text-[10px] uppercase tracking-widest text-slate-500 font-medium">Proprietary Trading</div>
+                            <div className="text-[10px] uppercase tracking-widest text-slate-500 font-medium">Proprietary Systematic Trading</div>
                         </div>
                     </Link>
 
