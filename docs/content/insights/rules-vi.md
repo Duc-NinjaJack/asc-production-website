@@ -1,9 +1,9 @@
-Thi truong Viet Nam co the bien dong nhanh hon phan doan cua con nguoi. Gia, thanh khoan va tin tuc co the thay doi rat nhanh. Cach tiep can cua ASC la viet quy tac truoc khi ap luc xuat hien.
+Thị trường Việt Nam có thể biến động nhanh hơn phán đoán của con người. Giá, thanh khoản và tin tức có thể thay đổi rất nhanh. Cách tiếp cận của ASC là viết quy tắc trước khi áp lực xuất hiện.
 
-Quy tac xac dinh he thong co the giao dich gi, khi nao duoc tang hoac giam rui ro, vi the co the lon den dau va muc phoi nhiem co the thay doi nhanh the nao.
+Quy tắc xác định nội dung có thể giao dịch, khi nào được tăng hoặc giảm rủi ro, vị thế có thể lớn đến đâu và mức tiếp xúc có thể thay đổi nhanh thế nào.
 
-Vi quy tac duoc ghi lai, ASC co the danh gia quyet dinh mot cach khach quan, kiem thu thay doi bang du lieu va giu quy trinh nhat quan khi thi truong cang thang.
+Vì quy tắc được ghi lại, ASC có thể đánh giá quyết định một cách khách quan, kiểm thử thay đổi bằng dữ liệu và giữ quy trình nhất quán khi thị trường căng thẳng.
 
-Quy trinh nghien cuu bat dau tu cac cong cu thanh khoan tai Viet Nam. He thong ket hop hanh vi gia, thong tin doanh nghiep, rang buoc giao dich va dac tinh rui ro, roi phan bo phoi nhiem trong gioi han da viet.
+Quy trình nghiên cứu bắt đầu từ các công cụ thanh khoản tại Việt Nam. Quy trình này kết hợp hành vi giá, thông tin doanh nghiệp, ràng buộc giao dịch và đặc tính rủi ro, rồi phân bổ mức tiếp xúc trong giới hạn đã viết.
 
-Kiem soat rui ro nam trong tung buoc. Neu muc lo cham nguong dinh truoc, he thong co the giam toc, giam phoi nhiem hoac tam dung. Dieu nay khong du bao tuong lai va khong hua hen ket qua. Muc tieu la giu quyet dinh giao dich va dau tu gan voi bang chung thay vi tin tuc.
+Kiểm soát rủi ro nằm trong từng bước. Nếu mức lỗ chạm ngưỡng định trước, quy tắc có thể yêu cầu giao dịch chậm lại, giảm mức tiếp xúc hoặc tạm dừng. Điều này không dự báo tương lai và không hứa hẹn kết quả. Mục tiêu là giữ quyết định giao dịch và đầu tư gắn với bằng chứng thay vì tin tức.

@@ -81,135 +81,102 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Why ASC",
-            title: "Proprietary systematic trading for Vietnam’s capital markets.",
+            title: "We trade our own capital in Vietnam's markets.",
             subtitle:
-                "Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline.",
+                "Aureus Sigma Capital is a proprietary systematic trading firm — disciplined research, execution, and risk control in Vietnam's capital markets.",
+            brief:
+                "Aureus Sigma Capital is a proprietary trading firm — disciplined research, execution, and risk control in Vietnam's capital markets.",
             ctas: [
-                { label: "Explore what ASC builds", to: "/what-we-do" },
-                { label: "Partnerships and boundaries", to: "/partnerships" },
+                { label: "How we work", to: "/what-we-do" },
+                { label: "Partnerships", to: "/partnerships" },
             ],
             stats: [
                 { label: "Founded", value: "2025", icon: "clock" },
                 { label: "Market", value: "Vietnam capital markets", icon: "map" },
-                { label: "Role", value: "Proprietary trading", icon: "shield-check" },
+                { label: "Role", value: "Own-capital trading", icon: "shield-check" },
             ],
             highlights: [
-                { label: "Proprietary capital discipline", body: "ASC builds infrastructure to trade and compound capital with discipline, not to chase market narratives.", icon: "rules" },
-                { label: "Research and data infrastructure", body: "Rules-based research built on market data, company evidence, liquidity and market structure.", icon: "database" },
-                { label: "Execution-aware design", body: "Models are designed around liquidity, costs, timing, operational workflow and real implementation constraints.", icon: "activity" },
-                { label: "Risk governance", body: "Drawdown limits, model monitoring, post-trade review and kill rules are part of the system, not an afterthought.", icon: "shield" },
+                { label: "Own capital", body: "ASC trades its own capital. This website does not offer products or onboarding.", icon: "rules" },
+                { label: "Research discipline", body: "Ideas earn their place through data, testing, and review.", icon: "database" },
+                { label: "Execution discipline", body: "Trading decisions are built around liquidity, timing, and cost.", icon: "activity" },
+                { label: "Risk control", body: "Limits are set before risk is increased.", icon: "shield" },
             ],
         },
         whatWeDo: {
-            sectionTitle: "How ASC’s systems are designed",
+            sectionTitle: "How ASC works",
             intro:
-                "ASC designs proprietary research, trading, execution, portfolio-construction and risk-control systems for Vietnam’s capital markets. The work turns evidence into repeatable decisions, real execution workflows and reviewable risk controls.",
-            capabilitiesTitle: "What ASC builds",
-            capabilitiesIntro:
-                "ASC is not a stock-tip platform, signal seller or product distributor. We build the systems behind disciplined proprietary trading and investment decisions.",
-            capabilities: [
-                {
-                    title: "Research engines",
-                    body: "Research models tested against evidence, liquidity, costs and real implementation constraints.",
-                    icon: "rules",
-                },
-                {
-                    title: "Trading workflows",
-                    body: "Rules that connect model decisions to timing, liquidity, costs, operational control and review.",
-                    icon: "sliders",
-                },
-                {
-                    title: "Portfolio construction",
-                    body: "Position sizing, rebalancing, exposure control, liquidity, concentration and drawdown-aware portfolio design.",
-                    icon: "activity",
-                },
-                {
-                    title: "Execution infrastructure",
-                    body: "Implementation logic designed around costs, timing, reconciliation, real trading constraints and operational review.",
-                    icon: "process",
-                },
-                {
-                    title: "Risk governance",
-                    body: "Model validation, degradation monitoring, kill rules and boundaries between ASC systems and regulated partner obligations.",
-                    icon: "shield-check",
-                },
-                {
-                    title: "Evidence and model lifecycle",
-                    body: "Clean market, company, intraday and operating data used to support research, monitoring, review and model updates.",
-                    icon: "database",
-                },
-            ],
+                "ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.",
             howAscWorksTitle: "How ASC works",
             howAscWorksIntro:
-                "ASC’s work is built around repeatable disciplines: research, execution, risk control and post-trade review. We do not publish strategy details, model rules or trading signals.",
+                "ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.",
             howAscWorksItems: [
                 {
                     title: "Research",
-                    body: "We study Vietnam’s markets through data, market structure and repeatable evidence.",
+                    body: "We study Vietnam's markets through data, market structure, and repeatable evidence. Ideas earn their place through testing, not conviction.",
                     icon: "rules",
                 },
                 {
                     title: "Execution",
-                    body: "We design trading workflows around liquidity, timing, costs and operational control.",
+                    body: "We trade our own book with defined rules built around liquidity, timing, and cost. Discipline matters more than any single trade.",
                     icon: "process",
                 },
                 {
                     title: "Risk",
-                    body: "We monitor drawdown, exposure, concentration and model behaviour before increasing risk.",
+                    body: "We monitor drawdown, exposure, and concentration, with limits set in advance and enforced before risk is increased.",
                     icon: "shield",
                 },
                 {
                     title: "Review",
-                    body: "Every strategy must survive live evidence, reconciliation and ongoing monitoring.",
+                    body: "Every strategy must survive live evidence, reconciliation, and ongoing monitoring. We measure ourselves on adherence, not outcomes.",
                     icon: "activity",
                 },
             ],
             principles: [
-                { label: "Systematic", body: "Decisions are based on written rules, not ad hoc opinions or market stories." },
-                { label: "Evidence-driven", body: "Research must be reproducible, tradable, risk-aware, and monitored after use." },
-                { label: "Local by design", body: "Built on Vietnamese liquidity, regulation, and disclosure realities." },
-                { label: "Risk-aware", body: "Drawdowns, liquidity, and behaviour are design inputs—not afterthoughts." },
+                { label: "Rules-based", body: "Decisions are based on written rules, not ad hoc opinions or market stories." },
+                { label: "Evidence-driven", body: "Research must be repeatable, tradable, risk-aware, and monitored after use." },
+                { label: "Local by design", body: "The work reflects Vietnamese liquidity, regulation, and disclosure realities." },
+                { label: "Risk-aware", body: "Drawdowns, liquidity, and behaviour are design inputs, not afterthoughts." },
             ],
             objective:
-                "The objective is clear: turn market evidence into disciplined proprietary trading and capital-allocation decisions that can be reviewed before and after implementation.",
-            processTitle: "System architecture",
-            processIntro: "We implement the framework as a research and engineering process behind ASC’s trading work.",
+                "The objective is simple: turn market evidence into disciplined proprietary trading decisions that can be reviewed before and after implementation.",
+            processTitle: "How the work is organized",
+            processIntro: "ASC keeps the work in a clear sequence behind its own trading book.",
             process: [
-                { label: "Data foundation", body: "Collect, clean, and monitor market, company, intraday, and operational data with clear lineage and quality checks." },
-                { label: "Research engines", body: "Build models from market evidence, then test them against real implementation constraints." },
-                { label: "Trading and portfolio systems", body: "Translate model outputs into sizing, rebalancing, exposure, liquidity, cost and execution rules." },
-                { label: "Risk governance", body: "Monitor drawdowns, concentration, liquidity, model drift, degradation and regulated partner boundaries where relevant." },
+                { label: "Research", body: "Collect, clean, and monitor market, company, intraday, and operating data with clear lineage and quality checks." },
+                { label: "Testing", body: "Test ideas against costs, liquidity, timing, and implementation limits before they are trusted." },
+                { label: "Trading", body: "Translate approved decisions into sizing, exposure, rebalancing, cost, and execution rules." },
+                { label: "Risk review", body: "Monitor drawdowns, concentration, liquidity, model drift, and licensed-partner boundaries where relevant." },
             ],
-            methodsTitle: "How the system works",
-            methodsIntro: "ASC’s work turns market evidence into governed trading and investment decisions that can be reviewed before and after implementation.",
+            methodsTitle: "How the work is reviewed",
+            methodsIntro: "ASC turns market evidence into trading decisions that can be reviewed before and after implementation.",
             blocks: [
                 {
-                    title: "Define the market universe",
+                    title: "Define the market",
                     body:
-                        "We define the instruments, liquidity rules, disclosure quality, timing constraints, and data requirements that make a strategy realistic in Vietnam.",
+                        "We define liquidity, disclosure quality, timing constraints, and data requirements before an idea is considered realistic in Vietnam.",
                     icon: "database",
                 },
                 {
-                    title: "Build model evidence",
+                    title: "Test the evidence",
                     body:
-                        "Models are tested on market evidence, but they are not accepted unless the signal can survive costs, liquidity, execution windows, and monitoring rules.",
+                        "Ideas are tested on market evidence, but they are not accepted unless they can survive costs, liquidity, timing, and monitoring rules.",
                     icon: "sliders",
                 },
                 {
-                    title: "Construct the portfolio system",
+                    title: "Set portfolio limits",
                     body:
-                        "Portfolio rules cover sizing, turnover, concentration, exposure, rebalancing and when a model output should be reduced, paused or reviewed.",
+                        "Portfolio rules cover sizing, turnover, concentration, exposure, rebalancing, and when a decision should be reduced, paused, or reviewed.",
                     icon: "compass",
                 },
                 {
-                    title: "Risk controls and review",
+                    title: "Risk control and review",
                     intro:
-                        "Risk management is built into the system. We use multiple layers of review before a strategy is trusted:",
+                        "Risk management is built into the work. We use several layers of review before a strategy is trusted:",
                     points: [
                         "Drawdown and concentration limits are defined before implementation.",
                         "Liquidity, costs, and execution timing are treated as design constraints.",
                         "Model drift and degradation are monitored after use.",
-                        "ASC system design, proprietary implementation and regulated partner obligations remain clearly separated.",
+                        "ASC proprietary trading and regulated partner obligations remain clearly separated.",
                     ],
                     icon: "shield",
                 },
@@ -227,14 +194,14 @@ export const i18n = {
             },
             flow: [
                 { label: "Evidence", desc: "Market, company, intraday, and operating data.", icon: "database" },
-                { label: "Models", desc: "Research engines and rules for decision support.", icon: "rules" },
+                { label: "Rules", desc: "Research rules for decision support.", icon: "rules" },
                 { label: "Portfolio", desc: "Sizing, exposure, rebalancing, and execution-aware design.", icon: "sliders" },
                 { label: "Governance", desc: "Monitoring, risk limits, review, and role boundaries.", icon: "shield-check" },
             ],
             comparison: {
                 gutTitle: "Discretionary",
                 gutDesc: "Subjective decisions often influenced by market noise.",
-                rulesTitle: "Systematic",
+                rulesTitle: "Rules-based",
                 rulesDesc: "Disciplined execution grounded in statistical validation.",
             },
             riskBands: [
@@ -243,18 +210,18 @@ export const i18n = {
                 { label: "Drawdown ranges and responses", desc: "Track distance from peaks; reduce risk gradually when losses breach agreed thresholds.", color: "#D97706" },
             ],
             edge: {
-                title: "Our edge in Vietnam",
+                title: "Vietnam focus",
                 bullets: [
-                    "Vietnam-focused systems calibrated to local data, liquidity, market structure, and regulation.",
-                    "Research engines that test market evidence against execution and risk constraints.",
-                    "Execution realism built into strategy design instead of treated as an afterthought.",
+                    "Research calibrated to local data, liquidity, market structure, and regulation.",
+                    "Market evidence tested against execution and risk constraints.",
+                    "Execution realism treated as part of strategy design from the start.",
                     "Licensed partner collaboration remains available where regulated product or client-facing work is involved.",
                 ],
             },
             expectations: {
-                title: "What the system is designed to do — and not do",
+                title: "What the process is designed to do — and not do",
                 goals: [
-                    "A documented, rules-based trading and investment system rather than narrative-led decision making.",
+                    "A documented, rules-based trading process rather than narrative-led decision making.",
                     "Explicit risk rules for drawdown, liquidity, concentration, execution, and model review.",
                     "A process that ASC and its regulated partners, where relevant, can monitor and challenge.",
                 ],
@@ -281,7 +248,7 @@ export const i18n = {
                 historyIntro:
                     "Vietnam remains a developing market, so review work must separate historical simulation, paper observation, and implemented results:",
                 history: [
-                    "Historical simulations built from point-in-time Vietnamese data to show how a framework may behave through different cycles and stress periods.",
+                    "Historical simulations built from point-in-time Vietnamese data to show how rules may behave through different cycles and stress periods.",
                     "Observed or implemented results, where available and approved for sharing, reviewed with actual costs and implementation constraints.",
                 ],
                 historyNote:
@@ -293,19 +260,17 @@ export const i18n = {
         },
         solutions: {
             title: "Partnerships and boundaries",
-            intro: "How ASC separates proprietary systems, partner collaboration and regulated client-facing obligations.",
+            intro: "How ASC separates own-capital trading, partner collaboration and regulated client-facing obligations.",
         },
         partnerships: {
             intro:
-                "ASC may collaborate with licensed investment partners where appropriate. ASC’s core identity remains proprietary systematic research, trading systems, execution discipline and risk governance.",
+                "ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
             paragraphs: [
-                "In those arrangements, ASC provides research frameworks, model rules, diagnostics and risk oversight.",
-                "Licensed partners are responsible for regulated products, onboarding, suitability, portfolio implementation, execution, reporting and client-facing obligations.",
-                "Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.",
-                "ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.",
-                "ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline.",
-                "Partnerships are used only where regulated product, implementation or client-facing obligations require a licensed entity.",
-                "For regulated products, account opening, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.",
+                "ASC may collaborate with licensed investment partners where appropriate.",
+                "In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
+                "Licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations.",
+                "ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.",
+                "For regulated products, onboarding, suitability, execution, reporting, or documentation, please contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.",
             ],
             roles: [
                 {
@@ -321,7 +286,7 @@ export const i18n = {
                 {
                     roleLabel: "The Architect",
                     title: "Aureus Sigma Capital",
-                    bullets: ["Builds proprietary systems", "Provides research frameworks and model rules where relevant", "Monitors diagnostics and risk guardrails"],
+                    bullets: ["Trades its own capital", "Keeps research and risk perspective separate", "Does not run client portfolios"],
                 },
             ],
             cta: "FIDES partnership note",
@@ -331,13 +296,13 @@ export const i18n = {
         boundaries: {
             title: "Partnerships and boundaries",
             intro:
-                "ASC’s website does not offer products, account opening or personalized advice. This page records how responsibilities are separated when ASC collaborates with licensed partners.",
+                "ASC’s website does not offer products, onboarding or personalized advice. This page records how responsibilities are separated when ASC collaborates with licensed partners.",
             objectivesTitle: "Responsibility boundaries",
             objectives: [
                 {
-                    title: "ASC proprietary systems",
+                    title: "ASC proprietary work",
                     body:
-                        "ASC builds and maintains research, data, execution, portfolio-construction and risk-control systems for Vietnam’s capital markets.",
+                        "ASC trades its own capital and keeps its research, execution, and risk process separate from client-facing work.",
                 },
                 {
                     title: "Licensed partner obligations",
@@ -354,9 +319,9 @@ export const i18n = {
             discussionIntro:
                 "Where a licensed partner relationship is relevant, discussions may cover:",
             discussionBullets: [
-                "Research frameworks and model rules.",
-                "Execution workflow and reconciliation requirements.",
-                "Risk diagnostics, monitoring and review cadence.",
+                "Research perspective and risk context.",
+                "Execution and review requirements.",
+                "Monitoring cadence.",
                 "Reporting inputs that the licensed partner may use under its own obligations.",
             ],
             discussionNote:
@@ -368,7 +333,7 @@ export const i18n = {
         insights: {
             sectionTitle: "Insights",
             intro:
-                "We publish concise notes for readers and partners who want to understand Vietnam market structure, trading infrastructure, risk governance, and systematic strategy development.",
+                "We publish concise notes for readers and partners who want to understand Vietnam market structure, disciplined trading, and risk governance.",
             readMore: "Read article",
             backToInsights: "Back to insights",
             comingSoonLabel: "Coming soon",
@@ -380,7 +345,7 @@ export const i18n = {
                     title: "FIDES and Aureus Sigma Capital Sign Memorandum of Understanding (MOU)",
                     slug: "fides-aureus-sigma-capital-strategic-partnership",
                     summary:
-                        "FIDES Vietnam and ASC signed an MOU at the FIDES office in HCMC on December 19, 2025 covering regulated partner cooperation, research frameworks and risk oversight within applicable law.",
+                        "FIDES Vietnam and ASC signed an MOU at the FIDES office in HCMC on December 19, 2025 covering partner cooperation within applicable law.",
                     icon: "handshake",
                     image: "/assets/others/fides-asc-mou-document-exchange-16x9.jpg",
                 },
@@ -396,10 +361,10 @@ export const i18n = {
                 },
                 {
                     category: "Perspectives",
-                    title: "Drawdown Management Framework: A Systematic Approach",
+                    title: "How ASC Handles Large Losses",
                     slug: "how-we-try-to-limit-big-losses",
                     summary:
-                        "Preserving capital during tail events is critical to long-term compounding. We outline our multi-layered defense mechanism, incorporating volatility targeting and risk-based allocation adjustments.",
+                        "Preserving capital during tail events is critical to long-term compounding. We outline how written limits support more disciplined risk decisions.",
                     comingSoon: true,
                     icon: "shield",
                     image: "/assets/others/abstract_equity_curve_2.png",
@@ -408,23 +373,23 @@ export const i18n = {
         },
         about: {
             title: "About Aureus Sigma Capital",
-            intro: "Proprietary. Systematic. Built for Vietnam’s capital markets.",
+            intro: "Proprietary trading. Vietnam focus. Clear boundaries.",
             details: [
-                "Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.",
-                "ASC builds research, data, execution, portfolio-construction and risk-control systems to trade and compound capital with discipline. Our work spans market evidence, execution realism, risk controls, market-structure analysis and implementation-aware portfolio design.",
-                "ASC may collaborate with licensed partners where appropriate. In those cases, licensed partners are responsible for regulated products, onboarding, suitability, execution, reporting and client-facing obligations. ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.",
+                "Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets.",
+                "We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website.",
+                "Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for onboarding, suitability, execution, reporting, and all client-facing obligations.",
             ],
             factSheet: {
                 title: "Fact Sheet",
                 items: [
                     { label: "Founded", value: "2025" },
-                    { label: "Focus", value: "Proprietary systematic trading for Vietnam" },
+                    { label: "Focus", value: "Proprietary trading in Vietnam" },
                     { label: "Website boundary", value: "No direct public product offering" },
                 ]
             },
             highlights: [
-                { label: "Systematic discipline", body: "Rules-based research and governance tailored to Vietnam’s capital markets.", icon: "rules" },
-                { label: "Trading infrastructure", body: "Research, portfolio, execution, data and risk-control infrastructure.", icon: "network" },
+                { label: "Research discipline", body: "Rules-based research tailored to Vietnam's capital markets.", icon: "rules" },
+                { label: "Execution discipline", body: "Trading decisions are reviewed against liquidity, timing, and cost.", icon: "network" },
                 { label: "Clear boundaries", body: "Licensed partners remain responsible for regulated client-facing work where relevant.", icon: "shield-check" },
             ],
             bioDetails: [
@@ -432,9 +397,9 @@ export const i18n = {
                     name: "Duc (Huy) Nguyen",
                     title: "Founder & CEO",
                     body: [
-                        "Duc is the founding architect of Aureus Sigma Capital’s proprietary trading infrastructure. He leads ASC’s research, model design, risk oversight, and partner coordination.",
-                        "His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation frameworks through multiple cycles.",
-                        "Duc keeps ASC focused on documented rules, local data quality, execution discipline and clear risk controls while licensed partners handle regulated client-facing work where applicable.",
+                        "Duc leads ASC's research, model design, risk oversight, and partner coordination, with more than 20 years in Vietnam's capital markets.",
+                        "His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation processes through multiple cycles.",
+                        "He keeps the firm focused on documented rules, local data quality, execution discipline, and clear risk control, while licensed partners handle regulated, client-facing work where applicable.",
                     ],
                 },
             ],
@@ -443,12 +408,12 @@ export const i18n = {
         team: {
             founder: "Duc (Huy) Nguyen — Founder & CEO",
             founderBio:
-                "Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on proprietary systematic trading and risk-aware process design.",
+                "Founder and CEO of ASC. Former CEO of Techcom Capital and Managing Director of Techcom Securities, with earlier leadership roles at Deloitte Vietnam and regional investment groups. Brings 20+ years in Vietnam’s capital markets, now focused on proprietary trading and risk-aware process design.",
         },
         contact: {
             title: "Contact",
             desc:
-                "For inquiries about ASC’s research, trading systems, risk framework or partnership discussions, please contact ASC. For regulated products, account opening, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.",
+                "For ASC's research, risk, or partnership discussions, contact ASC. For regulated products, onboarding, suitability, execution, reporting, or documentation, contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.",
             primaryCta: "Submit inquiry",
             emailLabel: "Email",
             email: "contact@ascap.vn",
@@ -462,7 +427,7 @@ export const i18n = {
         },
         legal: {
             body:
-                "Important information. This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets. ASC develops research, data, execution, portfolio-construction and risk-control systems. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, frameworks or strategy behaviour is illustrative and subject to limitations. Past performance, simulated performance or modelled results do not promise future results. All investment and trading activity involves risk, including possible loss of capital.",
+                "Important information. This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.",
             rights: "© " + new Date().getFullYear() + " Aureus Sigma Capital. All rights reserved.",
         },
         cookie: {
@@ -482,133 +447,98 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Tại sao chọn ASC",
-            title: "Giao dịch hệ thống cho thị trường vốn Việt Nam.",
+            title: "Giao dịch định lượng bằng vốn tự có trên thị trường vốn Việt Nam.",
             subtitle:
-                "Aureus Sigma Capital xây dựng hạ tầng nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật.",
+                "Aureus Sigma Capital là công ty giao dịch định lượng sử dụng vốn tự có — nghiên cứu, thực thi và quản trị rủi ro một cách kỷ luật trên thị trường vốn Việt Nam.",
             ctas: [
-                { label: "Khám phá ASC xây dựng gì", to: "/what-we-do" },
-                { label: "Đối tác và ranh giới", to: "/partnerships" },
+                { label: "Cách ASC vận hành", to: "/what-we-do" },
+                { label: "Hợp tác", to: "/partnerships" },
             ],
             stats: [
                 { label: "Thành lập", value: "2025", icon: "clock" },
                 { label: "Thị trường", value: "Thị trường vốn Việt Nam", icon: "map" },
-                { label: "Vai trò", value: "Hệ thống độc quyền", icon: "shield-check" },
+                { label: "Vai trò", value: "Vốn tự có", icon: "shield-check" },
             ],
             highlights: [
-                { label: "Kỷ luật vốn độc quyền", body: "ASC xây dựng hệ thống để giao dịch và phát triển vốn có kỷ luật, không chạy theo câu chuyện thị trường.", icon: "rules" },
-                { label: "Hệ thống nghiên cứu và dữ liệu", body: "Nghiên cứu dựa trên quy tắc từ dữ liệu thị trường, bằng chứng doanh nghiệp, thanh khoản và cấu trúc thị trường.", icon: "database" },
-                { label: "Thiết kế có ý thức thực thi", body: "Mô hình được thiết kế quanh thanh khoản, chi phí, thời điểm, kiểm soát vận hành và ràng buộc thực tế.", icon: "activity" },
-                { label: "Quản trị rủi ro", body: "Giới hạn sụt giảm, giám sát mô hình, rà soát sau giao dịch và quy tắc dừng là một phần của hệ thống.", icon: "shield" },
+                { label: "Vốn tự có", body: "ASC giao dịch bằng vốn của chính mình. Website này không chào bán sản phẩm và không mở tài khoản.", icon: "rules" },
+                { label: "Kỷ luật nghiên cứu", body: "Ý tưởng phải được kiểm chứng bằng dữ liệu, thử nghiệm và rà soát.", icon: "database" },
+                { label: "Kỷ luật thực thi", body: "Quyết định giao dịch được xây dựng quanh thanh khoản, thời điểm và chi phí.", icon: "activity" },
+                { label: "Kiểm soát rủi ro", body: "Giới hạn được đặt ra trước khi tăng rủi ro.", icon: "shield" },
             ],
         },
         whatWeDo: {
-            sectionTitle: "Cách hệ thống của ASC được thiết kế",
+            sectionTitle: "Cách ASC vận hành",
             intro:
-                "ASC thiết kế hệ thống nghiên cứu, giao dịch, thực thi, xây dựng danh mục và kiểm soát rủi ro độc quyền cho thị trường vốn Việt Nam. Công việc này chuyển bằng chứng thành quyết định có thể lặp lại, quy trình thực thi thật và kiểm soát rủi ro có thể rà soát.",
-            capabilitiesTitle: "ASC xây dựng gì",
-            capabilitiesIntro:
-                "ASC không phải nền tảng gợi ý cổ phiếu, bên bán tín hiệu hay đơn vị phân phối sản phẩm. Chúng tôi xây dựng hệ thống đứng sau các quyết định giao dịch và đầu tư độc quyền có kỷ luật.",
-            capabilities: [
-                {
-                    title: "Động cơ nghiên cứu",
-                    body: "Mô hình nghiên cứu được kiểm thử với bằng chứng, thanh khoản, chi phí và các ràng buộc thực thi thực tế.",
-                    icon: "rules",
-                },
-                {
-                    title: "Quy trình giao dịch",
-                    body: "Quy tắc kết nối quyết định mô hình với thời điểm, thanh khoản, chi phí, kiểm soát vận hành và rà soát.",
-                    icon: "sliders",
-                },
-                {
-                    title: "Xây dựng danh mục",
-                    body: "Quy tắc tỷ trọng, tái cân bằng, phơi nhiễm, thanh khoản, tập trung và thiết kế danh mục có ý thức về sụt giảm.",
-                    icon: "activity",
-                },
-                {
-                    title: "Hạ tầng thực thi",
-                    body: "Logic triển khai được thiết kế quanh chi phí, thời điểm, đối soát, ràng buộc giao dịch thật và rà soát vận hành.",
-                    icon: "process",
-                },
-                {
-                    title: "Quản trị rủi ro",
-                    body: "Thẩm định mô hình, giám sát suy giảm, quy tắc dừng và ranh giới giữa hệ thống ASC với nghĩa vụ của đối tác được cấp phép.",
-                    icon: "shield-check",
-                },
-                {
-                    title: "Bằng chứng và vòng đời mô hình",
-                    body: "Dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành được làm sạch để hỗ trợ nghiên cứu, giám sát, rà soát và cập nhật mô hình.",
-                    icon: "database",
-                },
-            ],
+                "ASC giao dịch bằng vốn tự có trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược và tín hiệu giao dịch được giữ kín.",
             howAscWorksTitle: "Cách ASC vận hành",
             howAscWorksIntro:
-                "Công việc của ASC được xây dựng quanh các kỷ luật có thể lặp lại: nghiên cứu, thực thi, kiểm soát rủi ro và rà soát sau giao dịch. Chúng tôi không công bố chi tiết chiến lược, quy tắc mô hình hay tín hiệu giao dịch.",
+                "ASC giao dịch bằng vốn tự có trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược và tín hiệu giao dịch được giữ kín.",
             howAscWorksItems: [
                 {
                     title: "Nghiên cứu",
-                    body: "Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể lặp lại.",
+                    body: "Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể lặp lại. Mỗi ý tưởng phải được kiểm chứng, không dựa vào cảm tính.",
                     icon: "rules",
                 },
                 {
                     title: "Thực thi",
-                    body: "Chúng tôi thiết kế quy trình giao dịch quanh thanh khoản, thời điểm, chi phí và kiểm soát vận hành.",
+                    body: "Chúng tôi giao dịch trên tài khoản của chính mình theo quy tắc rõ ràng, xây dựng quanh thanh khoản, thời điểm và chi phí. Kỷ luật quan trọng hơn bất kỳ giao dịch đơn lẻ nào.",
                     icon: "process",
                 },
                 {
                     title: "Rủi ro",
-                    body: "Chúng tôi giám sát sụt giảm, phơi nhiễm, tập trung và hành vi mô hình trước khi tăng rủi ro.",
+                    body: "Chúng tôi giám sát mức sụt giảm, mức độ tiếp xúc và độ tập trung, với các giới hạn được ấn định trước và thực thi nghiêm trước khi tăng rủi ro.",
                     icon: "shield",
                 },
                 {
                     title: "Rà soát",
-                    body: "Mọi chiến lược phải vượt qua bằng chứng thực tế, kiểm tra sau giao dịch và giám sát liên tục.",
+                    body: "Mỗi chiến lược phải vượt qua bằng chứng thực tế, đối soát và giám sát liên tục. Chúng tôi đánh giá mình dựa trên việc tuân thủ kỷ luật, không dựa trên kết quả.",
                     icon: "activity",
                 },
             ],
             principles: [
-                { label: "Có hệ thống", body: "Mọi quyết định đều dựa trên quy tắc được văn bản hóa, không phải ý kiến tùy hứng hay những câu chuyện thị trường." },
+                { label: "Dựa trên quy tắc", body: "Mọi quyết định đều dựa trên quy tắc được văn bản hóa, không phải ý kiến tùy hứng hay câu chuyện thị trường." },
                 { label: "Dựa trên bằng chứng", body: "Nghiên cứu chỉ được chấp nhận khi có thể lặp lại, có thể thực thi, có ý thức rủi ro và được giám sát sau khi sử dụng." },
-                { label: "Thiết kế cho thị trường nội địa", body: "Xây dựng dựa trên thực tế về thanh khoản, quy định và công bố thông tin tại Việt Nam." },
-                { label: "Ý thức về rủi ro", body: "Mức sụt giảm, thanh khoản và hành vi thị trường là đầu vào trong thiết kế—không phải những yếu tố xem xét sau cùng." },
+                { label: "Thiết kế cho Việt Nam", body: "Công việc phản ánh thực tế thanh khoản, quy định và công bố thông tin tại Việt Nam." },
+                { label: "Ý thức về rủi ro", body: "Mức sụt giảm, thanh khoản và hành vi thị trường là đầu vào trong thiết kế, không phải yếu tố xem xét sau cùng." },
             ],
             objective:
-                "Mục tiêu rõ ràng: chuyển bằng chứng thị trường thành các quyết định giao dịch và phân bổ vốn độc quyền có kỷ luật, có thể rà soát trước và sau khi triển khai.",
-            processTitle: "Kiến trúc hệ thống",
-            processIntro: "Chúng tôi triển khai khung này như một quy trình nghiên cứu và kỹ thuật đứng sau hoạt động giao dịch của ASC.",
+                "Mục tiêu rất rõ: chuyển bằng chứng thị trường thành quyết định giao dịch bằng vốn tự có, có kỷ luật và có thể rà soát trước và sau khi triển khai.",
+            processTitle: "Cách công việc được tổ chức",
+            processIntro: "ASC giữ công việc theo một trình tự rõ ràng phía sau tài khoản giao dịch của chính mình.",
             process: [
-                { label: "Nền tảng dữ liệu", body: "Thu thập, làm sạch và giám sát dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành với nguồn gốc và kiểm tra chất lượng rõ ràng." },
-                { label: "Động cơ nghiên cứu", body: "Xây dựng mô hình từ bằng chứng thị trường, sau đó kiểm thử với các ràng buộc thực thi thực tế." },
-                { label: "Hệ thống giao dịch và danh mục", body: "Chuyển đầu ra mô hình thành quy tắc tỷ trọng, tái cân bằng, phơi nhiễm, thanh khoản, chi phí và thực thi." },
-                { label: "Quản trị rủi ro", body: "Giám sát sụt giảm, tập trung, thanh khoản, suy giảm mô hình và ranh giới với đối tác được cấp phép khi phù hợp." },
+                { label: "Nghiên cứu", body: "Thu thập, làm sạch và giám sát dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành với nguồn gốc và kiểm tra chất lượng rõ ràng." },
+                { label: "Kiểm thử", body: "Kiểm thử ý tưởng với chi phí, thanh khoản, thời điểm và giới hạn triển khai trước khi được tin dùng." },
+                { label: "Giao dịch", body: "Chuyển quyết định đã được chấp thuận thành quy tắc tỷ trọng, mức tiếp xúc, tái cân bằng, chi phí và thực thi." },
+                { label: "Rà soát rủi ro", body: "Giám sát mức sụt giảm, độ tập trung, thanh khoản, suy giảm mô hình và ranh giới với đối tác được cấp phép khi phù hợp." },
             ],
             blocks: [
                 {
                     title: "Xác định phạm vi thị trường",
                     body:
-                        "Chúng tôi xác định phạm vi giao dịch, quy tắc thanh khoản, chất lượng dữ liệu, thời điểm và yêu cầu dữ liệu để chiến lược có tính thực tế tại Việt Nam.",
+                        "Chúng tôi xác định thanh khoản, chất lượng dữ liệu, thời điểm và yêu cầu dữ liệu trước khi xem một ý tưởng là thực tế tại Việt Nam.",
                     icon: "database",
                 },
                 {
-                    title: "Xây dựng bằng chứng mô hình",
+                    title: "Kiểm thử bằng chứng",
                     body:
-                        "Mô hình được kiểm thử trên bằng chứng thị trường, nhưng chỉ được chấp nhận khi tín hiệu có thể chịu được chi phí, thanh khoản, khung giờ thực thi và quy tắc giám sát.",
+                        "Ý tưởng được kiểm thử trên bằng chứng thị trường, nhưng chỉ được chấp nhận khi có thể chịu được chi phí, thanh khoản, thời điểm và quy tắc giám sát.",
                     icon: "sliders",
                 },
                 {
-                    title: "Xây dựng hệ thống danh mục",
+                    title: "Đặt giới hạn danh mục",
                     body:
-                        "Quy tắc danh mục bao gồm tỷ trọng, vòng quay, tập trung, phơi nhiễm, tái cân bằng và thời điểm cần giảm, tạm dừng hoặc rà soát đầu ra mô hình.",
+                        "Quy tắc danh mục bao gồm tỷ trọng, vòng quay, tập trung, mức tiếp xúc, tái cân bằng và thời điểm cần giảm, tạm dừng hoặc rà soát một quyết định.",
                     icon: "compass",
                 },
                 {
                     title: "Kiểm soát rủi ro và rà soát",
                     intro:
-                        "Quản trị rủi ro được tích hợp trong hệ thống. Chúng tôi sử dụng nhiều lớp rà soát trước khi một chiến lược được tin cậy:",
+                        "Quản trị rủi ro được đặt trong từng bước công việc. Chúng tôi sử dụng nhiều lớp rà soát trước khi một chiến lược được tin cậy:",
                     points: [
                         "Giới hạn sụt giảm và tập trung được xác định trước khi triển khai.",
                         "Thanh khoản, chi phí và thời điểm thực thi được xem là ràng buộc thiết kế.",
                         "Suy giảm mô hình được giám sát sau khi sử dụng.",
-                        "Thiết kế hệ thống ASC, triển khai độc quyền và nghĩa vụ của đối tác được cấp phép được tách bạch rõ ràng.",
+                        "Giao dịch bằng vốn tự có của ASC và nghĩa vụ của đối tác được cấp phép được tách bạch rõ ràng.",
                     ],
                     icon: "shield",
                 },
@@ -626,14 +556,14 @@ export const i18n = {
             },
             flow: [
                 { label: "Bằng chứng", desc: "Dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành.", icon: "database" },
-                { label: "Mô hình", desc: "Động cơ nghiên cứu và quy tắc hỗ trợ quyết định.", icon: "rules" },
-                { label: "Danh mục", desc: "Tỷ trọng, phơi nhiễm, tái cân bằng và thiết kế có ý thức thực thi.", icon: "sliders" },
+                { label: "Quy tắc", desc: "Quy tắc nghiên cứu hỗ trợ quyết định.", icon: "rules" },
+                { label: "Danh mục", desc: "Tỷ trọng, mức tiếp xúc, tái cân bằng và thiết kế có ý thức thực thi.", icon: "sliders" },
                 { label: "Quản trị", desc: "Giám sát, giới hạn rủi ro, rà soát và ranh giới vai trò.", icon: "shield-check" },
             ],
             comparison: {
                 gutTitle: "Phán đoán Chủ quan",
                 gutDesc: "Quyết định chủ quan thường bị ảnh hưởng bởi nhiễu loạn thị trường.",
-                rulesTitle: "Hệ thống hóa",
+                rulesTitle: "Dựa trên quy tắc",
                 rulesDesc: "Thực thi kỷ luật dựa trên kiểm chứng thống kê.",
             },
             riskBands: [
@@ -642,16 +572,16 @@ export const i18n = {
                 { label: "Ngưỡng lỗ và phản ứng", desc: "Theo dõi khoảng cách từ đỉnh; giảm rủi ro dần dần khi mức lỗ vượt quá các ngưỡng đã thống nhất.", color: "#D97706" },
             ],
             edge: {
-                title: "Lợi thế của chúng tôi tại Việt Nam",
+                title: "Trọng tâm Việt Nam",
                 bullets: [
-                    "Hệ thống tập trung vào Việt Nam, được tinh chỉnh theo dữ liệu, thanh khoản, cấu trúc thị trường và quy định trong nước.",
-                    "Động cơ nghiên cứu kiểm thử bằng chứng thị trường với các ràng buộc về thực thi và rủi ro.",
+                    "Nghiên cứu được tinh chỉnh theo dữ liệu, thanh khoản, cấu trúc thị trường và quy định trong nước.",
+                    "Bằng chứng thị trường được kiểm thử với các ràng buộc về thực thi và rủi ro.",
                     "Tính thực tế khi thực thi được đưa vào thiết kế chiến lược ngay từ đầu.",
                     "Hợp tác với đối tác được cấp phép vẫn phù hợp khi có sản phẩm được quản lý hoặc công việc tiếp xúc khách hàng.",
                 ],
             },
             expectations: {
-                title: "Hệ thống được thiết kế để làm gì — và không làm gì",
+                title: "Quy trình được thiết kế để làm gì — và không làm gì",
                 goals: [
                     "Một quy trình giao dịch được văn bản hóa và dựa trên quy tắc, không phải quyết định theo câu chuyện thị trường.",
                     "Quy tắc rủi ro rõ ràng cho sụt giảm, thanh khoản, tập trung, thực thi và rà soát mô hình.",
@@ -680,7 +610,7 @@ export const i18n = {
                 historyIntro:
                     "Việt Nam vẫn là thị trường đang phát triển, do đó công việc rà soát phải tách bạch mô phỏng lịch sử, quan sát trên giấy và kết quả đã triển khai:",
                 history: [
-                    "Mô phỏng lịch sử được xây dựng từ dữ liệu theo từng thời điểm của Việt Nam để xem khung có thể vận hành thế nào qua các chu kỳ và giai đoạn căng thẳng.",
+                    "Mô phỏng lịch sử được xây dựng từ dữ liệu theo từng thời điểm của Việt Nam để xem quy tắc có thể vận hành thế nào qua các chu kỳ và giai đoạn căng thẳng.",
                     "Kết quả quan sát hoặc đã triển khai, khi có và được phép chia sẻ, được rà soát cùng chi phí thực tế và ràng buộc thực thi.",
                 ],
                 historyNote:
@@ -692,19 +622,17 @@ export const i18n = {
         },
         solutions: {
             title: "Đối tác và ranh giới",
-            intro: "Cách ASC tách biệt hệ thống độc quyền, hợp tác với đối tác và nghĩa vụ tiếp xúc khách hàng được quản lý.",
+            intro: "Cách ASC tách biệt giao dịch bằng vốn tự có, hợp tác với đối tác và nghĩa vụ tiếp xúc khách hàng được quản lý.",
         },
         partnerships: {
             intro:
-                "ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp. Bản sắc cốt lõi của ASC vẫn là nghiên cứu hệ thống độc quyền, hệ thống giao dịch, kỷ luật thực thi và quản trị rủi ro.",
+                "ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi phù hợp. Trong các thỏa thuận đó, vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình; ASC không vận hành danh mục cho khách hàng.",
             paragraphs: [
-                "Trong các trường hợp đó, ASC cung cấp khung nghiên cứu, quy tắc mô hình, chẩn đoán và giám sát rủi ro.",
-                "Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi giao dịch, báo cáo và nghĩa vụ tiếp xúc khách hàng.",
-                "Aureus Sigma Capital là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
-                "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này và không nhận tài sản của khách hàng thông qua website này.",
-                "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật.",
-                "Hợp tác chỉ được dùng khi sản phẩm được quản lý, triển khai hoặc nghĩa vụ tiếp xúc khách hàng cần một tổ chức được cấp phép.",
-                "Đối với sản phẩm được quản lý, mở tài khoản, đánh giá sự phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác được cấp phép liên quan. ASC có thể hỗ trợ giới thiệu khi phù hợp.",
+                "ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi phù hợp.",
+                "Trong các thỏa thuận đó, vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình; ASC không vận hành danh mục cho khách hàng.",
+                "Các đối tác có giấy phép chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng.",
+                "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
+                "Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.",
             ],
             roles: [
                 {
@@ -720,7 +648,7 @@ export const i18n = {
                 {
                     roleLabel: "Kiến Trúc",
                     title: "Aureus Sigma Capital",
-                    bullets: ["Xây dựng hệ thống độc quyền", "Cung cấp khung nghiên cứu và quy tắc mô hình khi phù hợp", "Giám sát chẩn đoán và ranh giới rủi ro"],
+                    bullets: ["Giao dịch bằng vốn tự có", "Giữ riêng góc nhìn nghiên cứu và rủi ro", "Không vận hành danh mục cho khách hàng"],
                 },
             ],
             cta: "Ghi chú hợp tác FIDES",
@@ -734,9 +662,9 @@ export const i18n = {
             objectivesTitle: "Ranh giới trách nhiệm",
             objectives: [
                 {
-                    title: "Hệ thống độc quyền của ASC",
+                    title: "Công việc riêng của ASC",
                     body:
-                        "ASC xây dựng và duy trì hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro cho thị trường vốn Việt Nam.",
+                        "ASC giao dịch bằng vốn tự có và giữ quy trình nghiên cứu, thực thi và rủi ro tách biệt với công việc tiếp xúc khách hàng.",
                 },
                 {
                     title: "Nghĩa vụ của đối tác được cấp phép",
@@ -753,20 +681,20 @@ export const i18n = {
             discussionIntro:
                 "Khi một quan hệ đối tác được cấp phép là phù hợp, thảo luận có thể bao gồm:",
             discussionBullets: [
-                "Khung nghiên cứu và quy tắc mô hình.",
-                "Quy trình thực thi và yêu cầu đối soát.",
-                "Chẩn đoán rủi ro, giám sát và nhịp rà soát.",
+                "Góc nhìn nghiên cứu và bối cảnh rủi ro.",
+                "Yêu cầu thực thi và rà soát.",
+                "Nhịp giám sát.",
                 "Dữ liệu đầu vào cho báo cáo mà đối tác được cấp phép có thể sử dụng theo nghĩa vụ của mình.",
             ],
             discussionNote:
                 "ASC không đặt điều khoản sản phẩm công khai thông qua website này. Câu hỏi về sản phẩm được quản lý, tài khoản, sự phù hợp, thực thi và tài liệu thuộc về đối tác được cấp phép liên quan.",
             reportingTitle: "Báo cáo và rõ ràng",
             reportingBody:
-                "ASC có thể cung cấp phân tích và chẩn đoán cho đối tác được cấp phép. Đối tác được cấp phép vẫn chịu trách nhiệm về báo cáo được quản lý và truyền thông tiếp xúc khách hàng.",
+                "ASC có thể chia sẻ phân tích với đối tác được cấp phép. Đối tác được cấp phép vẫn chịu trách nhiệm về báo cáo được quản lý và truyền thông tiếp xúc khách hàng.",
         },
         insights: {
             sectionTitle: "Góc nhìn",
-            intro: "Chúng tôi xuất bản các ghi chú ngắn gọn cho người đọc và đối tác muốn hiểu cấu trúc thị trường Việt Nam, hạ tầng giao dịch, quản trị rủi ro và phát triển chiến lược hệ thống.",
+            intro: "Chúng tôi xuất bản các ghi chú ngắn gọn cho người đọc và đối tác muốn hiểu cấu trúc thị trường Việt Nam, giao dịch có kỷ luật và quản trị rủi ro.",
             readMore: "Đọc bài viết",
             backToInsights: "Xem thêm bài viết",
             comingSoonLabel: "Sắp ra mắt",
@@ -778,7 +706,7 @@ export const i18n = {
                     title: "FIDES và Aureus Sigma Capital ký Biên bản ghi nhớ (MOU)",
                     slug: "fides-aureus-sigma-capital-strategic-partnership",
                     summary:
-                        "FIDES Việt Nam và ASC ký MOU tại văn phòng FIDES ở TP. HCM ngày 19/12/2025 về hợp tác đối tác được cấp phép, khung nghiên cứu và giám sát rủi ro trong khuôn khổ pháp luật hiện hành.",
+                        "FIDES Việt Nam và ASC ký MOU tại văn phòng FIDES ở TP. HCM ngày 19/12/2025 về hợp tác đối tác trong khuôn khổ pháp luật hiện hành.",
                     icon: "handshake",
                     image: "/assets/others/fides-asc-mou-document-exchange-16x9.jpg",
                 },
@@ -794,7 +722,7 @@ export const i18n = {
                 },
                 {
                     category: "Góc nhìn",
-                    title: "Khung Quản trị Sụt giảm: Tiếp cận Hệ thống",
+                    title: "Cách ASC xử lý rủi ro thua lỗ lớn",
                     slug: "how-we-try-to-limit-big-losses",
                     summary:
                         "Bảo toàn vốn trong các giai đoạn thị trường biến động mạnh là yếu tố then chốt để tích lũy dài hạn. Chúng tôi trình bày cơ chế phòng vệ đa lớp, kiểm soát mức biến động mục tiêu và điều chỉnh phân bổ theo tình hình thị trường.",
@@ -807,23 +735,23 @@ export const i18n = {
         about: {
             title: "Về Aureus Sigma Capital",
             intro:
-                "Độc quyền. Có hệ thống. Xây dựng cho thị trường vốn Việt Nam.",
+                "Giao dịch bằng vốn tự có. Trọng tâm Việt Nam. Ranh giới rõ ràng.",
             details: [
-                "Aureus Sigma Capital (ASC) là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam.",
-                "ASC xây dựng hệ thống nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro để giao dịch và phát triển vốn một cách có kỷ luật. Công việc của ASC tập trung vào bằng chứng thị trường, tính thực tế khi thực thi, kiểm soát rủi ro, phân tích cấu trúc thị trường và thiết kế danh mục có ý thức thực thi.",
-                "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi giao dịch, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này và không nhận tài sản của khách hàng thông qua website này.",
+                "Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam.",
+                "Chúng tôi giao dịch bằng vốn của chính mình và xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản của bên ngoài và không cung cấp sản phẩm đầu tư qua website này.",
+                "Với các sản phẩm thuộc diện được cấp phép, ASC có thể hợp tác với các đối tác có giấy phép; các đối tác này chịu trách nhiệm tiếp nhận khách hàng, đánh giá mức độ phù hợp, thực thi, báo cáo và toàn bộ nghĩa vụ với khách hàng.",
             ],
             factSheet: {
                 title: "Thông tin tổng quan",
                 items: [
                     { label: "Năm thành lập", value: "2025" },
-                    { label: "Trọng tâm", value: "Hệ thống độc quyền cho Việt Nam" },
+                    { label: "Trọng tâm", value: "Giao dịch bằng vốn tự có tại Việt Nam" },
                     { label: "Ranh giới website", value: "Không chào bán sản phẩm trực tiếp" },
                 ]
             },
             highlights: [
-                { label: "Kỷ luật hệ thống", body: "Nghiên cứu và quản trị dựa trên quy tắc, được tinh chỉnh cho thị trường vốn Việt Nam.", icon: "rules" },
-                { label: "Hạ tầng giao dịch", body: "Hạ tầng nghiên cứu, danh mục, thực thi, dữ liệu và kiểm soát rủi ro.", icon: "network" },
+                { label: "Kỷ luật nghiên cứu", body: "Nghiên cứu dựa trên quy tắc, được tinh chỉnh cho thị trường vốn Việt Nam.", icon: "rules" },
+                { label: "Kỷ luật thực thi", body: "Quyết định giao dịch được rà soát theo thanh khoản, thời điểm và chi phí.", icon: "network" },
                 { label: "Ranh giới rõ ràng", body: "Đối tác được cấp phép chịu trách nhiệm công việc tiếp xúc khách hàng khi phù hợp.", icon: "shield-check" },
             ],
             bioDetails: [
@@ -831,9 +759,9 @@ export const i18n = {
                     name: "Nguyễn Huy Đức",
                     title: "Nhà sáng lập kiêm Tổng Giám đốc",
                     body: [
-                        "Ông Đức là người sáng lập và xây dựng hạ tầng giao dịch độc quyền của Aureus Sigma Capital. Ông dẫn dắt nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp với các đối tác của ASC.",
-                        "Sự nghiệp của ông gắn bó với thị trường vốn Việt Nam hơn hai mươi năm, trải qua các vị trí lãnh đạo cấp cao như Tổng Giám đốc Techcom Capital, Tổng Giám đốc Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông phụ trách mảng tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó đảm nhiệm vị trí Giám đốc Tài chính tập đoàn kiêm Trưởng bộ phận Đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, ứng dụng các mô hình định lượng, phân tích kịch bản và khung phân bổ vốn kỷ luật qua nhiều chu kỳ thị trường.",
-                        "Ông Đức giữ trọng tâm của ASC vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép xử lý các công việc tiếp xúc khách hàng thuộc phạm vi được quản lý khi áp dụng.",
+                        "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.",
+                        "Sự nghiệp của ông gắn bó với thị trường vốn Việt Nam hơn hai mươi năm, trải qua các vị trí lãnh đạo cấp cao như Tổng Giám đốc Techcom Capital, Tổng Giám đốc Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông phụ trách mảng tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó đảm nhiệm vị trí Giám đốc Tài chính tập đoàn kiêm Trưởng bộ phận Đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, ứng dụng các mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn kỷ luật qua nhiều chu kỳ thị trường.",
+                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi các đối tác có giấy phép xử lý phần việc tiếp xúc khách hàng thuộc diện được quản lý khi áp dụng.",
                     ],
                 },
             ],
@@ -842,12 +770,12 @@ export const i18n = {
         team: {
             founder: "Nguyễn Huy Đức — Nhà sáng lập kiêm Tổng Giám đốc",
             founderBio:
-                "Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Giám đốc Khối Ngân hàng Đầu tư tại Techcom Securities; nguyên CFO Ngân hàng Phương Đông (OCB). Với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam, ông tập trung vào hệ thống độc quyền và thiết kế quy trình có ý thức rủi ro.",
+                "Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Giám đốc Khối Ngân hàng Đầu tư tại Techcom Securities; nguyên CFO Ngân hàng Phương Đông (OCB). Với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam, ông tập trung vào giao dịch bằng vốn tự có và thiết kế quy trình có ý thức rủi ro.",
         },
         contact: {
             title: "Liên hệ",
             desc:
-                "Đối với các yêu cầu về nghiên cứu, hệ thống giao dịch, khung quản trị rủi ro hoặc thảo luận hợp tác với ASC, vui lòng liên hệ ASC. Đối với thông tin về sản phẩm được quản lý, mở tài khoản, đánh giá sự phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác được cấp phép liên quan. ASC có thể hỗ trợ giới thiệu khi phù hợp.",
+                "Đối với các trao đổi về nghiên cứu, rủi ro hoặc hợp tác của ASC, vui lòng liên hệ ASC. Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.",
             primaryCta: "Gửi yêu cầu",
             emailLabel: "Email",
             email: "contact@ascap.vn",
@@ -860,7 +788,7 @@ export const i18n = {
         },
         legal: {
             body:
-                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch hệ thống độc quyền tập trung vào thị trường vốn Việt Nam. ASC phát triển hạ tầng nghiên cứu, dữ liệu, thực thi, xây dựng danh mục và kiểm soát rủi ro. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng thông qua website này, không nhận tài sản của khách hàng thông qua website này và không cung cấp tư vấn đầu tư cá nhân thông qua website này. Khi ASC hợp tác với đối tác được cấp phép, đối tác đó chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest, khung đầu tư hoặc hành vi chiến lược chỉ mang tính minh họa và có các giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không phải là cam kết cho kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.",
+                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân hóa đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro của riêng mình. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này. Khi ASC hợp tác với đối tác có giấy phép, đối tác đó chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest hoặc hành vi chiến lược chỉ mang tính minh họa và có những giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không bảo đảm kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.",
             rights: "© " + new Date().getFullYear() + " Aureus Sigma Capital. All rights reserved.",
         },
         cookie: {
@@ -884,36 +812,36 @@ export const INSIGHTS_CONTENT = {
             body: parseMarkdown(fidesPilotViMd),
         },
     },
-    // FULL VERSION (Q1 2026) - Uncomment and replace above when launching products
+    // FULL VERSION (Q1 2026) - Uncomment and replace above only after founder and counsel review
     // "fides-aureus-sigma-capital-strategic-partnership": {
     //     en: {
-    //         title: "FIDES and Aureus Sigma Capital Sign Partnership to Develop Systematic Strategies for Vietnam",
+    //         title: "FIDES and Aureus Sigma Capital Sign Partnership MOU",
     //         dateLine: "HCMC, Vietnam – [Q1 2026 Date]",
     //         body: parseMarkdown(fidesEnMd),
     //     },
     //     vi: {
-    //         title: "FIDES và Aureus Sigma Capital ký kết hợp tác phát triển chiến lược hệ thống cho Việt Nam",
+    //         title: "FIDES và Aureus Sigma Capital ký kết hợp tác tại Việt Nam",
     //         dateLine: "TP. HCM – [Ngày Q1 2026]",
     //         body: parseMarkdown(fidesViMd),
     //     },
     // },
     "why-we-use-rules-instead-of-gut-feeling": {
         en: {
-            title: "The Case for Systematic Factors in Vietnamese Equities",
+            title: "Why ASC Uses Rules Instead of Market Stories",
             body: parseMarkdown(rulesEnMd),
         },
         vi: {
-            title: "Cơ sở cho Đầu tư theo Tiêu chí Hệ thống tại Việt Nam",
+            title: "Vì sao ASC dùng quy tắc thay vì câu chuyện thị trường",
             body: parseMarkdown(rulesViMd),
         },
     },
     "how-we-try-to-limit-big-losses": {
         en: {
-            title: "Drawdown Management Framework: A Systematic Approach",
+            title: "How ASC Handles Large Losses",
             body: parseMarkdown(lossesEnMd),
         },
         vi: {
-            title: "Khung Quản trị Sụt giảm: Tiếp cận Hệ thống",
+            title: "Cách ASC xử lý rủi ro thua lỗ lớn",
             body: parseMarkdown(lossesViMd),
         },
     },

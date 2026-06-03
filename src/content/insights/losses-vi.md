@@ -1,9 +1,9 @@
-Biến động dồn cụm và điều kiện thị trường thay đổi là điều bình thường ở thị trường mới nổi. ASC xem khoản lỗ lớn là vấn đề thiết kế hệ thống, không phải điều có thể bỏ qua bằng cảm tính.
+Biến động theo cụm và điều kiện thị trường thay đổi là điều bình thường ở các thị trường mới nổi. ASC xem các khoản thua lỗ lớn là vấn đề về thiết kế và giới hạn, không phải điều có thể mong cho qua.
 
-ASC không thể kiểm soát thị trường hoặc dự báo mọi cú giảm. Thay vào đó, công ty xác định trước hành động có thể xảy ra khi mức lỗ vượt các ngưỡng đã viết.
+ASC không thể kiểm soát hay dự đoán thị trường; thay vào đó, công ty xác định trước những hành động có thể diễn ra khi thua lỗ vượt các ngưỡng đã định.
 
-Đa dạng hóa, giới hạn vị thế và giới hạn phơi nhiễm chung giúp giảm phụ thuộc vào một cổ phiếu, một ngành hoặc một câu chuyện riêng lẻ.
+Đa dạng hóa, giới hạn vị thế và mức trần tổng tiếp xúc giúp giảm phụ thuộc vào bất kỳ cổ phiếu, ngành hay chủ đề đơn lẻ nào.
 
-Khi mức lỗ tiến gần giới hạn đã viết, quy tắc có thể yêu cầu giảm phơi nhiễm hoặc dùng biện pháp phòng vệ phù hợp để giảm rủi ro thị trường ròng. Nếu căng thẳng tăng lên, phản ứng có thể phòng thủ hơn.
+Khi thua lỗ tiến gần các giới hạn đã ghi, quy tắc có thể yêu cầu giảm tiếp xúc hoặc dùng công cụ phòng hộ phù hợp để giảm rủi ro thị trường ròng; nếu căng thẳng gia tăng, phản ứng sẽ thận trọng hơn.
 
-Các bước này có thể khiến hệ thống chậm hơn trong các nhịp hồi nhanh hoặc phát sinh chi phí phòng vệ. Chúng không hứa hẹn một mức lỗ tối đa. Chúng tồn tại để giữ quyết định rủi ro có kỷ luật khi thị trường căng thẳng.
+Các bước này có thể chậm hơn một nhịp hồi phục đột ngột hoặc phát sinh chi phí, và không hứa hẹn một mức lỗ tối đa. Chúng tồn tại để giữ kỷ luật cho các quyết định rủi ro khi thị trường căng thẳng.

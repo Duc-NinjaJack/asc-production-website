@@ -1,11 +1,11 @@
-# Ghi chu hop tac FIDES
+# Ghi chú hợp tác FIDES
 
-FIDES, don vi quan ly quy duoc cap phep tai Viet Nam, va Aureus Sigma Capital, cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam, da ky bien ban ghi nho hop tac chien luoc.
+FIDES Việt Nam và Aureus Sigma Capital ("ASC") đã ký biên bản ghi nhớ để thảo luận một hướng hợp tác có thể thực hiện trong phạm vi pháp luật hiện hành.
 
-ASC thiet ke, kiem dinh va duy tri he thong nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro. Quy trinh nghien cuu ket hop du lieu thi truong, thong tin doanh nghiep, rang buoc giao dich va cac gioi han da van ban hoa.
+ASC là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam. ASC giao dịch bằng vốn của chính mình và giữ công việc nghiên cứu, thực thi và rủi ro tách biệt với nghĩa vụ tiếp xúc khách hàng.
 
-FIDES chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, thuc thi, bao cao va nghia vu tiep xuc khach hang trong pham vi giay phep.
+Khi có sản phẩm thuộc diện được cấp phép, đối tác có giấy phép chịu trách nhiệm tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và nghĩa vụ với khách hàng.
 
-Theo khuon kho hop tac, ASC co the cung cap quy trinh, cap nhat nghien cuu, chan doan va giam sat rui ro. FIDES quyet dinh cach trien khai trong pham vi giay phep. ASC khong truc tiep cung cap san pham cho cong chung va khong quan ly tien cua khach hang thong qua website nay.
+Vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình. ASC không vận hành danh mục cho khách hàng, không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này và không quản lý tiền của khách hàng qua website này.
 
-Thong tin quan trong: ghi chu nay chi nham muc dich cung cap thong tin va khong cau thanh loi chao ban hay moi chao mua bat ky chung khoan hay san pham dau tu nao tai bat ky khu vuc phap ly nao. ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay, khong nhan tai san cua khach hang thong qua website nay va khong cung cap tu van dau tu ca nhan thong qua website nay. Khi ASC hop tac voi doi tac duoc cap phep, doi tac do chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai, thuc thi, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat hien hanh.
+Thông tin quan trọng: ghi chú này chỉ nhằm mục đích cung cấp thông tin và không cấu thành lời chào bán hay mời gọi chào mua bất kỳ chứng khoán hay sản phẩm đầu tư nào tại bất kỳ khu vực pháp lý nào. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này. Khi ASC hợp tác với đối tác được cấp phép, đối tác đó chịu trách nhiệm đối với sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng theo quy định pháp luật hiện hành.

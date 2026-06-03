@@ -1,68 +1,44 @@
-# ASC Website Copy - Tieng Viet
+# ASC Website Copy - Tiếng Việt
 
 ## Hero
 
-- **Headline:** Giao dich he thong cho thi truong von Viet Nam.
-- **Subheadline:** Aureus Sigma Capital xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat.
-- **Primary CTA:** Kham pha ASC xay dung gi
-- **Secondary CTA:** Doi tac va ranh gioi
+- **Headline:** Giao dịch định lượng bằng vốn tự có trên thị trường vốn Việt Nam.
+- **Subheadline:** Aureus Sigma Capital là công ty giao dịch định lượng sử dụng vốn tự có - nghiên cứu, thực thi và quản trị rủi ro một cách kỷ luật trên thị trường vốn Việt Nam.
+- **Primary CTA:** Cách ASC vận hành
+- **Secondary CTA:** Hợp tác
 
-## Tong quan ve ASC
+## Tổng quan về ASC
 
-Aureus Sigma Capital (ASC) la cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam.
+Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam. Chúng tôi giao dịch bằng vốn của chính mình và xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản của bên ngoài và không cung cấp sản phẩm đầu tư qua website này. Với các sản phẩm thuộc diện được cấp phép, ASC có thể hợp tác với các đối tác có giấy phép; các đối tác này chịu trách nhiệm tiếp nhận khách hàng, đánh giá mức độ phù hợp, thực thi, báo cáo và toàn bộ nghĩa vụ với khách hàng.
 
-ASC xay dung ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro de giao dich va phat trien von mot cach co ky luat. Cong viec cua ASC tap trung vao bang chung thi truong, tinh thuc te khi thuc thi, kiem soat rui ro, phan tich cau truc thi truong va thiet ke danh muc co y thuc thuc thi.
+## Tiểu sử lãnh đạo
 
-ASC co the hop tac voi cac doi tac duoc cap phep khi phu hop. Trong cac truong hop do, doi tac duoc cap phep chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai danh muc, thuc thi giao dich, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat. ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay va khong nhan tai san cua khach hang thong qua website nay.
+**Nguyễn Huy Đức - Nhà sáng lập kiêm Tổng Giám đốc**
 
-## Tieu su lanh dao
+Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam. Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi các đối tác có giấy phép xử lý phần việc tiếp xúc khách hàng thuộc diện được quản lý khi áp dụng.
 
-**Nguyen Huy Duc - Nha sang lap kiem Tong Giam doc**
+## Cách ASC vận hành
 
-Ong Duc dan dat nghien cuu, thiet ke mo hinh, giam sat rui ro va phoi hop voi doi tac cua ASC. Ong co hon 20 nam kinh nghiem tai thi truong von Viet Nam.
+ASC giao dịch bằng vốn tự có trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược và tín hiệu giao dịch được giữ kín.
 
-Tai ASC, ong Duc giu trong tam vao quy tac duoc van ban hoa, chat luong du lieu noi dia, ky luat thuc thi va kiem soat rui ro ro rang, trong khi doi tac duoc cap phep xu ly cac cong viec tiep xuc khach hang thuoc pham vi duoc quan ly khi ap dung.
+1. **Nghiên cứu** - Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể lặp lại. Mỗi ý tưởng phải được kiểm chứng, không dựa vào cảm tính.
+2. **Thực thi** - Chúng tôi giao dịch trên tài khoản của chính mình theo quy tắc rõ ràng, xây dựng quanh thanh khoản, thời điểm và chi phí. Kỷ luật quan trọng hơn bất kỳ giao dịch đơn lẻ nào.
+3. **Rủi ro** - Chúng tôi giám sát mức sụt giảm, mức độ tiếp xúc và độ tập trung, với các giới hạn được ấn định trước và thực thi nghiêm trước khi tăng rủi ro.
+4. **Rà soát** - Mỗi chiến lược phải vượt qua bằng chứng thực tế, đối soát và giám sát liên tục. Chúng tôi đánh giá mình dựa trên việc tuân thủ kỷ luật, không dựa trên kết quả.
 
-## ASC xay dung gi
+## Hợp tác và ranh giới
 
-1. **Dong co nghien cuu** - Mo hinh nghien cuu duoc kiem thu voi bang chung, thanh khoan, chi phi va cac rang buoc thuc thi thuc te.
-2. **Quy trinh giao dich** - Quy tac ket noi quyet dinh mo hinh voi thoi diem, thanh khoan, chi phi, kiem soat van hanh va ra soat.
-3. **Xay dung danh muc** - Quy tac ty trong, tai can bang, phoi nhiem, thanh khoan, tap trung va thiet ke danh muc co y thuc ve sut giam.
-4. **Ha tang thuc thi** - Logic trien khai duoc thiet ke quanh chi phi, thoi diem, doi soat, rang buoc giao dich that va ra soat van hanh.
-5. **Quan tri rui ro** - Tham dinh mo hinh, giam sat suy giam, quy tac dung va ranh gioi giua he thong ASC voi nghia vu cua doi tac duoc cap phep.
-6. **Bang chung va vong doi mo hinh** - Du lieu sach dung de ho tro nghien cuu, giam sat, ra soat sau giao dich va cap nhat mo hinh.
+ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi phù hợp. Trong các thỏa thuận đó, vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình; ASC không vận hành danh mục cho khách hàng. Các đối tác có giấy phép chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.
 
-## Cach ASC van hanh
+## Liên hệ
 
-Cong viec cua ASC duoc xay dung quanh cac ky luat co the lap lai: nghien cuu, thuc thi, kiem soat rui ro va ra soat sau giao dich. Chung toi khong cong bo chi tiet chien luoc, quy tac mo hinh hay tin hieu giao dich.
+Đối với các trao đổi về nghiên cứu, rủi ro hoặc hợp tác của ASC, vui lòng liên hệ ASC. Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.
 
-1. **Nghien cuu** - Chung toi nghien cuu thi truong Viet Nam qua du lieu, cau truc thi truong va bang chung co the lap lai.
-2. **Thuc thi** - Chung toi thiet ke quy trinh giao dich quanh thanh khoan, thoi diem, chi phi va kiem soat van hanh.
-3. **Rui ro** - Chung toi giam sat sut giam, phoi nhiem, tap trung va hanh vi mo hinh truoc khi tang rui ro.
-4. **Ra soat** - Moi chien luoc phai vuot qua bang chung thuc te, kiem tra sau giao dich va giam sat lien tuc.
+## Thông tin quan trọng
 
-## Doi tac va ranh gioi
+Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân hóa đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro của riêng mình. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này. Khi ASC hợp tác với đối tác có giấy phép, đối tác đó chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest hoặc hành vi chiến lược chỉ mang tính minh họa và có những giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không bảo đảm kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.
 
-ASC co the hop tac voi doi tac dau tu duoc cap phep khi phu hop. Trong cac truong hop do, ASC cung cap khung nghien cuu, quy tac mo hinh, chan doan va giam sat rui ro.
+## Metadata
 
-Doi tac duoc cap phep chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai danh muc, thuc thi giao dich, bao cao va nghia vu tiep xuc khach hang.
-
-ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay, khong nhan tai san cua khach hang thong qua website nay va khong cung cap tu van dau tu ca nhan thong qua website nay.
-
-## Lien he
-
-Doi voi cac yeu cau ve nghien cuu, he thong giao dich, khung quan tri rui ro hoac thao luan hop tac voi ASC, vui long lien he ASC.
-
-Doi voi thong tin ve san pham duoc quan ly, mo tai khoan, danh gia su phu hop, thuc thi, bao cao hoac tai lieu phap ly, vui long lien he doi tac duoc cap phep lien quan. ASC co the ho tro gioi thieu khi phu hop.
-
-## Thong tin quan trong
-
-Website nay chi nham muc dich cung cap thong tin. Noi dung tren website khong cau thanh loi chao ban, loi moi chao mua, khuyen nghi dau tu hay tu van dau tu ca nhan doi voi bat ky chung khoan, san pham dau tu hoac cong cu tai chinh nao tai bat ky khu vuc phap ly nao.
-
-Aureus Sigma Capital (ASC) la cong ty giao dich he thong doc quyen tap trung vao thi truong von Viet Nam. ASC phat trien ha tang nghien cuu, du lieu, thuc thi, xay dung danh muc va kiem soat rui ro.
-
-ASC khong chao ban san pham dau tu truc tiep cho cong chung thong qua website nay, khong nhan tai san cua khach hang thong qua website nay va khong cung cap tu van dau tu ca nhan thong qua website nay.
-
-Khi ASC hop tac voi doi tac duoc cap phep, doi tac do chiu trach nhiem doi voi san pham duoc quan ly, tiep nhan khach hang, danh gia su phu hop, trien khai, thuc thi, bao cao va cac nghia vu tiep xuc khach hang theo quy dinh phap luat hien hanh.
-
-Moi noi dung lien quan den nghien cuu, mo hinh, mo phong, backtest, khung dau tu hoac hanh vi chien luoc chi mang tinh minh hoa va co cac gioi han nhat dinh. Hieu qua trong qua khu, ket qua mo phong hoac ket qua mo hinh khong bao dam ket qua trong tuong lai. Moi hoat dong dau tu va giao dich deu co rui ro, bao gom kha nang mat von.
+- **Title:** Aureus Sigma Capital - Giao dịch định lượng bằng vốn tự có tại Việt Nam
+- **Meta description:** Aureus Sigma Capital là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro kỷ luật.

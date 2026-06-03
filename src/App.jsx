@@ -41,13 +41,13 @@ export default function App() {
       <ScrollToTop />
       <Layout t={t} lang={lang} setLang={setLang}>
         <Routes>
-          <Route path="/" element={<HomePage t={t} />} />
-          <Route path="/what-we-do" element={<WhatWeDoPage t={t} />} />
-          <Route path="/solutions" element={<SolutionsPage t={t} />} />
-          <Route path="/partnerships" element={<PartnershipsPage t={t} />} />
-          <Route path="/insights" element={<InsightsPage t={t} />} />
+          <Route path="/" element={<HomePage t={t} lang={lang} />} />
+          <Route path="/what-we-do" element={<WhatWeDoPage t={t} lang={lang} />} />
+          <Route path="/solutions" element={<SolutionsPage t={t} lang={lang} />} />
+          <Route path="/partnerships" element={<PartnershipsPage t={t} lang={lang} />} />
+          <Route path="/insights" element={<InsightsPage t={t} lang={lang} />} />
           <Route path="/insights/:slug" element={<InsightArticlePage lang={lang} t={t} />} />
-          <Route path="/about" element={<AboutPage t={t} />} />
+          <Route path="/about" element={<AboutPage t={t} lang={lang} />} />
           <Route path="/contact" element={<ContactPage t={t} lang={lang} />} />
           <Route path="*" element={<NotFoundPage lang={lang} />} />
         </Routes>

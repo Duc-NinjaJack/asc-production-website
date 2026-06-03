@@ -2,67 +2,47 @@
 
 ## Hero
 
-- **Headline:** Proprietary systematic trading for Vietnam's capital markets.
-- **Subheadline:** Aureus Sigma Capital builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline.
-- **Primary CTA:** Explore what ASC builds
-- **Secondary CTA:** Partnerships and boundaries
+- **Headline:** We trade our own capital in Vietnam's markets.
+- **Subheadline:** Aureus Sigma Capital is a proprietary systematic trading firm - disciplined research, execution, and risk control in Vietnam's capital markets.
+- **Primary CTA:** How we work
+- **Secondary CTA:** Partnerships
 
 ## Our Firm in Brief
 
-Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam's capital markets.
-
-ASC builds research, data, execution, portfolio-construction and risk-control infrastructure to trade and compound capital with discipline. The work focuses on market evidence, execution realism, risk controls, market-structure analysis and implementation-aware portfolio design.
-
-ASC may collaborate with licensed partners where appropriate. In those cases, licensed partners are responsible for regulated products, onboarding, suitability, execution, reporting and client-facing obligations. ASC does not offer investment products directly to the public through this website and does not accept client assets through this website.
+Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets. We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website. Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for onboarding, suitability, execution, reporting, and all client-facing obligations.
 
 ## Leadership Bio
 
 **Duc (Huy) Nguyen - Founder & CEO**
 
-Duc leads ASC's research, model design, risk oversight and partner coordination. He brings more than 20 years of experience in Vietnam's capital markets.
-
-At ASC, Duc keeps the firm focused on documented rules, local data quality, execution discipline and clear risk controls while licensed partners handle regulated client-facing work where applicable.
-
-## What ASC Builds
-
-1. **Research engines** - Research models tested against evidence, liquidity, costs and real implementation constraints.
-2. **Trading workflows** - Rules that connect model decisions to timing, liquidity, costs, operational control and review.
-3. **Portfolio construction** - Position sizing, rebalancing, exposure control, liquidity, concentration and drawdown-aware portfolio design.
-4. **Execution infrastructure** - Implementation logic designed around costs, timing, reconciliation, real trading constraints and operational review.
-5. **Risk governance** - Model validation, degradation monitoring, kill rules and boundaries between ASC systems and regulated partner obligations.
-6. **Evidence and model lifecycle** - Clean data used to support research, monitoring, post-trade review and model updates.
+Duc leads ASC's research, model design, risk oversight, and partner coordination, with more than 20 years in Vietnam's capital markets. He keeps the firm focused on documented rules, local data quality, execution discipline, and clear risk control, while licensed partners handle regulated, client-facing work where applicable.
 
 ## How ASC works
 
-ASC's work is built around repeatable disciplines: research, execution, risk control and post-trade review. We do not publish strategy details, model rules or trading signals.
+ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.
 
-1. **Research** - We study Vietnam's markets through data, market structure and repeatable evidence.
-2. **Execution** - We design trading workflows around liquidity, timing, costs and operational control.
-3. **Risk** - We monitor drawdown, exposure, concentration and model behaviour before increasing risk.
-4. **Review** - Every strategy must survive live evidence, reconciliation and ongoing monitoring.
+1. **Research** - We study Vietnam's markets through data, market structure, and repeatable evidence. Ideas earn their place through testing, not conviction.
+2. **Execution** - We trade our own book with defined rules built around liquidity, timing, and cost. Discipline matters more than any single trade.
+3. **Risk** - We monitor drawdown, exposure, and concentration, with limits set in advance and enforced before risk is increased.
+4. **Review** - Every strategy must survive live evidence, reconciliation, and ongoing monitoring. We measure ourselves on adherence, not outcomes.
 
 ## Partnerships and Boundaries
 
-ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC provides research frameworks, model rules, diagnostics and risk oversight.
-
-Licensed partners are responsible for regulated products, onboarding, suitability, portfolio implementation, execution, reporting and client-facing obligations.
-
-ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
+ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios. Licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
 
 ## Contact
 
-For inquiries about ASC's research, trading systems, risk framework or partnership discussions, please contact ASC.
-
-For regulated products, account opening, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.
+For ASC's research, risk, or partnership discussions, please contact ASC. For regulated products, onboarding, suitability, execution, reporting, or documentation, contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.
 
 ## Important Information
 
-This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product or financial instrument in any jurisdiction.
+This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.
 
-Aureus Sigma Capital (ASC) is a proprietary systematic trading and investment firm focused on Vietnam's capital markets. ASC develops research, data, execution, portfolio-construction and risk-control systems.
+## Metadata
 
-ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
-
-Where ASC collaborates with licensed partners, those licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting and client-facing obligations under applicable law.
-
-Any discussion of research, models, simulations, backtests, frameworks or strategy behaviour is illustrative and subject to limitations. Past performance, simulated performance or modelled results do not promise future results. All investment and trading activity involves risk, including possible loss of capital.
+- **Title:** Aureus Sigma Capital - Proprietary Trading in Vietnam
+- **Meta description:** Aureus Sigma Capital is a proprietary trading firm in Vietnam. We trade our own capital with disciplined research, execution, and risk.
+- **OG title:** Aureus Sigma Capital - Proprietary Trading in Vietnam
+- **OG description:** A proprietary trading firm focused on Vietnam's capital markets. We trade our own capital.
+- **Keywords:** omitted
+- **Canonical:** https://www.aureussigmacapital.com/

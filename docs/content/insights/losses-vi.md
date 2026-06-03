@@ -1,9 +1,9 @@
-Bien dong don cum va dieu kien thi truong thay doi la dieu binh thuong o thi truong moi noi. ASC xem khoan lo lon la van de thiet ke he thong, khong phai dieu co the bo qua bang cam tinh.
+Biến động theo cụm và điều kiện thị trường thay đổi là điều bình thường ở các thị trường mới nổi. ASC xem các khoản thua lỗ lớn là vấn đề về thiết kế và giới hạn, không phải điều có thể mong cho qua.
 
-ASC khong the kiem soat thi truong hoac du bao moi cu giam. Thay vao do, cong ty xac dinh truoc hanh dong co the xay ra khi muc lo vuot cac nguong da viet.
+ASC không thể kiểm soát hay dự đoán thị trường; thay vào đó, công ty xác định trước những hành động có thể diễn ra khi thua lỗ vượt các ngưỡng đã định.
 
-Da dang hoa, gioi han vi the va gioi han phoi nhiem chung giup giam phu thuoc vao mot co phieu, mot nganh hoac mot cau chuyen rieng le.
+Đa dạng hóa, giới hạn vị thế và mức trần tổng tiếp xúc giúp giảm phụ thuộc vào bất kỳ cổ phiếu, ngành hay chủ đề đơn lẻ nào.
 
-Khi muc lo tien gan gioi han da viet, quy tac co the yeu cau giam phoi nhiem hoac dung bien phap phong ve phu hop de giam rui ro thi truong rong. Neu cang thang tang len, phan ung co the phong thu hon.
+Khi thua lỗ tiến gần các giới hạn đã ghi, quy tắc có thể yêu cầu giảm tiếp xúc hoặc dùng công cụ phòng hộ phù hợp để giảm rủi ro thị trường ròng; nếu căng thẳng gia tăng, phản ứng sẽ thận trọng hơn.
 
-Cac buoc nay co the khien he thong cham hon trong cac nhip hoi nhanh hoac phat sinh chi phi phong ve. Chung khong hua hen mot muc lo toi da. Chung ton tai de giu quyet dinh rui ro co ky luat khi thi truong cang thang.
+Các bước này có thể chậm hơn một nhịp hồi phục đột ngột hoặc phát sinh chi phí, và không hứa hẹn một mức lỗ tối đa. Chúng tồn tại để giữ kỷ luật cho các quyết định rủi ro khi thị trường căng thẳng.

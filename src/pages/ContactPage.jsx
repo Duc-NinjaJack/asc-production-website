@@ -57,6 +57,7 @@ export default function ContactPage({ t, lang }) {
                 title={t.contact.title}
                 description={t.contact.desc}
                 url="/contact"
+                lang={lang}
             />
             <PageHeader
                 title={t.contact.title}

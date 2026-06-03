@@ -1,9 +1,9 @@
-On December 19, 2025, Fides (Vietnam) Fund Management JS Company ("FIDES Vietnam") and Aureus Sigma Capital JS Company ("ASC") signed a memorandum of understanding at the FIDES office in HCMC. The MoU establishes a framework for cooperation on systematic research, model rules, diagnostics and risk oversight within the applicable regulatory framework.
+On December 19, 2025, FIDES Vietnam and Aureus Sigma Capital ("ASC") signed a memorandum of understanding at the FIDES office in HCMC. The note records a possible cooperation path within applicable law.
 
-FIDES Vietnam is an asset management firm headquartered in Vietnam with core businesses in fund management, portfolio management, and securities investment advisory. It is the licensed party for regulated product and client-facing responsibilities where applicable.
+ASC is a proprietary trading firm focused on Vietnam's capital markets. ASC trades its own capital and keeps its research, execution, and risk work separate from client-facing obligations.
 
-ASC is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets. ASC develops research, data, execution, portfolio-construction and risk-control systems designed to trade and compound capital with discipline.
+Where regulated products are involved, the licensed partner is responsible for onboarding, suitability, implementation, execution, reporting, and client-facing obligations.
 
-Under the cooperation framework, ASC may provide research frameworks, model rules, diagnostics and risk oversight. FIDES Vietnam, as the licensed manager, is responsible for any regulated products, onboarding, suitability, portfolio implementation, execution, reporting and client-facing obligations.
+ASC's role stays limited to its own research and risk perspective. ASC does not run client portfolios, does not offer investment products directly to the public through this website, and does not handle client funds through this website.
 
-This announcement is for informational purposes only. ASC does not offer investment products directly to the public through this website and does not handle client funds through this website.
+This announcement is for informational purposes only. It does not constitute an offer, solicitation, recommendation, or personalized investment advice.

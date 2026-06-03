@@ -31,7 +31,7 @@ export default function Hero({ t }) {
                         <div className="space-y-4 md:space-y-6">
                             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#D4AF37]/10 border border-[#D4AF37]/20 backdrop-blur-sm">
                                 <span className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] animate-pulse"></span>
-                                <span className="text-[9px] md:text-[10px] uppercase tracking-[0.15em] md:tracking-[0.2em] text-[#D4AF37] font-bold">Proprietary Systematic Trading</span>
+                                <span className="text-[9px] md:text-[10px] uppercase tracking-[0.15em] md:tracking-[0.2em] text-[#D4AF37] font-bold">Proprietary Trading</span>
                             </div>
                             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-serif font-medium leading-[1.1] tracking-tight text-white">
                                 {t.hero.title}
@@ -76,7 +76,7 @@ export default function Hero({ t }) {
                     <div className="bg-white/5 border border-white/10 rounded-2xl md:rounded-3xl p-5 md:p-8 backdrop-blur-md shadow-2xl">
                         <h3 className="text-xs uppercase tracking-[0.2em] md:tracking-[0.3em] text-[#D4AF37] font-bold mb-4 md:mb-6">{t.hero.whyAsc}</h3>
                         <p className="text-base md:text-lg text-slate-100 font-light leading-relaxed mb-6 md:mb-8">
-                            {t.hero.subtitle.split('.')[0] || "Proprietary systematic trading for Vietnam."}
+                            {t.hero.brief || t.hero.subtitle.split('.')[0] || "Proprietary trading for Vietnam."}
                         </p>
                         <div className="space-y-4 md:space-y-6">
                             {t.hero.highlights.map((item) => {

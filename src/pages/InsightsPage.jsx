@@ -4,13 +4,14 @@ import FileText from "lucide-react/dist/esm/icons/file-text";
 import PageHeader from "../components/PageHeader";
 import InsightCard from "../components/InsightCard";
 
-export default function InsightsPage({ t }) {
+export default function InsightsPage({ t, lang }) {
     return (
         <div className="bg-white">
             <SEO
                 title={t.insights.sectionTitle}
                 description={t.insights.intro}
                 url="/insights"
+                lang={lang}
             />
             <PageHeader
                 title={t.insights.sectionTitle}
@@ -33,4 +34,3 @@ export default function InsightsPage({ t }) {
         </div>
     );
 }
-

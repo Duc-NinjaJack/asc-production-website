@@ -5,7 +5,7 @@ import ExternalLink from "lucide-react/dist/esm/icons/external-link";
 import PageHeader from "../components/PageHeader";
 import PartnershipBridge from "../components/PartnershipBridge";
 
-export default function PartnershipsPage({ t }) {
+export default function PartnershipsPage({ t, lang }) {
     const mouAnnouncement = t?.insights?.items?.find((item) => item.slug === "fides-aureus-sigma-capital-strategic-partnership");
     return (
         <div className="bg-white">
@@ -13,12 +13,13 @@ export default function PartnershipsPage({ t }) {
                 title={t.nav.partnerships}
                 description={t.partnerships.intro}
                 url="/partnerships"
+                lang={lang}
             />
             <PageHeader
                 title={t.nav.partnerships}
                 subtitle={t.partnerships.intro}
                 image="/assets/others/institution_partnership_1.png"
-                parentSection="Ecosystem"
+                parentSection="Partnerships"
             />
             <div className="mx-auto max-w-6xl px-6 space-y-12 pb-24">
                 <PartnershipBridge roles={t.partnerships.roles} />

@@ -5,13 +5,14 @@ import PageHeader from "../components/PageHeader";
 import TeamCard from "../components/TeamCard";
 import { TEAM_PHOTOS, ICON_MAP } from "../data/content";
 
-export default function AboutPage({ t }) {
+export default function AboutPage({ t, lang }) {
     return (
         <div className="bg-white">
             <SEO
                 title={t.about.title}
                 description={t.about.intro}
                 url="/about"
+                lang={lang}
             />
             <PageHeader
                 title={t.about.title}

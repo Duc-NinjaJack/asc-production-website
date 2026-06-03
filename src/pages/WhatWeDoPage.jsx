@@ -40,7 +40,7 @@ function SystemsSection({ title, intro, items = [] }) {
     );
 }
 
-export default function WhatWeDoPage({ t }) {
+export default function WhatWeDoPage({ t, lang }) {
     const mainBlocks = t.whatWeDo.blocks.slice(0, 3);
     const riskBlock = t.whatWeDo.blocks[3];
     return (
@@ -49,6 +49,7 @@ export default function WhatWeDoPage({ t }) {
                 title={t.whatWeDo.sectionTitle}
                 description={t.whatWeDo.intro}
                 url="/what-we-do"
+                lang={lang}
             />
             <PageHeader
                 title={t.whatWeDo.sectionTitle || t.nav.whatWeDo}
@@ -57,9 +58,6 @@ export default function WhatWeDoPage({ t }) {
                 parentSection="Our Approach"
             />
             <div className="mx-auto max-w-6xl px-6 space-y-16 pb-24">
-                {Array.isArray(t.whatWeDo.capabilities) && (
-                    <SystemsSection title={t.whatWeDo.capabilitiesTitle} intro={t.whatWeDo.capabilitiesIntro} items={t.whatWeDo.capabilities} />
-                )}
                 {Array.isArray(t.whatWeDo.howAscWorksItems) && (
                     <SystemsSection title={t.whatWeDo.howAscWorksTitle} intro={t.whatWeDo.howAscWorksIntro} items={t.whatWeDo.howAscWorksItems} />
                 )}

@@ -3,17 +3,18 @@ import SEO from "../components/SEO";
 import PageHeader from "../components/PageHeader";
 import BoundarySection from "../components/BoundarySection";
 
-export default function SolutionsPage({ t }) {
+export default function SolutionsPage({ t, lang }) {
     return (
         <div className="bg-white">
             <SEO
                 title={t.solutions?.title}
                 description={t.solutions?.intro}
                 url="/solutions"
+                lang={lang}
             />
             <PageHeader
                 title={t.solutions?.title || "Partnerships and boundaries"}
-                subtitle={t.solutions?.intro || "How ASC separates proprietary systems, partner collaboration and regulated client-facing obligations."}
+                subtitle={t.solutions?.intro || "How ASC separates own-capital trading, partner collaboration and regulated client-facing obligations."}
                 image="/assets/others/investment_office_modern_2.png"
                 parentSection="Website Boundary"
             />

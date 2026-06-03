@@ -29,6 +29,7 @@ export default function InsightArticlePage({ lang, t }) {
                 description={article.body?.[0] || article.title}
                 url={`/insights/${slug}`}
                 image={heroImage ? article.heroImage.src : undefined}
+                lang={lang}
             />
             <div className="mx-auto max-w-3xl px-4 space-y-4">
                 <span className="text-xs uppercase tracking-wide text-slate-500">{breadcrumb}</span>

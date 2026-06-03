@@ -3,7 +3,7 @@
 **Status**: Implemented
 
 ## Overview
-This document outlines the Search Engine Optimization (SEO) enhancements implemented for the Aureus Sigma Capital website. The goal was to move from static, site-wide metadata to a dynamic, page-specific system that improves search engine visibility and social media sharing.
+This document outlines the Search Engine Optimization (SEO) enhancements implemented for the Aureus Sigma Capital website. The goal was to move from static, site-wide metadata to dynamic, page-specific metadata that improves search engine visibility and social media sharing.
 
 ## 1. Dynamic Metadata System
 We implemented a reusable `SEO` component using `react-helmet-async`. This allows each page to inject its own `<title>`, `<meta>`, and link tags into the document `<head>`.
