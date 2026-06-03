@@ -413,17 +413,17 @@ export const i18n = {
         contact: {
             title: "Contact",
             desc:
-                "For ASC's research, risk, or partnership discussions, contact ASC. For regulated products, onboarding, suitability, execution, reporting, or documentation, contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.",
+                "For ASC's research, risk, or partnership discussions, please contact ASC. For regulated products, onboarding, suitability, execution, reporting, or documentation, contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.",
             primaryCta: "Submit inquiry",
             emailLabel: "Email",
-            email: "contact@ascap.vn",
+            email: "",
             addressLabel: "Offices",
             addresses: [
                 "15 Le Thanh Ton, Saigon Ward, HCMC",
                 "21 Vo Truong Toan, An Khanh Ward, HCMC"
             ],
             note:
-                "Email remains contact@ascap.vn. ASC does not offer investment products directly to the public, accept client assets or provide personalized investment advice through this website.",
+                "ASC does not offer investment products directly to the public, accept client assets or provide personalized investment advice through this website.",
         },
         legal: {
             body:
@@ -778,13 +778,13 @@ export const i18n = {
                 "Đối với các trao đổi về nghiên cứu, rủi ro hoặc hợp tác của ASC, vui lòng liên hệ ASC. Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.",
             primaryCta: "Gửi yêu cầu",
             emailLabel: "Email",
-            email: "contact@ascap.vn",
+            email: "",
             addressLabel: "Địa chỉ",
             addresses: [
                 "15 Lê Thánh Tôn, Phường Sài Gòn, TP. HCM",
                 "21 Võ Trường Toản, Phường An Khánh, TP. HCM"
             ],
-            note: "Email vẫn là contact@ascap.vn. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng, không nhận tài sản của khách hàng và không cung cấp tư vấn đầu tư cá nhân thông qua website này.",
+            note: "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng, không nhận tài sản của khách hàng và không cung cấp tư vấn đầu tư cá nhân thông qua website này.",
         },
         legal: {
             body:
