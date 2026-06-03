@@ -96,7 +96,7 @@ export const i18n = {
                 { label: "Role", value: "Own-capital trading", icon: "shield-check" },
             ],
             highlights: [
-                { label: "Own capital", body: "ASC trades its own capital. This website does not offer products or onboarding.", icon: "rules" },
+                { label: "Proprietary discipline", body: "ASC trades under its own research, execution, and risk process. This website does not offer products.", icon: "rules" },
                 { label: "Research discipline", body: "Ideas earn their place through data, testing, and review.", icon: "database" },
                 { label: "Execution discipline", body: "Trading decisions are built around liquidity, timing, and cost.", icon: "activity" },
                 { label: "Risk control", body: "Limits are set before risk is increased.", icon: "shield" },
@@ -268,9 +268,9 @@ export const i18n = {
             paragraphs: [
                 "ASC may collaborate with licensed investment partners where appropriate.",
                 "In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
-                "Licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations.",
+                "Licensed partners are responsible for regulated products and client-facing obligations under applicable law.",
                 "ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.",
-                "For regulated products, onboarding, suitability, execution, reporting, or documentation, please contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.",
+                "ASC decides how to respond to professional inquiries and keeps its own research, execution, and risk role separate from regulated client-facing obligations.",
             ],
             roles: [
                 {
@@ -281,7 +281,7 @@ export const i18n = {
                 {
                     roleLabel: "The Manager",
                     title: "Licensed partners",
-                    bullets: ["Regulated products and onboarding", "Suitability, execution, reporting and client-facing obligations"],
+                    bullets: ["Regulated products where applicable", "Client-facing obligations under applicable law"],
                 },
                 {
                     roleLabel: "The Architect",
@@ -296,7 +296,7 @@ export const i18n = {
         boundaries: {
             title: "Partnerships and boundaries",
             intro:
-                "ASC’s website does not offer products, onboarding or personalized advice. This page records how responsibilities are separated when ASC collaborates with licensed partners.",
+                "ASC’s website does not offer products or personalized advice. This page records how responsibilities are separated when ASC collaborates with licensed partners.",
             objectivesTitle: "Responsibility boundaries",
             objectives: [
                 {
@@ -307,7 +307,7 @@ export const i18n = {
                 {
                     title: "Licensed partner obligations",
                     body:
-                        "Licensed partners handle regulated products, onboarding, suitability, portfolio implementation, execution, reporting and client-facing obligations.",
+                        "Licensed partners handle regulated products and client-facing obligations under applicable law.",
                 },
                 {
                     title: "Website boundary",
@@ -325,7 +325,7 @@ export const i18n = {
                 "Reporting inputs that the licensed partner may use under its own obligations.",
             ],
             discussionNote:
-                "ASC does not set public product terms through this website. Regulated product, account, suitability, execution and documentation questions belong with the relevant licensed partner.",
+                "ASC does not set public product terms through this website. Regulated client-facing questions are handled under the relevant licensed partner's obligations.",
             reportingTitle: "Reporting and transparency",
             reportingBody:
                 "ASC may provide analytics and diagnostics to a licensed partner. The licensed partner remains responsible for regulated reporting and client-facing communication.",
@@ -377,7 +377,7 @@ export const i18n = {
             details: [
                 "Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets.",
                 "We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website.",
-                "Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for onboarding, suitability, execution, reporting, and all client-facing obligations.",
+                "Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for regulated client-facing obligations.",
             ],
             factSheet: {
                 title: "Fact Sheet",
@@ -413,7 +413,7 @@ export const i18n = {
         contact: {
             title: "Contact",
             desc:
-                "For professional inquiries, contact ASC at contact@ascap.vn. For regulated products, onboarding, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.",
+                "For professional inquiries, contact ASC at contact@ascap.vn.",
             primaryCta: "Submit inquiry",
             emailLabel: "Email",
             email: "contact@ascap.vn",
@@ -427,7 +427,7 @@ export const i18n = {
         },
         legal: {
             body:
-                "Important information. This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.",
+                "Important information. This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.",
             rights: "© " + new Date().getFullYear() + " Aureus Sigma Capital. All rights reserved.",
         },
         cookie: {
@@ -447,20 +447,20 @@ export const i18n = {
         },
         hero: {
             whyAsc: "Tại sao chọn ASC",
-            title: "Giao dịch định lượng bằng vốn tự có trên thị trường vốn Việt Nam.",
+            title: "Trade và đầu tư định lượng tại thị trường vốn Việt Nam.",
             subtitle:
-                "Aureus Sigma Capital là công ty giao dịch định lượng sử dụng vốn tự có — nghiên cứu, thực thi và quản trị rủi ro một cách kỷ luật trên thị trường vốn Việt Nam.",
+                "Aureus Sigma Capital kết hợp dữ liệu, thuật toán, mô hình định lượng, thống kê, thực thi và quản trị rủi ro để ra quyết định có kỷ luật.",
             ctas: [
                 { label: "Cách ASC vận hành", to: "/what-we-do" },
-                { label: "Hợp tác", to: "/partnerships" },
+                { label: "Liên hệ", to: "/contact" },
             ],
             stats: [
                 { label: "Thành lập", value: "2025", icon: "clock" },
                 { label: "Thị trường", value: "Thị trường vốn Việt Nam", icon: "map" },
-                { label: "Vai trò", value: "Vốn tự có", icon: "shield-check" },
+                { label: "Vai trò", value: "Trade và đầu tư định lượng", icon: "shield-check" },
             ],
             highlights: [
-                { label: "Vốn tự có", body: "ASC giao dịch bằng vốn của chính mình. Website này không chào bán sản phẩm và không mở tài khoản.", icon: "rules" },
+                { label: "Thuật toán và dữ liệu", body: "ASC kết hợp dữ liệu, thuật toán và thống kê để hỗ trợ quyết định có kỷ luật.", icon: "rules" },
                 { label: "Kỷ luật nghiên cứu", body: "Ý tưởng phải được kiểm chứng bằng dữ liệu, thử nghiệm và rà soát.", icon: "database" },
                 { label: "Kỷ luật thực thi", body: "Quyết định giao dịch được xây dựng quanh thanh khoản, thời điểm và chi phí.", icon: "activity" },
                 { label: "Kiểm soát rủi ro", body: "Giới hạn được đặt ra trước khi tăng rủi ro.", icon: "shield" },
@@ -469,29 +469,29 @@ export const i18n = {
         whatWeDo: {
             sectionTitle: "Cách ASC vận hành",
             intro:
-                "ASC giao dịch bằng vốn tự có trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược và tín hiệu giao dịch được giữ kín.",
+                "ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.",
             howAscWorksTitle: "Cách ASC vận hành",
             howAscWorksIntro:
-                "ASC giao dịch bằng vốn tự có trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược và tín hiệu giao dịch được giữ kín.",
+                "ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.",
             howAscWorksItems: [
                 {
                     title: "Nghiên cứu",
-                    body: "Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể lặp lại. Mỗi ý tưởng phải được kiểm chứng, không dựa vào cảm tính.",
+                    body: "Chúng tôi nghiên cứu thị trường Việt Nam qua dữ liệu, cấu trúc thị trường và bằng chứng có thể kiểm chứng. Mỗi ý tưởng phải được thử nghiệm, không dựa vào cảm tính.",
                     icon: "rules",
                 },
                 {
                     title: "Thực thi",
-                    body: "Chúng tôi giao dịch trên tài khoản của chính mình theo quy tắc rõ ràng, xây dựng quanh thanh khoản, thời điểm và chi phí. Kỷ luật quan trọng hơn bất kỳ giao dịch đơn lẻ nào.",
+                    body: "Chúng tôi vận hành theo các quy tắc rõ ràng, xoay quanh thanh khoản, thời điểm và chi phí. Kỷ luật quan trọng hơn bất kỳ giao dịch đơn lẻ nào.",
                     icon: "process",
                 },
                 {
                     title: "Rủi ro",
-                    body: "Chúng tôi giám sát mức sụt giảm, mức độ tiếp xúc và độ tập trung, với các giới hạn được ấn định trước và thực thi nghiêm trước khi tăng rủi ro.",
+                    body: "Chúng tôi giám sát mức sụt giảm, mức độ tiếp xúc và độ tập trung, với các giới hạn được đặt trước và thực thi trước khi tăng rủi ro.",
                     icon: "shield",
                 },
                 {
                     title: "Rà soát",
-                    body: "Mỗi chiến lược phải vượt qua bằng chứng thực tế, đối soát và giám sát liên tục. Chúng tôi đánh giá mình dựa trên việc tuân thủ kỷ luật, không dựa trên kết quả.",
+                    body: "Mỗi chiến lược phải vượt qua bằng chứng thực tế, đối soát và giám sát liên tục. Chúng tôi đánh giá hệ thống qua kỷ luật thực thi, không qua một kết quả đơn lẻ.",
                     icon: "activity",
                 },
             ],
@@ -502,9 +502,9 @@ export const i18n = {
                 { label: "Ý thức về rủi ro", body: "Mức sụt giảm, thanh khoản và hành vi thị trường là đầu vào trong thiết kế, không phải yếu tố xem xét sau cùng." },
             ],
             objective:
-                "Mục tiêu rất rõ: chuyển bằng chứng thị trường thành quyết định giao dịch bằng vốn tự có, có kỷ luật và có thể rà soát trước và sau khi triển khai.",
+                "Mục tiêu rất rõ: chuyển bằng chứng thị trường thành quyết định trade và đầu tư có kỷ luật, có thể rà soát trước và sau khi triển khai.",
             processTitle: "Cách công việc được tổ chức",
-            processIntro: "ASC giữ công việc theo một trình tự rõ ràng phía sau tài khoản giao dịch của chính mình.",
+            processIntro: "ASC giữ công việc theo một trình tự rõ ràng trước khi đưa quyết định vào thực thi.",
             process: [
                 { label: "Nghiên cứu", body: "Thu thập, làm sạch và giám sát dữ liệu thị trường, doanh nghiệp, trong ngày và vận hành với nguồn gốc và kiểm tra chất lượng rõ ràng." },
                 { label: "Kiểm thử", body: "Kiểm thử ý tưởng với chi phí, thanh khoản, thời điểm và giới hạn triển khai trước khi được tin dùng." },
@@ -538,7 +538,7 @@ export const i18n = {
                         "Giới hạn sụt giảm và tập trung được xác định trước khi triển khai.",
                         "Thanh khoản, chi phí và thời điểm thực thi được xem là ràng buộc thiết kế.",
                         "Suy giảm mô hình được giám sát sau khi sử dụng.",
-                        "Giao dịch bằng vốn tự có của ASC và nghĩa vụ của đối tác được cấp phép được tách bạch rõ ràng.",
+                        "Nghiên cứu, thực thi và quản trị rủi ro của ASC được tách bạch rõ ràng với nghĩa vụ của đối tác được cấp phép.",
                     ],
                     icon: "shield",
                 },
@@ -622,33 +622,29 @@ export const i18n = {
         },
         solutions: {
             title: "Đối tác và ranh giới",
-            intro: "Cách ASC tách biệt giao dịch bằng vốn tự có, hợp tác với đối tác và nghĩa vụ tiếp xúc khách hàng được quản lý.",
+            intro: "Cách ASC phân định trade, đầu tư, hợp tác với đối tác và các nghĩa vụ được quản lý.",
         },
         partnerships: {
             intro:
-                "ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi phù hợp. Trong các thỏa thuận đó, vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình; ASC không vận hành danh mục cho khách hàng.",
+                "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu, quy trình, mô hình và góc nhìn rủi ro; đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
             paragraphs: [
-                "ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi phù hợp.",
-                "Trong các thỏa thuận đó, vai trò của ASC chỉ giới hạn ở nghiên cứu và góc nhìn rủi ro của chính mình; ASC không vận hành danh mục cho khách hàng.",
-                "Các đối tác có giấy phép chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng.",
-                "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
-                "Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.",
+                "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu, quy trình, mô hình và góc nhìn rủi ro; đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
             ],
             roles: [
                 {
-                    roleLabel: "Vốn",
+                    roleLabel: "Kỷ luật",
                     title: "Nhà đầu tư",
                     bullets: ["Tiếp cận được quản lý bởi đối tác được cấp phép", "Không có chào bán sản phẩm trực tiếp qua website ASC"],
                 },
                 {
                     roleLabel: "Quản Lý",
                     title: "Đối tác được cấp phép",
-                    bullets: ["Sản phẩm được quản lý và tiếp nhận khách hàng", "Đánh giá phù hợp, thực thi, báo cáo và nghĩa vụ tiếp xúc khách hàng"],
+                    bullets: ["Sản phẩm được quản lý khi phù hợp", "Nghĩa vụ được quản lý theo pháp luật"],
                 },
                 {
                     roleLabel: "Kiến Trúc",
                     title: "Aureus Sigma Capital",
-                    bullets: ["Giao dịch bằng vốn tự có", "Giữ riêng góc nhìn nghiên cứu và rủi ro", "Không vận hành danh mục cho khách hàng"],
+                    bullets: ["Nghiên cứu, quy trình và mô hình", "Góc nhìn rủi ro riêng", "Không vận hành danh mục cho khách hàng"],
                 },
             ],
             cta: "Ghi chú hợp tác FIDES",
@@ -658,18 +654,18 @@ export const i18n = {
         boundaries: {
             title: "Đối tác và ranh giới",
             intro:
-                "Website ASC không chào bán sản phẩm, không mở tài khoản và không cung cấp tư vấn cá nhân. Trang này ghi nhận cách phân định trách nhiệm khi ASC hợp tác với đối tác được cấp phép.",
+                "Website ASC không chào bán sản phẩm và không cung cấp tư vấn cá nhân. Trang này ghi nhận cách phân định trách nhiệm khi ASC hợp tác với đối tác được cấp phép.",
             objectivesTitle: "Ranh giới trách nhiệm",
             objectives: [
                 {
                     title: "Công việc riêng của ASC",
                     body:
-                        "ASC giao dịch bằng vốn tự có và giữ quy trình nghiên cứu, thực thi và rủi ro tách biệt với công việc tiếp xúc khách hàng.",
+                        "ASC giữ quy trình nghiên cứu, mô hình, thực thi và rủi ro tách biệt với công việc tiếp xúc khách hàng.",
                 },
                 {
                     title: "Nghĩa vụ của đối tác được cấp phép",
                     body:
-                        "Đối tác được cấp phép xử lý sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá sự phù hợp, triển khai danh mục, thực thi, báo cáo và nghĩa vụ tiếp xúc khách hàng.",
+                        "Đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật.",
                 },
                 {
                     title: "Ranh giới website",
@@ -687,7 +683,7 @@ export const i18n = {
                 "Dữ liệu đầu vào cho báo cáo mà đối tác được cấp phép có thể sử dụng theo nghĩa vụ của mình.",
             ],
             discussionNote:
-                "ASC không đặt điều khoản sản phẩm công khai thông qua website này. Câu hỏi về sản phẩm được quản lý, tài khoản, sự phù hợp, thực thi và tài liệu thuộc về đối tác được cấp phép liên quan.",
+                "ASC không đặt điều khoản sản phẩm công khai thông qua website này. Các nghĩa vụ được quản lý thuộc trách nhiệm của đối tác được cấp phép.",
             reportingTitle: "Báo cáo và rõ ràng",
             reportingBody:
                 "ASC có thể chia sẻ phân tích với đối tác được cấp phép. Đối tác được cấp phép vẫn chịu trách nhiệm về báo cáo được quản lý và truyền thông tiếp xúc khách hàng.",
@@ -735,17 +731,15 @@ export const i18n = {
         about: {
             title: "Về Aureus Sigma Capital",
             intro:
-                "Giao dịch bằng vốn tự có. Trọng tâm Việt Nam. Ranh giới rõ ràng.",
+                "Trade và đầu tư. Trọng tâm Việt Nam. Ranh giới rõ ràng.",
             details: [
-                "Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam.",
-                "Chúng tôi giao dịch bằng vốn của chính mình và xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản của bên ngoài và không cung cấp sản phẩm đầu tư qua website này.",
-                "Với các sản phẩm thuộc diện được cấp phép, ASC có thể hợp tác với các đối tác có giấy phép; các đối tác này chịu trách nhiệm tiếp nhận khách hàng, đánh giá mức độ phù hợp, thực thi, báo cáo và toàn bộ nghĩa vụ với khách hàng.",
+                "Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam. ASC xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. Website này không phải là lời chào bán sản phẩm đầu tư, không nhận tài sản khách hàng và không cung cấp tư vấn đầu tư cá nhân hóa.",
             ],
             factSheet: {
                 title: "Thông tin tổng quan",
                 items: [
                     { label: "Năm thành lập", value: "2025" },
-                    { label: "Trọng tâm", value: "Giao dịch bằng vốn tự có tại Việt Nam" },
+                    { label: "Trọng tâm", value: "Trade và đầu tư định lượng tại Việt Nam" },
                     { label: "Ranh giới website", value: "Không chào bán sản phẩm trực tiếp" },
                 ]
             },
@@ -760,22 +754,21 @@ export const i18n = {
                     title: "Nhà sáng lập kiêm Tổng Giám đốc",
                     body: [
                         "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.",
-                        "Sự nghiệp của ông gắn bó với thị trường vốn Việt Nam hơn hai mươi năm, trải qua các vị trí lãnh đạo cấp cao như Tổng Giám đốc Techcom Capital, Tổng Giám đốc Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông phụ trách mảng tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó đảm nhiệm vị trí Giám đốc Tài chính tập đoàn kiêm Trưởng bộ phận Đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, ứng dụng các mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn kỷ luật qua nhiều chu kỳ thị trường.",
-                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi các đối tác có giấy phép xử lý phần việc tiếp xúc khách hàng thuộc diện được quản lý khi áp dụng.",
+                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.",
                     ],
                 },
             ],
             teamTitle: "Ban Lãnh đạo",
         },
         team: {
-            founder: "Nguyễn Huy Đức — Nhà sáng lập kiêm Tổng Giám đốc",
+            founder: "Nguyễn Huy Đức - Nhà sáng lập kiêm Tổng Giám đốc",
             founderBio:
-                "Nhà sáng lập kiêm Tổng Giám đốc ASC. Cựu CEO Techcom Capital và Giám đốc Khối Ngân hàng Đầu tư tại Techcom Securities; nguyên CFO Ngân hàng Phương Đông (OCB). Với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam, ông tập trung vào giao dịch bằng vốn tự có và thiết kế quy trình có ý thức rủi ro.",
+                "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam. Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.",
         },
         contact: {
             title: "Liên hệ",
             desc:
-                "Đối với các yêu cầu chuyên nghiệp, vui lòng liên hệ ASC qua contact@ascap.vn. Đối với thông tin về sản phẩm được quản lý, mở tài khoản, đánh giá sự phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác được cấp phép liên quan. ASC có thể hỗ trợ giới thiệu khi phù hợp.",
+                "Đối với các yêu cầu chuyên nghiệp, vui lòng liên hệ ASC qua contact@ascap.vn.",
             primaryCta: "Gửi yêu cầu",
             emailLabel: "Email",
             email: "contact@ascap.vn",
@@ -788,7 +781,7 @@ export const i18n = {
         },
         legal: {
             body:
-                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân hóa đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường vốn Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro của riêng mình. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản của khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này. Khi ASC hợp tác với đối tác có giấy phép, đối tác đó chịu trách nhiệm về sản phẩm được quản lý, tiếp nhận khách hàng, đánh giá mức độ phù hợp, triển khai, thực thi, báo cáo và các nghĩa vụ với khách hàng theo quy định pháp luật hiện hành. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest hoặc hành vi chiến lược chỉ mang tính minh họa và có những giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không bảo đảm kết quả trong tương lai. Mọi hoạt động đầu tư và giao dịch đều có rủi ro, bao gồm khả năng mất vốn.",
+                "Thông tin quan trọng. Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên website không cấu thành lời chào bán, lời mời chào mua, khuyến nghị đầu tư hay tư vấn đầu tư cá nhân hóa đối với bất kỳ chứng khoán, sản phẩm đầu tư hoặc công cụ tài chính nào tại bất kỳ khu vực pháp lý nào. Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro của riêng mình. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này. Mọi nội dung liên quan đến nghiên cứu, mô hình, mô phỏng, backtest hoặc hành vi chiến lược chỉ mang tính minh họa và có những giới hạn nhất định. Hiệu quả trong quá khứ, kết quả mô phỏng hoặc kết quả mô hình không bảo đảm kết quả trong tương lai. Mọi hoạt động đầu tư và trading đều có rủi ro, bao gồm khả năng mất vốn.",
             rights: "© " + new Date().getFullYear() + " Aureus Sigma Capital. All rights reserved.",
         },
         cookie: {

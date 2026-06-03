@@ -9,7 +9,7 @@
 
 ## Our Firm in Brief
 
-Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets. We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website. Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for onboarding, suitability, execution, reporting, and all client-facing obligations.
+Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets. We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website. Where regulated products are involved, ASC may collaborate with licensed partners, who are responsible for regulated client-facing obligations.
 
 ## Leadership Bio
 
@@ -28,15 +28,15 @@ ASC trades proprietary capital in Vietnam's markets. This page explains our prin
 
 ## Partnerships and Boundaries
 
-ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios. Licensed partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
+ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios. Licensed partners are responsible for regulated products and client-facing obligations under applicable law. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
 
 ## Contact
 
-For professional inquiries, contact ASC at contact@ascap.vn. For regulated products, onboarding, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.
+For professional inquiries, contact ASC at contact@ascap.vn.
 
 ## Important Information
 
-This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products, onboarding, suitability, implementation, execution, reporting, and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.
+This website is for informational purposes only. It does not constitute an offer to sell, or a solicitation of an offer to buy, any security, fund interest, investment product, or financial instrument in any jurisdiction. Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets, with proprietary research, execution, and risk processes. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website. Where ASC collaborates with licensed partners, those partners are responsible for regulated products and client-facing obligations under applicable law. Any discussion of research, models, simulations, backtests, or strategy behaviour is illustrative and subject to limitations. Past, simulated, or modelled performance does not promise future results. All investment and trading activity involves risk, including possible loss of capital.
 
 ## Metadata
 

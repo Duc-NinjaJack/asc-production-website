@@ -116,8 +116,7 @@ export default function TearsheetPage() {
                             <h3 className="text-sm font-bold text-slate-900 uppercase tracking-wide mb-3 border-b border-slate-200 pb-2">Decision Boundary</h3>
                             <p className="text-sm text-slate-600 leading-relaxed">
                                 ASC may use this type of documentation to review proprietary research. Where regulated products or client-facing
-                                work are involved, the relevant licensed partner remains responsible for onboarding, suitability, implementation,
-                                execution, reporting and legal documents.
+                                work are involved, the relevant licensed partner remains responsible for regulated client-facing obligations.
                             </p>
                         </section>
                     </div>
