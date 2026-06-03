@@ -129,12 +129,10 @@ export default function Layout({ t, lang, setLang, children }) {
                     <div className="space-y-4 text-sm">
                         <div className="font-serif text-xl text-slate-100 tracking-tight">Aureus Sigma Capital</div>
                         <div className="flex flex-col gap-3 text-slate-400">
-                            {t.contact.email && (
-                                <div>
-                                    <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-1">{t.contact.emailLabel}</p>
-                                    <a href={`mailto:${t.contact.email}`} className="hover:text-[#D4AF37] transition-colors break-all">{t.contact.email}</a>
-                                </div>
-                            )}
+                            <div>
+                                <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-1">{t.contact.emailLabel}</p>
+                                <a href={`mailto:${t.contact.email}`} className="hover:text-[#D4AF37] transition-colors break-all">{t.contact.email}</a>
+                            </div>
                             <div>
                                 <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-1">{t.contact.addressLabel}</p>
                                 <div className="space-y-1">

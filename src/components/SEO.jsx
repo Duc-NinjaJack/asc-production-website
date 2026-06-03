@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async';
 
 export default function SEO({ title, description, keywords, lang = 'en', image = '/banner.png', url, noindex = false }) {
     const siteUrl = 'https://www.aureussigmacapital.com';
-    const fullUrl = url ? `${siteUrl}${url}` : siteUrl;
+    const fullUrl = url ? `${siteUrl}${url}` : `${siteUrl}/`;
     const pageTitle = title.includes('Aureus Sigma Capital') ? title : `${title} | Aureus Sigma Capital`;
 
     return (

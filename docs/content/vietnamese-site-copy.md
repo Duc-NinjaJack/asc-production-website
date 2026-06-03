@@ -32,7 +32,7 @@ ASC có thể hợp tác với các đối tác đầu tư có giấy phép khi 
 
 ## Liên hệ
 
-Đối với các trao đổi về nghiên cứu, rủi ro hoặc hợp tác của ASC, vui lòng liên hệ ASC. Đối với sản phẩm được quản lý, mở tài khoản, đánh giá mức độ phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác có giấy phép liên quan. ASC không mở tài khoản và không giữ tài sản khách hàng, và có thể hỗ trợ giới thiệu khi phù hợp.
+Đối với các yêu cầu chuyên nghiệp, vui lòng liên hệ ASC qua contact@ascap.vn. Đối với thông tin về sản phẩm được quản lý, mở tài khoản, đánh giá sự phù hợp, thực thi, báo cáo hoặc tài liệu pháp lý, vui lòng liên hệ đối tác được cấp phép liên quan. ASC có thể hỗ trợ giới thiệu khi phù hợp.
 
 ## Thông tin quan trọng
 
@@ -40,5 +40,5 @@ Website này chỉ nhằm mục đích cung cấp thông tin. Nội dung trên w
 
 ## Metadata
 
-- **Title:** Aureus Sigma Capital - Giao dịch định lượng bằng vốn tự có tại Việt Nam
-- **Meta description:** Aureus Sigma Capital là công ty giao dịch định lượng sử dụng vốn tự có, tập trung vào thị trường Việt Nam, với quy trình nghiên cứu, thực thi và quản trị rủi ro kỷ luật.
+- **Title:** Aureus Sigma Capital | Proprietary Systematic Trading
+- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.

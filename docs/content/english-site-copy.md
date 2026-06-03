@@ -32,7 +32,7 @@ ASC may collaborate with licensed investment partners where appropriate. In thos
 
 ## Contact
 
-For ASC's research, risk, or partnership discussions, please contact ASC. For regulated products, onboarding, suitability, execution, reporting, or documentation, contact the relevant licensed partner. ASC does not open accounts or hold client assets, and may provide an introduction where appropriate.
+For professional inquiries, contact ASC at contact@ascap.vn. For regulated products, onboarding, suitability, execution, reporting or documentation, please contact the relevant licensed partner. ASC may provide an introduction where appropriate.
 
 ## Important Information
 
@@ -40,9 +40,9 @@ This website is for informational purposes only. It does not constitute an offer
 
 ## Metadata
 
-- **Title:** Aureus Sigma Capital - Proprietary Trading in Vietnam
-- **Meta description:** Aureus Sigma Capital is a proprietary trading firm in Vietnam. We trade our own capital with disciplined research, execution, and risk.
-- **OG title:** Aureus Sigma Capital - Proprietary Trading in Vietnam
-- **OG description:** A proprietary trading firm focused on Vietnam's capital markets. We trade our own capital.
+- **Title:** Aureus Sigma Capital | Proprietary Systematic Trading
+- **Meta description:** Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.
+- **OG title:** Aureus Sigma Capital | Proprietary Systematic Trading
+- **OG description:** ASC is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets.
 - **Keywords:** omitted
 - **Canonical:** https://www.aureussigmacapital.com/

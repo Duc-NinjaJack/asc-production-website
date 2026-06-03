@@ -29,8 +29,8 @@ export default function HomePage({ t, lang }) {
     return (
         <div>
             <SEO
-                title="Aureus Sigma Capital — Proprietary Trading in Vietnam"
-                description="Aureus Sigma Capital is a proprietary trading firm in Vietnam. We trade our own capital with disciplined research, execution, and risk."
+                title="Aureus Sigma Capital | Proprietary Systematic Trading"
+                description="Aureus Sigma Capital is a proprietary systematic trading and investment firm focused on Vietnam’s capital markets."
                 lang={lang}
             />
             <Hero t={t} />
