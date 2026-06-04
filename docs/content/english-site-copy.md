@@ -20,8 +20,6 @@ Duc leads ASC's research, model design, risk oversight, and partner coordination
 
 His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation processes through multiple cycles.
 
-He keeps the firm focused on documented rules, local data quality, execution discipline, and clear risk control, while licensed partners handle regulated, client-facing work where applicable.
-
 ## How ASC works
 
 ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.

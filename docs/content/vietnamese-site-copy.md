@@ -24,8 +24,6 @@ Khi có sản phẩm thuộc phạm vi được quản lý, ASC có thể hợp 
 
 Sự nghiệp của ông gắn với thị trường vốn Việt Nam trong hơn hai thập kỷ, gồm các vai trò lãnh đạo như Tổng Giám đốc Techcom Capital, Giám đốc Điều hành Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông dẫn dắt mảng tư vấn tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó giữ vai trò CFO tập đoàn và phụ trách đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, áp dụng mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn có kỷ luật qua nhiều chu kỳ.
 
-Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép phụ trách công việc được quản lý và tiếp xúc khách hàng khi phù hợp.
-
 ## Cách ASC vận hành
 
 ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.

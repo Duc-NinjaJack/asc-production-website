@@ -424,7 +424,6 @@ export const i18n = {
                     body: [
                         "Duc leads ASC's research, model design, risk oversight, and partner coordination, with more than 20 years in Vietnam's capital markets.",
                         "His career has been anchored in Vietnam’s capital markets for more than two decades, including leadership roles as CEO of Techcom Capital, Managing Director of Techcom Securities and Chief Financial Officer of Orient Commercial Bank (OCB). Earlier, he led corporate finance and financial advisory at Deloitte Vietnam and later served as group CFO and investment head for Vietnamese and regional investment and real-estate platforms, applying quantitative models, scenario analysis and disciplined capital-allocation processes through multiple cycles.",
-                        "He keeps the firm focused on documented rules, local data quality, execution discipline, and clear risk control, while licensed partners handle regulated, client-facing work where applicable.",
                     ],
                 },
             ],
@@ -816,7 +815,6 @@ export const i18n = {
                     body: [
                         "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.",
                         "Sự nghiệp của ông gắn với thị trường vốn Việt Nam trong hơn hai thập kỷ, gồm các vai trò lãnh đạo như Tổng Giám đốc Techcom Capital, Giám đốc Điều hành Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông dẫn dắt mảng tư vấn tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó giữ vai trò CFO tập đoàn và phụ trách đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, áp dụng mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn có kỷ luật qua nhiều chu kỳ.",
-                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép phụ trách công việc được quản lý và tiếp xúc khách hàng khi phù hợp.",
                     ],
                 },
             ],
