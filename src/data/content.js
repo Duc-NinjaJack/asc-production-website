@@ -397,7 +397,7 @@ export const i18n = {
         },
         about: {
             title: "About Aureus Sigma Capital",
-            intro: "Proprietary trading. Vietnam focus. Clear boundaries.",
+            intro: "Proprietary trading. Vietnam markets. Disciplined risk.",
             details: [
                 "Aureus Sigma Capital (ASC) is a proprietary trading firm focused on Vietnam's capital markets.",
                 "We trade our own capital and build the research, execution, and risk discipline behind every decision. We do not manage outside money and do not offer investment products through this website.",
@@ -414,7 +414,7 @@ export const i18n = {
             highlights: [
                 { label: "Research discipline", body: "Rules-based research tailored to Vietnam's capital markets.", icon: "rules" },
                 { label: "Execution discipline", body: "Trading decisions are reviewed against liquidity, timing, and cost.", icon: "network" },
-                { label: "Clear boundaries", body: "Licensed partners remain responsible for regulated client-facing work where relevant.", icon: "shield-check" },
+                { label: "Role discipline", body: "Licensed partners remain responsible for regulated client-facing work where relevant.", icon: "shield-check" },
             ],
             bioDetails: [
                 {
@@ -461,7 +461,7 @@ export const i18n = {
     },
     vi: {
         site: {
-            tagline: "Trade định lượng. Thị trường Việt Nam. Quản trị rủi ro có kỷ luật.",
+            tagline: "Trade định lượng. Thị trường Việt Nam. Kỷ luật rủi ro.",
         },
         nav: {
             home: "Trang chủ",
@@ -787,7 +787,7 @@ export const i18n = {
         about: {
             title: "Về Aureus Sigma Capital",
             intro:
-                "Trade và đầu tư. Trọng tâm Việt Nam. Ranh giới rõ ràng.",
+                "Trade định lượng. Thị trường Việt Nam. Kỷ luật rủi ro.",
             details: [
                 "Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam.",
                 "ASC xây dựng kỷ luật nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản bên ngoài và không chào bán sản phẩm đầu tư thông qua website này.",
@@ -804,7 +804,7 @@ export const i18n = {
             highlights: [
                 { label: "Kỷ luật nghiên cứu", body: "Nghiên cứu dựa trên quy tắc, được tinh chỉnh cho thị trường vốn Việt Nam.", icon: "rules" },
                 { label: "Kỷ luật thực thi", body: "Quyết định giao dịch được rà soát theo thanh khoản, thời điểm và chi phí.", icon: "network" },
-                { label: "Ranh giới rõ ràng", body: "Đối tác được cấp phép chịu trách nhiệm công việc tiếp xúc khách hàng khi phù hợp.", icon: "shield-check" },
+                { label: "Kỷ luật vai trò", body: "Đối tác được cấp phép chịu trách nhiệm công việc tiếp xúc khách hàng khi phù hợp.", icon: "shield-check" },
             ],
             bioDetails: [
                 {
