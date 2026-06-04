@@ -118,7 +118,7 @@ export const i18n = {
                 "ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.",
             stepLabel: "Step",
             flowTitle: "Process overview",
-            riskBandsTitle: "Normal moves vs large losses",
+            riskBandsTitle: "Normal moves vs market stress",
             riskBandsStageLabel: "Stage",
             howAscWorksTitle: "How ASC works",
             howAscWorksIntro:
@@ -221,7 +221,7 @@ export const i18n = {
             riskBands: [
                 { label: "Diversification with limits", desc: "Meaningful number of names across sectors, with caps to avoid concentrated bets.", color: "#CBD5E1" },
                 { label: "Exposure controls", desc: "Monitor market sensitivity and adjust when risk moves outside written risk ranges.", color: "#94A3B8" },
-                { label: "Drawdown ranges and responses", desc: "Track distance from peaks; reduce risk gradually when losses breach agreed thresholds.", color: "#D97706" },
+                { label: "Risk ranges and responses", desc: "Track exposure and market stress; reduce risk when the process calls for review.", color: "#D97706" },
             ],
             edge: {
                 title: "Vietnam focus",
@@ -386,11 +386,10 @@ export const i18n = {
                 },
                 {
                     category: "Perspectives",
-                    title: "How ASC Handles Large Losses",
-                    slug: "how-we-try-to-limit-big-losses",
+                    title: "Risk Discipline in Systematic Trading",
+                    slug: "risk-discipline-in-systematic-trading",
                     summary:
-                        "Preserving capital during tail events is critical to long-term compounding. We outline how written limits support more disciplined risk decisions.",
-                    comingSoon: true,
+                        "ASC treats risk as part of the investment process, not an afterthought. The focus is on clear rules, controlled exposure, execution discipline and honest review.",
                     icon: "shield",
                     image: "/assets/others/abstract_equity_curve_2.png",
                 },
@@ -509,7 +508,7 @@ export const i18n = {
                 "ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.",
             stepLabel: "Bước",
             flowTitle: "Tổng quan quy trình",
-            riskBandsTitle: "Biến động thông thường và thua lỗ lớn",
+            riskBandsTitle: "Biến động thông thường và căng thẳng thị trường",
             riskBandsStageLabel: "Giai đoạn",
             howAscWorksTitle: "Cách ASC vận hành",
             howAscWorksIntro:
@@ -776,11 +775,10 @@ export const i18n = {
                 },
                 {
                     category: "Góc nhìn",
-                    title: "Cách ASC xử lý rủi ro thua lỗ lớn",
-                    slug: "how-we-try-to-limit-big-losses",
+                    title: "Kỷ luật rủi ro trong trade định lượng",
+                    slug: "risk-discipline-in-systematic-trading",
                     summary:
-                        "Bảo toàn vốn trong các giai đoạn thị trường biến động mạnh là yếu tố then chốt để tích lũy dài hạn. Chúng tôi trình bày cơ chế phòng vệ đa lớp, kiểm soát mức biến động mục tiêu và điều chỉnh phân bổ theo tình hình thị trường.",
-                    comingSoon: true,
+                        "ASC xem rủi ro là một phần của quy trình đầu tư, không phải phần xử lý sau cùng. Trọng tâm là quy tắc rõ ràng, kiểm soát mức độ tiếp xúc, kỷ luật thực thi và rà soát trung thực.",
                     icon: "shield",
                     image: "/assets/others/abstract_equity_curve_2.png",
                 },
@@ -889,13 +887,13 @@ export const INSIGHTS_CONTENT = {
             body: parseMarkdown(rulesViMd),
         },
     },
-    "how-we-try-to-limit-big-losses": {
+    "risk-discipline-in-systematic-trading": {
         en: {
-            title: "How ASC Handles Large Losses",
+            title: "Risk Discipline in Systematic Trading",
             body: parseMarkdown(lossesEnMd),
         },
         vi: {
-            title: "Cách ASC xử lý rủi ro thua lỗ lớn",
+            title: "Kỷ luật rủi ro trong trade định lượng",
             body: parseMarkdown(lossesViMd),
         },
     },

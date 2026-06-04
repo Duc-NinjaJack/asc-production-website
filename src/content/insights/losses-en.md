@@ -1,9 +1,5 @@
-Volatility clusters and shifting conditions are normal in emerging markets. ASC treats large losses as a question of design and limits, not something to wish away.
+Trading involves uncertainty. ASC does not assume every market move can be predicted or every loss can be avoided. The firm's approach is to define risk before capital is put to work, monitor exposure as conditions change, and review outcomes against the rules that produced them.
 
-ASC cannot control or predict the market; instead, it defines in advance what may happen when losses cross set limits.
+For ASC, risk discipline means keeping the process accountable: decisions should be based on evidence, position sizing should reflect uncertainty, and results should be reviewed without rewriting the story after the fact.
 
-Diversification, position limits, and total exposure caps reduce dependence on any single stock, sector, or theme.
-
-As losses approach written limits, the rules may call for trimming exposure or hedging to reduce net market risk, and if stress deepens the response turns more defensive.
-
-These steps can lag a sudden rebound or add cost, and they do not promise a maximum loss. They exist to keep risk decisions disciplined when stress is high.
+This website is informational only. It does not present investment advice, return promises, or downside promises.

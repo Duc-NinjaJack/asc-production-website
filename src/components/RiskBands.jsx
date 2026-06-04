@@ -1,7 +1,7 @@
 import React from "react";
 import Shield from "lucide-react/dist/esm/icons/shield";
 
-export default function RiskBands({ bands, title = "Normal moves vs large losses", stageLabel = "Stage" }) {
+export default function RiskBands({ bands, title = "Normal moves vs market stress", stageLabel = "Stage" }) {
     return (
         <div className="border border-slate-200 rounded-2xl bg-white p-6">
             <h4 className="text-sm font-semibold text-slate-900 uppercase tracking-wide">{title}</h4>
