@@ -152,7 +152,7 @@ export default function ContactPage({ t, lang }) {
                     <div className="flex flex-col md:flex-row md:gap-12 gap-6">
                         <div className="flex-1">
                             <p className="text-[10px] uppercase tracking-widest text-[#D4AF37] font-bold mb-2">{t.contact.emailLabel}</p>
-                            <a href={`mailto:${t.contact.email}`} className="text-slate-900 font-medium hover:text-[#D4AF37] transition-colors break-all text-lg">
+                            <a href={t.contact.emailHref} className="text-slate-900 font-medium hover:text-[#D4AF37] transition-colors break-all text-lg">
                                 {t.contact.email}
                             </a>
                         </div>

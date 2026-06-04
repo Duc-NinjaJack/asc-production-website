@@ -40,8 +40,8 @@ export default function Layout({ t, lang, setLang, children }) {
                 <div className="mx-auto max-w-6xl px-4 py-2 flex items-center justify-between text-xs">
                     <div className="flex items-center gap-2">
                         <ShieldCheck className="h-4 w-4 shrink-0" />
-                        <span className="opacity-90 hidden sm:inline">Proprietary Systematic Trading • Vietnam Focus • Founded 2025</span>
-                        <span className="opacity-90 sm:hidden text-[10px]">Systematic • Vietnam • 2025</span>
+                        <span className="opacity-90 hidden sm:inline">{t.site.tagline}</span>
+                        <span className="opacity-90 sm:hidden text-[10px] max-w-[60vw] truncate">{t.site.tagline}</span>
                     </div>
                     <div className="flex items-center gap-1">
                         <button
@@ -131,7 +131,7 @@ export default function Layout({ t, lang, setLang, children }) {
                         <div className="flex flex-col gap-3 text-slate-400">
                             <div>
                                 <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-1">{t.contact.emailLabel}</p>
-                                <a href={`mailto:${t.contact.email}`} className="hover:text-[#D4AF37] transition-colors break-all">{t.contact.email}</a>
+                                <a href={t.contact.emailHref} className="hover:text-[#D4AF37] transition-colors break-all">{t.contact.email}</a>
                             </div>
                             <div>
                                 <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-1">{t.contact.addressLabel}</p>

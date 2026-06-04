@@ -70,6 +70,9 @@ const parseMarkdown = (md) =>
 
 export const i18n = {
     en: {
+        site: {
+            tagline: "Proprietary trading. Vietnam markets. Disciplined risk.",
+        },
         nav: {
             home: "Home",
             whatWeDo: "What We Do",
@@ -439,6 +442,7 @@ export const i18n = {
             primaryCta: "Submit inquiry",
             emailLabel: "Email",
             email: "contact@ascap.vn",
+            emailHref: "mailto:contact@ascap.vn",
             addressLabel: "Offices",
             addresses: [
                 "15 Le Thanh Ton, Saigon Ward, HCMC",
@@ -458,6 +462,9 @@ export const i18n = {
         },
     },
     vi: {
+        site: {
+            tagline: "Trade định lượng. Thị trường Việt Nam. Quản trị rủi ro có kỷ luật.",
+        },
         nav: {
             home: "Trang chủ",
             whatWeDo: "Phương pháp",
@@ -827,6 +834,7 @@ export const i18n = {
             primaryCta: "Gửi yêu cầu",
             emailLabel: "Email",
             email: "contact@ascap.vn",
+            emailHref: "mailto:contact@ascap.vn",
             addressLabel: "Địa chỉ",
             addresses: [
                 "15 Lê Thánh Tôn, Phường Sài Gòn, TP. HCM",

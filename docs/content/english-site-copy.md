@@ -2,6 +2,7 @@
 
 ## Hero
 
+- **Tagline:** Proprietary trading. Vietnam markets. Disciplined risk.
 - **Headline:** Proprietary systematic trading in Vietnam’s capital markets.
 - **Subheadline:** Aureus Sigma Capital is a proprietary systematic trading firm - disciplined research, execution, and risk control in Vietnam's capital markets.
 - **Primary CTA:** How we work

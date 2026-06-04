@@ -2,6 +2,7 @@
 
 ## Hero
 
+- **Tagline:** Trade định lượng. Thị trường Việt Nam. Quản trị rủi ro có kỷ luật.
 - **Headline:** Trade và đầu tư định lượng tại thị trường vốn Việt Nam.
 - **Subheadline:** Aureus Sigma Capital kết hợp dữ liệu, thuật toán, mô hình định lượng, thống kê, thực thi và quản trị rủi ro để ra quyết định có kỷ luật.
 - **Primary CTA:** Cách ASC vận hành
