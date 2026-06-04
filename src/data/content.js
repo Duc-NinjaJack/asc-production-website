@@ -76,7 +76,7 @@ export const i18n = {
         nav: {
             home: "Home",
             whatWeDo: "What We Do",
-            solutions: "Boundaries",
+            solutions: "Our Role",
             partnerships: "Partnerships",
             insights: "Insights",
             about: "About",
@@ -85,7 +85,7 @@ export const i18n = {
         pageLabels: {
             whoWeAre: "Who We Are",
             ourApproach: "Our Approach",
-            websiteBoundary: "Website Boundary",
+            websiteBoundary: "ASC Role",
             partnerships: "Partnerships",
             research: "Research",
         },
@@ -273,8 +273,8 @@ export const i18n = {
             },
         },
         solutions: {
-            title: "Partnerships and boundaries",
-            intro: "How ASC separates own-capital trading, partner collaboration and regulated client-facing obligations.",
+            title: "Our Role",
+            intro: "How ASC works, collaborates and communicates through this website.",
         },
         partnerships: {
             intro:
@@ -319,25 +319,25 @@ export const i18n = {
             investorNoticeTitle: "Important information",
         },
         boundaries: {
-            title: "Partnerships and boundaries",
+            title: "What ASC does",
             intro:
-                "ASC’s website does not offer products or personalized advice. This page records how responsibilities are separated when ASC collaborates with licensed partners.",
-            objectivesTitle: "Responsibility boundaries",
+                "How ASC works, collaborates and communicates through this website.",
+            objectivesTitle: "Role clarity",
             objectives: [
                 {
-                    title: "ASC proprietary work",
+                    title: "ASC research and trading",
                     body:
-                        "ASC trades its own capital and keeps its research, execution, and risk process separate from client-facing work.",
+                        "ASC focuses on proprietary research, trading discipline and risk control in Vietnam’s capital markets.",
                 },
                 {
-                    title: "Licensed partner obligations",
+                    title: "Partner collaboration",
                     body:
-                        "Licensed partners handle regulated products and client-facing obligations under applicable law.",
+                        "Where regulated products are involved, licensed partners are responsible for regulated client-facing obligations.",
                 },
                 {
-                    title: "Website boundary",
+                    title: "Website information",
                     body:
-                        "ASC does not offer investment products directly to the public, accept client assets or provide personalized investment advice through this website.",
+                        "This website is informational only. It does not offer investment products, accept client assets or provide personalized investment advice.",
                 },
             ],
             discussionTitle: "Partnership discussion areas",
@@ -408,7 +408,7 @@ export const i18n = {
                 items: [
                     { label: "Founded", value: "2025" },
                     { label: "Focus", value: "Proprietary trading in Vietnam" },
-                    { label: "Website boundary", value: "No direct public product offering" },
+                    { label: "Website information", value: "No direct public product offering" },
                 ]
             },
             highlights: [
@@ -466,7 +466,7 @@ export const i18n = {
         nav: {
             home: "Trang chủ",
             whatWeDo: "Phương pháp",
-            solutions: "Ranh giới",
+            solutions: "Vai trò của ASC",
             partnerships: "Đối tác",
             insights: "Góc nhìn",
             about: "Giới thiệu",
@@ -475,7 +475,7 @@ export const i18n = {
         pageLabels: {
             whoWeAre: "Chúng tôi là ai",
             ourApproach: "Phương pháp",
-            websiteBoundary: "Ranh giới website",
+            websiteBoundary: "Vai trò của ASC",
             partnerships: "Đối tác",
             research: "Nghiên cứu",
         },
@@ -663,8 +663,8 @@ export const i18n = {
             },
         },
         solutions: {
-            title: "Đối tác và ranh giới",
-            intro: "Cách ASC phân định hoạt động trade và đầu tư, hợp tác với đối tác và nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.",
+            title: "Vai trò của ASC",
+            intro: "Cách ASC vận hành, hợp tác và trao đổi thông tin qua website này.",
         },
         partnerships: {
             intro:
@@ -709,25 +709,25 @@ export const i18n = {
             investorNoticeTitle: "Thông tin quan trọng",
         },
         boundaries: {
-            title: "Đối tác và ranh giới",
+            title: "ASC làm gì",
             intro:
-                "Website ASC không chào bán sản phẩm và không cung cấp tư vấn cá nhân. Trang này ghi nhận cách phân định trách nhiệm khi ASC hợp tác với đối tác được cấp phép.",
-            objectivesTitle: "Ranh giới trách nhiệm",
+                "Cách ASC vận hành, hợp tác và trao đổi thông tin qua website này.",
+            objectivesTitle: "PHÂN ĐỊNH VAI TRÒ",
             objectives: [
                 {
-                    title: "Công việc riêng của ASC",
+                    title: "Nghiên cứu và trading của ASC",
                     body:
-                        "ASC giữ quy trình nghiên cứu, mô hình, thực thi và rủi ro tách biệt với công việc tiếp xúc khách hàng.",
+                        "ASC tập trung vào nghiên cứu, kỷ luật trading và quản trị rủi ro tại thị trường vốn Việt Nam.",
                 },
                 {
-                    title: "Nghĩa vụ của đối tác được cấp phép",
+                    title: "Hợp tác với đối tác",
                     body:
-                        "Đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật.",
+                        "Khi có sản phẩm thuộc phạm vi được quản lý, đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật.",
                 },
                 {
-                    title: "Ranh giới website",
+                    title: "Thông tin trên website",
                     body:
-                        "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng, không nhận tài sản của khách hàng và không cung cấp tư vấn đầu tư cá nhân thông qua website này.",
+                        "Website này chỉ nhằm mục đích cung cấp thông tin. Website không chào bán sản phẩm đầu tư, không nhận tài sản khách hàng và không cung cấp tư vấn đầu tư cá nhân hóa.",
                 },
             ],
             discussionTitle: "Nội dung thảo luận hợp tác",
@@ -798,7 +798,7 @@ export const i18n = {
                 items: [
                     { label: "Năm thành lập", value: "2025" },
                     { label: "Trọng tâm", value: "Trade và đầu tư định lượng tại Việt Nam" },
-                    { label: "Ranh giới website", value: "Không chào bán sản phẩm trực tiếp" },
+                    { label: "Thông tin website", value: "Không chào bán sản phẩm trực tiếp" },
                 ]
             },
             highlights: [
@@ -902,7 +902,7 @@ export const INSIGHTS_CONTENT = {
 export const NAV_LINKS = [
     { labelKey: "home", path: "/" },
     { labelKey: "whatWeDo", path: "/what-we-do" },
-    { labelKey: "solutions", path: "/solutions" },
+    { labelKey: "solutions", path: "/our-role" },
     { labelKey: "partnerships", path: "/partnerships" },
     { labelKey: "insights", path: "/insights" },
     { labelKey: "about", path: "/about" },

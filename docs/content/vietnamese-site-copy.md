@@ -33,11 +33,13 @@ ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bà
 3. **Rủi ro** - Chúng tôi giám sát mức sụt giảm, mức độ tiếp xúc và độ tập trung, với các giới hạn được đặt trước và thực thi trước khi tăng rủi ro.
 4. **Rà soát** - Mỗi chiến lược phải vượt qua bằng chứng thực tế, đối soát và giám sát liên tục. Chúng tôi đánh giá hệ thống qua kỷ luật thực thi, không qua một kết quả đơn lẻ.
 
-## Hợp tác và ranh giới
+## Vai trò của ASC
 
-ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu và góc nhìn rủi ro của riêng mình; ASC không vận hành danh mục cho khách hàng.
+Cách ASC vận hành, hợp tác và trao đổi thông tin qua website này.
 
-Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý và nghĩa vụ tiếp xúc khách hàng theo pháp luật hiện hành. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.
+1. **Nghiên cứu và trading của ASC** - ASC tập trung vào nghiên cứu, kỷ luật trading và quản trị rủi ro tại thị trường vốn Việt Nam.
+2. **Hợp tác với đối tác** - Khi có sản phẩm thuộc phạm vi được quản lý, đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ tiếp xúc khách hàng theo quy định pháp luật.
+3. **Thông tin trên website** - Website này chỉ nhằm mục đích cung cấp thông tin. Website không chào bán sản phẩm đầu tư, không nhận tài sản khách hàng và không cung cấp tư vấn đầu tư cá nhân hóa.
 
 ## Liên hệ
 

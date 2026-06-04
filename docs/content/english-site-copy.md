@@ -29,9 +29,13 @@ ASC trades proprietary capital in Vietnam's markets. This page explains our prin
 3. **Risk** - We monitor drawdown, exposure, and concentration, with limits set in advance and enforced before risk is increased.
 4. **Review** - Every strategy must survive live evidence, reconciliation, and ongoing monitoring. We measure ourselves on adherence, not outcomes.
 
-## Partnerships and Boundaries
+## Our Role
 
-ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios. Licensed partners are responsible for regulated products and client-facing obligations under applicable law. ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.
+How ASC works, collaborates and communicates through this website.
+
+1. **ASC research and trading** - ASC focuses on proprietary research, trading discipline and risk control in Vietnam’s capital markets.
+2. **Partner collaboration** - Where regulated products are involved, licensed partners are responsible for regulated client-facing obligations.
+3. **Website information** - This website is informational only. It does not offer investment products, accept client assets or provide personalized investment advice.
 
 ## Contact
 

@@ -63,7 +63,7 @@ export default function ContactPage({ t, lang }) {
                 title={t.contact.title}
                 subtitle={t.contact.desc}
                 image="/assets/others/hcmc_skyline_1.png"
-                parentSection={t.pageLabels?.websiteBoundary || "Website Boundary"}
+                parentSection={t.pageLabels?.websiteBoundary || "ASC Role"}
             />
             <div className="mx-auto max-w-3xl px-4 pb-10 md:pb-16">
                 {status === "success" ? (

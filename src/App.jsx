@@ -1,5 +1,5 @@
 import React, { useMemo, useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { i18n } from "./data/content";
 import Layout from "./components/Layout";
 import ScrollToTop from "./components/ScrollToTop";
@@ -43,7 +43,9 @@ export default function App() {
         <Routes>
           <Route path="/" element={<HomePage t={t} lang={lang} />} />
           <Route path="/what-we-do" element={<WhatWeDoPage t={t} lang={lang} />} />
-          <Route path="/solutions" element={<SolutionsPage t={t} lang={lang} />} />
+          <Route path="/our-role" element={<SolutionsPage t={t} lang={lang} />} />
+          <Route path="/solutions" element={<Navigate to="/our-role" replace />} />
+          <Route path="/boundaries" element={<Navigate to="/our-role" replace />} />
           <Route path="/partnerships" element={<PartnershipsPage t={t} lang={lang} />} />
           <Route path="/insights" element={<InsightsPage t={t} lang={lang} />} />
           <Route path="/insights/:slug" element={<InsightArticlePage lang={lang} t={t} />} />

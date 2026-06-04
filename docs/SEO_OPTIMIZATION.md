@@ -27,7 +27,7 @@ All main route components now include the `<SEO />` component.
 |------|--------------|--------------------|--------------|
 | **Home** | `t.hero.title` | `t.hero.subtitle` | |
 | **Why ASC** | `t.whatWeDo.sectionTitle` | `t.whatWeDo.intro` | URL: `/what-we-do` |
-| **Solutions** | `t.solutions.title` | `t.solutions.intro` | URL: `/solutions` |
+| **Our Role** | `t.solutions.title` | `t.solutions.intro` | URL: `/our-role` |
 | **Partnerships** | `t.nav.partnerships` | `t.partnerships.intro` | URL: `/partnerships` |
 | **Insights** | `t.insights.sectionTitle` | `t.insights.intro` | URL: `/insights` |
 | **Article** | `article.title` | First paragraph of body | Dynamic image from article |
