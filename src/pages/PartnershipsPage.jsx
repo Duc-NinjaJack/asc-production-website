@@ -7,6 +7,8 @@ import PartnershipBridge from "../components/PartnershipBridge";
 
 export default function PartnershipsPage({ t, lang }) {
     const mouAnnouncement = t?.insights?.items?.find((item) => item.slug === "fides-aureus-sigma-capital-strategic-partnership");
+    const mechanicsParagraphs = t.partnerships.mechanicsParagraphs || [t.partnerships.paragraphs?.[0], t.partnerships.paragraphs?.[2], t.partnerships.paragraphs?.[4]].filter(Boolean);
+    const noticeBullets = t.partnerships.noticeBullets || [t.partnerships.paragraphs?.[1], t.partnerships.paragraphs?.[3], t.partnerships.paragraphs?.[6]].filter(Boolean);
     return (
         <div className="bg-white">
             <SEO
@@ -19,10 +21,10 @@ export default function PartnershipsPage({ t, lang }) {
                 title={t.nav.partnerships}
                 subtitle={t.partnerships.intro}
                 image="/assets/others/institution_partnership_1.png"
-                parentSection="Partnerships"
+                parentSection={t.pageLabels?.partnerships || "Partnerships"}
             />
             <div className="mx-auto max-w-6xl px-6 space-y-12 pb-24">
-                <PartnershipBridge roles={t.partnerships.roles} />
+                <PartnershipBridge roles={t.partnerships.roles} stepLabel={t.partnerships.stepLabel} />
 
                 {mouAnnouncement && (
                     <div className="bg-slate-50 rounded-2xl p-8 border border-slate-200">
@@ -43,26 +45,20 @@ export default function PartnershipsPage({ t, lang }) {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-serif font-medium text-slate-900">{t.partnerships.mechanicsTitle}</h3>
                         <div className="space-y-4 text-slate-700 leading-relaxed">
-                            <p>{t.partnerships.paragraphs[0]}</p>
-                            <p>{t.partnerships.paragraphs[2]}</p>
-                            <p>{t.partnerships.paragraphs[4]}</p>
+                            {mechanicsParagraphs.map((paragraph) => (
+                                <p key={paragraph}>{paragraph}</p>
+                            ))}
                         </div>
                     </div>
                     <div className="bg-slate-50 rounded-2xl p-8 border border-slate-200">
                         <h4 className="text-lg font-semibold text-slate-900 mb-4">{t.partnerships.investorNoticeTitle}</h4>
                         <ul className="space-y-4">
-                            <li className="flex gap-3 items-start">
-                                <div className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] mt-2 shrink-0" />
-                                <p className="text-sm text-slate-600">{t.partnerships.paragraphs[1]}</p>
-                            </li>
-                            <li className="flex gap-3 items-start">
-                                <div className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] mt-2 shrink-0" />
-                                <p className="text-sm text-slate-600">{t.partnerships.paragraphs[3]}</p>
-                            </li>
-                            <li className="flex gap-3 items-start">
-                                <div className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] mt-2 shrink-0" />
-                                <p className="text-sm text-slate-600">{t.partnerships.paragraphs[6]}</p>
-                            </li>
+                            {noticeBullets.map((paragraph) => (
+                                <li key={paragraph} className="flex gap-3 items-start">
+                                    <div className="h-1.5 w-1.5 rounded-full bg-[#D4AF37] mt-2 shrink-0" />
+                                    <p className="text-sm text-slate-600">{paragraph}</p>
+                                </li>
+                            ))}
                         </ul>
                         <div className="mt-8 pt-6 border-t border-slate-200">
                             <a

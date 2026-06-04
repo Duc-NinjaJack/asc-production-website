@@ -16,7 +16,7 @@ export default function SolutionsPage({ t, lang }) {
                 title={t.solutions?.title || "Partnerships and boundaries"}
                 subtitle={t.solutions?.intro || "How ASC separates own-capital trading, partner collaboration and regulated client-facing obligations."}
                 image="/assets/others/investment_office_modern_2.png"
-                parentSection="Website Boundary"
+                parentSection={t.pageLabels?.websiteBoundary || "Website Boundary"}
             />
             <div className="mx-auto max-w-6xl px-6 pb-24">
                 {t.boundaries && <BoundarySection data={t.boundaries} />}

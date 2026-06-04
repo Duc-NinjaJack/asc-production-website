@@ -17,7 +17,7 @@ export default function InsightsPage({ t, lang }) {
                 title={t.insights.sectionTitle}
                 subtitle={t.insights.intro}
                 image="/assets/others/office_minimal_modern_1.png"
-                parentSection="Research"
+                parentSection={t.pageLabels?.research || "Research"}
             />
             <div className="mx-auto max-w-6xl px-4 md:px-6 space-y-8 md:space-y-12 pb-12 md:pb-24">
                 <div className="grid gap-4 md:gap-6 md:grid-cols-2">

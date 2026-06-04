@@ -18,7 +18,7 @@ export default function AboutPage({ t, lang }) {
                 title={t.about.title}
                 subtitle={t.about.intro}
                 image="/assets/about/office-background.jpg"
-                parentSection="Who We Are"
+                parentSection={t.pageLabels?.whoWeAre || "Who We Are"}
             />
             <div className="mx-auto max-w-6xl px-4 md:px-6 pb-12 md:pb-24">
                 <div className="space-y-6 md:space-y-10">

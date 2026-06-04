@@ -3,7 +3,7 @@ import Landmark from "lucide-react/dist/esm/icons/landmark";
 import ArrowRight from "lucide-react/dist/esm/icons/arrow-right";
 import { ICON_MAP } from "../data/content";
 
-export default function PartnershipBridge({ roles }) {
+export default function PartnershipBridge({ roles, stepLabel = "Step" }) {
     const nodes = roles?.map((role) => ({
         title: role.title,
         subtitle: role.bullets?.[0],
@@ -23,7 +23,7 @@ export default function PartnershipBridge({ roles }) {
                                     </div>
                                     <div>
                                         <div className="text-xs uppercase tracking-wide text-slate-500 font-medium mb-1">
-                                            {idx === 0 ? "Step 1" : idx === 1 ? "Step 2" : "Step 3"}
+                                            {stepLabel} {idx + 1}
                                         </div>
                                         <div className="text-lg font-serif font-semibold text-slate-900">{node.title}</div>
                                     </div>

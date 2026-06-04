@@ -2,11 +2,11 @@ import React from "react";
 import Activity from "lucide-react/dist/esm/icons/activity";
 import { ICON_MAP, BRAND } from "../data/content";
 
-export default function FlowDiagram({ flow }) {
+export default function FlowDiagram({ flow, title = "Process overview", stepLabel = "Step" }) {
     return (
         <div className="border border-slate-200 rounded-2xl bg-white shadow-sm p-6">
             <div className="flex flex-wrap items-center justify-between gap-3">
-                <h4 className="text-sm font-semibold text-slate-900 uppercase tracking-wide">Process overview</h4>
+                <h4 className="text-sm font-semibold text-slate-900 uppercase tracking-wide">{title}</h4>
                 <span className="text-xs text-slate-500">{flow.map((step) => step.label).join(" → ")}</span>
             </div>
             <div className="relative mt-6 flex flex-col gap-6 md:flex-row">
@@ -20,7 +20,7 @@ export default function FlowDiagram({ flow }) {
                                     <Icon className="h-5 w-5" />
                                 </div>
                                 <div>
-                                    <div className="text-xs uppercase tracking-wide text-slate-500">Step {idx + 1}</div>
+                                    <div className="text-xs uppercase tracking-wide text-slate-500">{stepLabel} {idx + 1}</div>
                                     <div className="text-base font-semibold text-slate-900">{step.label}</div>
                                 </div>
                             </div>

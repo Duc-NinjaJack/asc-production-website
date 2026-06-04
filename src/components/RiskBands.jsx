@@ -1,10 +1,10 @@
 import React from "react";
 import Shield from "lucide-react/dist/esm/icons/shield";
 
-export default function RiskBands({ bands }) {
+export default function RiskBands({ bands, title = "Normal moves vs large losses", stageLabel = "Stage" }) {
     return (
         <div className="border border-slate-200 rounded-2xl bg-white p-6">
-            <h4 className="text-sm font-semibold text-slate-900 uppercase tracking-wide">Normal moves vs large losses</h4>
+            <h4 className="text-sm font-semibold text-slate-900 uppercase tracking-wide">{title}</h4>
             <div className="relative mt-8 flex flex-col gap-6 md:flex-row">
                 <div className="hidden md:block absolute top-9 left-10 right-10 h-px bg-slate-200" />
                 {bands.map((band, idx) => (
@@ -14,7 +14,7 @@ export default function RiskBands({ bands }) {
                                 <Shield className="h-5 w-5" style={{ color: band.color }} />
                             </div>
                             <div>
-                                <div className="text-xs uppercase tracking-wide text-slate-500">Stage {idx + 1}</div>
+                                <div className="text-xs uppercase tracking-wide text-slate-500">{stageLabel} {idx + 1}</div>
                                 <div className="text-base font-semibold text-slate-900">{band.label}</div>
                             </div>
                         </div>

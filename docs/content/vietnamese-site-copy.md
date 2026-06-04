@@ -9,13 +9,21 @@
 
 ## Tổng quan về ASC
 
-Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam. ASC xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. Website này không phải là lời chào bán sản phẩm đầu tư, không nhận tài sản khách hàng và không cung cấp tư vấn đầu tư cá nhân hóa.
+Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam.
+
+ASC xây dựng kỷ luật nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản bên ngoài và không chào bán sản phẩm đầu tư thông qua website này.
+
+Khi có sản phẩm thuộc phạm vi được quản lý, ASC có thể hợp tác với đối tác được cấp phép; đối tác đó chịu trách nhiệm đối với nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.
 
 ## Tiểu sử lãnh đạo
 
 **Nguyễn Huy Đức - Nhà sáng lập kiêm Tổng Giám đốc**
 
-Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam. Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.
+Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.
+
+Sự nghiệp của ông gắn với thị trường vốn Việt Nam trong hơn hai thập kỷ, gồm các vai trò lãnh đạo như Tổng Giám đốc Techcom Capital, Giám đốc Điều hành Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông dẫn dắt mảng tư vấn tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó giữ vai trò CFO tập đoàn và phụ trách đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, áp dụng mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn có kỷ luật qua nhiều chu kỳ.
+
+Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép phụ trách công việc được quản lý và tiếp xúc khách hàng khi phù hợp.
 
 ## Cách ASC vận hành
 
@@ -28,7 +36,9 @@ ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bà
 
 ## Hợp tác và ranh giới
 
-ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu, quy trình, mô hình và góc nhìn rủi ro; đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.
+ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu và góc nhìn rủi ro của riêng mình; ASC không vận hành danh mục cho khách hàng.
+
+Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý và nghĩa vụ tiếp xúc khách hàng theo pháp luật hiện hành. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.
 
 ## Liên hệ
 

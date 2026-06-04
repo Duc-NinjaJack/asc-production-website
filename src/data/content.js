@@ -79,6 +79,13 @@ export const i18n = {
             about: "About",
             contact: "Contact",
         },
+        pageLabels: {
+            whoWeAre: "Who We Are",
+            ourApproach: "Our Approach",
+            websiteBoundary: "Website Boundary",
+            partnerships: "Partnerships",
+            research: "Research",
+        },
         hero: {
             whyAsc: "Why ASC",
             title: "Proprietary systematic trading in Vietnam’s capital markets.",
@@ -106,6 +113,10 @@ export const i18n = {
             sectionTitle: "How ASC works",
             intro:
                 "ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.",
+            stepLabel: "Step",
+            flowTitle: "Process overview",
+            riskBandsTitle: "Normal moves vs large losses",
+            riskBandsStageLabel: "Stage",
             howAscWorksTitle: "How ASC works",
             howAscWorksIntro:
                 "ASC trades proprietary capital in Vietnam's markets. This page explains our principles; strategy details and trading signals stay private.",
@@ -265,12 +276,23 @@ export const i18n = {
         partnerships: {
             intro:
                 "ASC may collaborate with licensed investment partners where appropriate. In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
+            stepLabel: "Step",
             paragraphs: [
                 "ASC may collaborate with licensed investment partners where appropriate.",
                 "In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
                 "Licensed partners are responsible for regulated products and client-facing obligations under applicable law.",
                 "ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.",
                 "ASC decides how to respond to professional inquiries and keeps its own research, execution, and risk role separate from regulated client-facing obligations.",
+            ],
+            mechanicsParagraphs: [
+                "ASC may collaborate with licensed investment partners where appropriate.",
+                "Licensed partners are responsible for regulated products and client-facing obligations under applicable law.",
+                "ASC decides how to respond to professional inquiries and keeps its own research, execution, and risk role separate from regulated client-facing obligations.",
+            ],
+            noticeBullets: [
+                "In those arrangements, ASC's role stays limited to its own research and risk perspective; ASC does not run client portfolios.",
+                "ASC does not offer investment products directly to the public through this website, does not accept client assets through this website, and does not provide personalized investment advice through this website.",
+                "Regulated client-facing questions are handled by licensed partners under applicable law.",
             ],
             roles: [
                 {
@@ -445,10 +467,19 @@ export const i18n = {
             about: "Giới thiệu",
             contact: "Liên hệ",
         },
+        pageLabels: {
+            whoWeAre: "Chúng tôi là ai",
+            ourApproach: "Phương pháp",
+            websiteBoundary: "Ranh giới website",
+            partnerships: "Đối tác",
+            research: "Nghiên cứu",
+        },
         hero: {
             whyAsc: "Tại sao chọn ASC",
             title: "Trade và đầu tư định lượng tại thị trường vốn Việt Nam.",
             subtitle:
+                "Aureus Sigma Capital kết hợp dữ liệu, thuật toán, mô hình định lượng, thống kê, thực thi và quản trị rủi ro để ra quyết định có kỷ luật.",
+            brief:
                 "Aureus Sigma Capital kết hợp dữ liệu, thuật toán, mô hình định lượng, thống kê, thực thi và quản trị rủi ro để ra quyết định có kỷ luật.",
             ctas: [
                 { label: "Cách ASC vận hành", to: "/what-we-do" },
@@ -470,6 +501,10 @@ export const i18n = {
             sectionTitle: "Cách ASC vận hành",
             intro:
                 "ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.",
+            stepLabel: "Bước",
+            flowTitle: "Tổng quan quy trình",
+            riskBandsTitle: "Biến động thông thường và thua lỗ lớn",
+            riskBandsStageLabel: "Giai đoạn",
             howAscWorksTitle: "Cách ASC vận hành",
             howAscWorksIntro:
                 "ASC trade và đầu tư trên thị trường Việt Nam. Trang này trình bày các nguyên tắc của chúng tôi; chi tiết chiến lược, quy tắc mô hình và tín hiệu giao dịch được giữ kín.",
@@ -511,6 +546,8 @@ export const i18n = {
                 { label: "Giao dịch", body: "Chuyển quyết định đã được chấp thuận thành quy tắc tỷ trọng, mức tiếp xúc, tái cân bằng, chi phí và thực thi." },
                 { label: "Rà soát rủi ro", body: "Giám sát mức sụt giảm, độ tập trung, thanh khoản, suy giảm mô hình và ranh giới với đối tác được cấp phép khi phù hợp." },
             ],
+            methodsTitle: "Cách công việc được rà soát",
+            methodsIntro: "ASC chuyển bằng chứng thị trường thành quyết định trade và đầu tư có thể rà soát trước và sau khi triển khai.",
             blocks: [
                 {
                     title: "Xác định phạm vi thị trường",
@@ -604,7 +641,7 @@ export const i18n = {
                     "Biến động hàng năm và mức chênh lệch so với chỉ số (tracking error).",
                     "Tỷ số Sharpe (quan hệ giữa kết quả và rủi ro) và Information ratio (hành vi tương đối của mô hình).",
                     "Mức sụt giảm tối đa từ đỉnh (drawdown) và thời gian phục hồi.",
-                    "Phân bổ và mức độ tập trung theo ngành, tiêu chí đầu tư, công cụ và từng mã.",
+                    "Thống kê mức độ tiếp xúc và tập trung theo các chiều rủi ro phù hợp.",
                 ],
                 historyTitle: "Lịch sử quan sát và mô phỏng",
                 historyIntro:
@@ -622,33 +659,48 @@ export const i18n = {
         },
         solutions: {
             title: "Đối tác và ranh giới",
-            intro: "Cách ASC phân định trade, đầu tư, hợp tác với đối tác và các nghĩa vụ được quản lý.",
+            intro: "Cách ASC phân định hoạt động trade và đầu tư, hợp tác với đối tác và nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.",
         },
         partnerships: {
             intro:
-                "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu, quy trình, mô hình và góc nhìn rủi ro; đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
+                "ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu và góc nhìn rủi ro của riêng mình; ASC không vận hành danh mục cho khách hàng.",
+            stepLabel: "Bước",
             paragraphs: [
-                "ASC có thể hợp tác với các đối tác được cấp phép khi phù hợp. Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu, quy trình, mô hình và góc nhìn rủi ro; đối tác được cấp phép chịu trách nhiệm đối với các nghĩa vụ thuộc phạm vi được quản lý theo quy định pháp luật. ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
+                "ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp.",
+                "Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu và góc nhìn rủi ro của riêng mình; ASC không vận hành danh mục cho khách hàng.",
+                "Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý và nghĩa vụ tiếp xúc khách hàng theo pháp luật hiện hành.",
+                "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
+                "ASC tự quyết định cách phản hồi các yêu cầu chuyên nghiệp và giữ vai trò nghiên cứu, thực thi và rủi ro tách biệt với nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.",
+            ],
+            mechanicsParagraphs: [
+                "ASC có thể hợp tác với đối tác đầu tư được cấp phép khi phù hợp.",
+                "Đối tác được cấp phép chịu trách nhiệm đối với sản phẩm được quản lý và nghĩa vụ tiếp xúc khách hàng theo pháp luật hiện hành.",
+                "ASC tự quyết định cách phản hồi các yêu cầu chuyên nghiệp và giữ vai trò nghiên cứu, thực thi và rủi ro tách biệt với nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.",
+            ],
+            noticeBullets: [
+                "Trong các trường hợp đó, vai trò của ASC giới hạn ở nghiên cứu và góc nhìn rủi ro của riêng mình; ASC không vận hành danh mục cho khách hàng.",
+                "ASC không chào bán sản phẩm đầu tư trực tiếp cho công chúng qua website này, không nhận tài sản khách hàng qua website này và không cung cấp tư vấn đầu tư cá nhân hóa qua website này.",
+                "Các câu hỏi tiếp xúc khách hàng thuộc phạm vi được quản lý do đối tác được cấp phép xử lý theo pháp luật hiện hành.",
             ],
             roles: [
                 {
-                    roleLabel: "Kỷ luật",
+                    roleLabel: "Nguồn vốn",
                     title: "Nhà đầu tư",
                     bullets: ["Tiếp cận được quản lý bởi đối tác được cấp phép", "Không có chào bán sản phẩm trực tiếp qua website ASC"],
                 },
                 {
-                    roleLabel: "Quản Lý",
+                    roleLabel: "Đơn vị quản lý",
                     title: "Đối tác được cấp phép",
-                    bullets: ["Sản phẩm được quản lý khi phù hợp", "Nghĩa vụ được quản lý theo pháp luật"],
+                    bullets: ["Sản phẩm được quản lý khi phù hợp", "Nghĩa vụ tiếp xúc khách hàng theo pháp luật"],
                 },
                 {
-                    roleLabel: "Kiến Trúc",
+                    roleLabel: "Aureus Sigma Capital",
                     title: "Aureus Sigma Capital",
-                    bullets: ["Nghiên cứu, quy trình và mô hình", "Góc nhìn rủi ro riêng", "Không vận hành danh mục cho khách hàng"],
+                    bullets: ["Trade và đầu tư theo quy trình riêng", "Giữ góc nhìn nghiên cứu và rủi ro tách biệt", "Không vận hành danh mục cho khách hàng"],
                 },
             ],
             cta: "Ghi chú hợp tác FIDES",
-            mechanicsTitle: "Về đối tác được cấp phép",
+            mechanicsTitle: "Cách hợp tác vận hành",
             investorNoticeTitle: "Thông tin quan trọng",
         },
         boundaries: {
@@ -684,7 +736,7 @@ export const i18n = {
             ],
             discussionNote:
                 "ASC không đặt điều khoản sản phẩm công khai thông qua website này. Các nghĩa vụ được quản lý thuộc trách nhiệm của đối tác được cấp phép.",
-            reportingTitle: "Báo cáo và rõ ràng",
+            reportingTitle: "Báo cáo và minh bạch",
             reportingBody:
                 "ASC có thể chia sẻ phân tích với đối tác được cấp phép. Đối tác được cấp phép vẫn chịu trách nhiệm về báo cáo được quản lý và truyền thông tiếp xúc khách hàng.",
         },
@@ -733,7 +785,9 @@ export const i18n = {
             intro:
                 "Trade và đầu tư. Trọng tâm Việt Nam. Ranh giới rõ ràng.",
             details: [
-                "Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam. ASC xây dựng quy trình nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. Website này không phải là lời chào bán sản phẩm đầu tư, không nhận tài sản khách hàng và không cung cấp tư vấn đầu tư cá nhân hóa.",
+                "Aureus Sigma Capital (ASC) là công ty trade và đầu tư định lượng tập trung vào thị trường vốn Việt Nam.",
+                "ASC xây dựng kỷ luật nghiên cứu, thực thi và quản trị rủi ro cho từng quyết định. ASC không quản lý tài sản bên ngoài và không chào bán sản phẩm đầu tư thông qua website này.",
+                "Khi có sản phẩm thuộc phạm vi được quản lý, ASC có thể hợp tác với đối tác được cấp phép; đối tác đó chịu trách nhiệm đối với nghĩa vụ tiếp xúc khách hàng thuộc phạm vi được quản lý.",
             ],
             factSheet: {
                 title: "Thông tin tổng quan",
@@ -754,7 +808,8 @@ export const i18n = {
                     title: "Nhà sáng lập kiêm Tổng Giám đốc",
                     body: [
                         "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam.",
-                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.",
+                        "Sự nghiệp của ông gắn với thị trường vốn Việt Nam trong hơn hai thập kỷ, gồm các vai trò lãnh đạo như Tổng Giám đốc Techcom Capital, Giám đốc Điều hành Techcom Securities và Giám đốc Tài chính Ngân hàng Phương Đông (OCB). Trước đó, ông dẫn dắt mảng tư vấn tài chính doanh nghiệp và tư vấn tài chính tại Deloitte Việt Nam, sau đó giữ vai trò CFO tập đoàn và phụ trách đầu tư cho các nền tảng đầu tư và bất động sản tại Việt Nam và khu vực, áp dụng mô hình định lượng, phân tích kịch bản và quy trình phân bổ vốn có kỷ luật qua nhiều chu kỳ.",
+                        "Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng, trong khi đối tác được cấp phép phụ trách công việc được quản lý và tiếp xúc khách hàng khi phù hợp.",
                     ],
                 },
             ],
@@ -763,7 +818,7 @@ export const i18n = {
         team: {
             founder: "Nguyễn Huy Đức - Nhà sáng lập kiêm Tổng Giám đốc",
             founderBio:
-                "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam. Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.",
+                "Ông Đức dẫn dắt hoạt động nghiên cứu, thiết kế mô hình, giám sát rủi ro và phối hợp đối tác của ASC, với hơn 20 năm kinh nghiệm tại thị trường vốn Việt Nam. Sự nghiệp của ông gồm các vai trò lãnh đạo tại Techcom Capital, Techcom Securities, OCB, Deloitte Việt Nam và các nền tảng đầu tư, bất động sản tại Việt Nam và khu vực. Ông giữ cho công ty tập trung vào quy tắc được văn bản hóa, chất lượng dữ liệu nội địa, kỷ luật thực thi và kiểm soát rủi ro rõ ràng.",
         },
         contact: {
             title: "Liên hệ",

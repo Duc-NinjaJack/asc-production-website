@@ -55,7 +55,7 @@ export default function WhatWeDoPage({ t, lang }) {
                 title={t.whatWeDo.sectionTitle || t.nav.whatWeDo}
                 subtitle={t.whatWeDo.intro}
                 image="/assets/others/quant_office_dark_1.png"
-                parentSection="Our Approach"
+                parentSection={t.pageLabels?.ourApproach || "Our Approach"}
             />
             <div className="mx-auto max-w-6xl px-6 space-y-16 pb-24">
                 {Array.isArray(t.whatWeDo.howAscWorksItems) && (
@@ -85,7 +85,7 @@ export default function WhatWeDoPage({ t, lang }) {
                         <div className="grid gap-4 md:grid-cols-2">
                             {t.whatWeDo.process.map((step, idx) => (
                                 <div key={step.label} className="bg-slate-50 rounded-xl p-6 border border-slate-100 hover:border-[#D4AF37]/30 transition-colors">
-                                    <div className="text-xs font-bold text-[#D4AF37] uppercase tracking-wider mb-2">Step 0{idx + 1}</div>
+                                    <div className="text-xs font-bold text-[#D4AF37] uppercase tracking-wider mb-2">{t.whatWeDo.stepLabel || "Step"} 0{idx + 1}</div>
                                     <div className="text-base font-serif font-semibold text-slate-900 mb-2">{step.label}</div>
                                     <p className="text-sm text-slate-600 leading-relaxed">{step.body}</p>
                                 </div>
@@ -102,9 +102,9 @@ export default function WhatWeDoPage({ t, lang }) {
                         ))}
                     </div>
                 </div>
-                <FlowDiagram flow={t.whatWeDo.flow} />
+                <FlowDiagram flow={t.whatWeDo.flow} title={t.whatWeDo.flowTitle} stepLabel={t.whatWeDo.stepLabel} />
                 {riskBlock && <RiskVisual block={riskBlock} />}
-                <RiskBands bands={t.whatWeDo.riskBands} />
+                <RiskBands bands={t.whatWeDo.riskBands} title={t.whatWeDo.riskBandsTitle} stageLabel={t.whatWeDo.riskBandsStageLabel} />
                 {t.whatWeDo.edge && <EdgeSection data={t.whatWeDo.edge} />}
                 {t.whatWeDo.expectations && <Expectations data={t.whatWeDo.expectations} />}
                 {t.whatWeDo.performance && <PerformanceSection data={t.whatWeDo.performance} />}
