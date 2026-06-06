@@ -5,10 +5,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="Content-Security-Policy"
-    content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self';" />
+    content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://api.web3forms.com https://fonts.googleapis.com https://fonts.gstatic.com https://cloudflareinsights.com;" />
   <title>Aureus Sigma Capital | Proprietary Systematic Trading</title>
   <meta name="description"
-    content="Aureus Sigma Capital develops disciplined quantitative processes for Vietnam’s capital markets, combining data, algorithms, quantitative models, statistics, execution, and risk management." />
+    content="Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets." />
   <link rel="canonical" href="https://www.aureussigmacapital.com/" />
 
 
@@ -17,101 +17,30 @@
   <meta property="og:url" content="https://www.aureussigmacapital.com/" />
   <meta property="og:title" content="Aureus Sigma Capital | Proprietary Systematic Trading" />
   <meta property="og:description"
-    content="Aureus Sigma Capital develops disciplined quantitative processes for Vietnam’s capital markets, combining data, algorithms, quantitative models, statistics, execution, and risk management." />
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Aureus Sigma Capital | Proprietary Systematic Trading" />
-  <meta name="twitter:description"
-    content="Aureus Sigma Capital develops disciplined quantitative processes for Vietnam’s capital markets, combining data, algorithms, quantitative models, statistics, execution, and risk management." />
+    content="Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets." />
+  <meta property="og:image" content="/banner.png" />
 
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Aureus Sigma Capital",
-      "url": "https://www.aureussigmacapital.com/",
-      "email": "contact@ascap.vn"
-    }
-  </script>
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://www.aureussigmacapital.com/" />
+  <meta property="twitter:title" content="Aureus Sigma Capital | Proprietary Systematic Trading" />
+  <meta property="twitter:description"
+    content="Aureus Sigma Capital is a proprietary systematic trading firm focused on Vietnam’s capital markets." />
+  <meta property="twitter:image" content="/banner.png" />
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="/favicon.png" />
-  <style>
-    :root {
-      color: #0f172a;
-      background: #f8fafc;
-      font-family: Arial, Helvetica, sans-serif;
-    }
 
-    body {
-      margin: 0;
-      min-height: 100vh;
-      background: #f8fafc;
-    }
-
-    main {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 32px;
-    }
-
-    .page {
-      width: min(760px, 100%);
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      padding: 40px;
-    }
-
-    .positioning {
-      margin: 0 0 16px;
-      color: #8a6d2f;
-      font-size: 18px;
-      font-weight: 700;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: clamp(34px, 8vw, 64px);
-      line-height: 1;
-      letter-spacing: 0;
-    }
-
-    p {
-      margin: 18px 0 0;
-      color: #334155;
-      font-size: 18px;
-      line-height: 1.6;
-    }
-
-    .vi {
-      padding-top: 24px;
-      margin-top: 24px;
-      border-top: 1px solid #e2e8f0;
-    }
-
-    a {
-      color: #0f172a;
-      font-weight: 700;
-    }
-  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@0,500;0,600;1,500&display=swap"
+    rel="stylesheet">
 </head>
 
 <body class="min-h-screen">
-  <main>
-    <section class="page" aria-label="Aureus Sigma Capital">
-      <h1>Aureus Sigma Capital</h1>
-      <p class="positioning">Proprietary Systematic Trading</p>
-      <p>Disciplined quantitative processes for Vietnam’s capital markets.</p>
-      <p>Our work combines data, algorithms, quantitative models, statistics, execution, and risk management in a disciplined research process.</p>
-      <div class="vi">
-        <p>Trade và đầu tư định lượng tại thị trường vốn Việt Nam.</p>
-        <p>Aureus Sigma Capital kết hợp dữ liệu, thuật toán, mô hình định lượng, thống kê, thực thi và quản trị rủi ro để ra quyết định có kỷ luật.</p>
-      </div>
-      <p>Contact: <a href="mailto:contact@ascap.vn">contact@ascap.vn</a></p>
-    </section>
-  </main>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
 </body>
 
 </html>
