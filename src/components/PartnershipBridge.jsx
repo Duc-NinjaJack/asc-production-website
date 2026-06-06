@@ -9,17 +9,17 @@ export default function PartnershipBridge({ roles, stepLabel = "Step" }) {
         subtitle: role.bullets?.[0],
     })) ?? [];
     return (
-        <div className="rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
-            <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+        <div className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm md:p-7">
+            <div className="flex flex-col gap-4 md:flex-row md:items-stretch md:justify-between">
                 {nodes.map((node, idx) => {
                     const iconKey = idx === 0 ? "building" : idx === 1 ? "shield-check" : "activity";
                     const Icon = ICON_MAP[iconKey] || Landmark;
                     return (
                         <React.Fragment key={node.title}>
-                            <div className="flex-1 bg-slate-50 border border-slate-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-1 transition-all duration-300 group">
+                            <div className="flex-1 rounded-lg border border-slate-200 bg-slate-50 p-5">
                                 <div className="flex items-center gap-4">
-                                    <div className="h-12 w-12 rounded-xl bg-slate-900/5 flex items-center justify-center text-slate-900 group-hover:bg-[#D4AF37] group-hover:text-white transition-colors duration-300">
-                                        <Icon className="h-6 w-6" />
+                                    <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-white text-slate-900 shadow-sm">
+                                        <Icon className="h-5 w-5" />
                                     </div>
                                     <div>
                                         <div className="text-xs uppercase tracking-wide text-slate-500 font-medium mb-1">
@@ -28,10 +28,10 @@ export default function PartnershipBridge({ roles, stepLabel = "Step" }) {
                                         <div className="text-lg font-serif font-semibold text-slate-900">{node.title}</div>
                                     </div>
                                 </div>
-                                <p className="mt-4 text-sm text-slate-600 leading-relaxed">{node.subtitle}</p>
+                                <p className="mt-4 text-sm leading-relaxed text-slate-600">{node.subtitle}</p>
                             </div>
                             {idx < nodes.length - 1 && (
-                                <div className="hidden md:flex items-center justify-center px-4">
+                                <div className="hidden items-center justify-center px-2 md:flex">
                                     <ArrowRight className="h-6 w-6 text-[#D4AF37]" />
                                 </div>
                             )}

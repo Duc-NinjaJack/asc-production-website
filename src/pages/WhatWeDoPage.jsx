@@ -22,11 +22,11 @@ function SystemsSection({ title, intro, items = [] }) {
     return (
         <div className="space-y-6">
             <SectionTitle icon={BookOpen} title={title} subtitle={intro} />
-            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
                 {items.map((item) => {
                     const Icon = ICON_MAP[item.icon] || BookOpen;
                     return (
-                        <div key={item.title} className="border border-slate-200 rounded-lg bg-white p-6 shadow-sm hover:border-[#D4AF37]/50 hover:shadow-md transition-all duration-300">
+                        <div key={item.title} className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#D4AF37]/50 hover:shadow-md">
                             <div className="flex items-start justify-between gap-4 mb-4">
                                 <h3 className="text-base font-serif font-semibold text-slate-900">{item.title}</h3>
                                 <Icon className="h-5 w-5 text-[#D4AF37] shrink-0" />
@@ -57,7 +57,7 @@ export default function WhatWeDoPage({ t, lang }) {
                 image="/assets/others/quant_office_dark_1.png"
                 parentSection={t.pageLabels?.ourApproach || "Our Approach"}
             />
-            <div className="mx-auto max-w-6xl px-6 space-y-16 pb-24">
+            <div className="mx-auto max-w-6xl space-y-14 px-4 py-14 md:space-y-16 md:px-6 md:py-20">
                 {Array.isArray(t.whatWeDo.howAscWorksItems) && (
                     <SystemsSection title={t.whatWeDo.howAscWorksTitle} intro={t.whatWeDo.howAscWorksIntro} items={t.whatWeDo.howAscWorksItems} />
                 )}
@@ -72,7 +72,7 @@ export default function WhatWeDoPage({ t, lang }) {
                                         <div className="text-xs uppercase tracking-wide text-slate-500 font-semibold group-hover:text-[#D4AF37] transition-colors">{principle.label}</div>
                                         <Icon className="h-5 w-5 text-slate-400 group-hover:text-[#D4AF37] transition-colors" />
                                     </div>
-                                    <p className="text-sm text-slate-600 leading-relaxed">{principle.body}</p>
+                                    <p className="text-sm leading-relaxed text-slate-600">{principle.body}</p>
                                 </div>
                             );
                         })}
@@ -84,7 +84,7 @@ export default function WhatWeDoPage({ t, lang }) {
                         <SectionTitle icon={BookOpen} title={t.whatWeDo.processTitle || t.whatWeDo.sectionTitle} subtitle={t.whatWeDo.processIntro} />
                         <div className="grid gap-4 md:grid-cols-2">
                             {t.whatWeDo.process.map((step, idx) => (
-                                <div key={step.label} className="bg-slate-50 rounded-xl p-6 border border-slate-100 hover:border-[#D4AF37]/30 transition-colors">
+                                <div key={step.label} className="rounded-lg border border-slate-100 bg-slate-50 p-5 transition-colors hover:border-[#D4AF37]/30">
                                     <div className="text-xs font-bold text-[#D4AF37] uppercase tracking-wider mb-2">{t.whatWeDo.stepLabel || "Step"} 0{idx + 1}</div>
                                     <div className="text-base font-serif font-semibold text-slate-900 mb-2">{step.label}</div>
                                     <p className="text-sm text-slate-600 leading-relaxed">{step.body}</p>

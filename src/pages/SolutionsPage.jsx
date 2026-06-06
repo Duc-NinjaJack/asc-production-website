@@ -18,7 +18,7 @@ export default function SolutionsPage({ t, lang }) {
                 image="/assets/others/investment_office_modern_2.png"
                 parentSection={t.pageLabels?.websiteBoundary || "ASC Role"}
             />
-            <div className="mx-auto max-w-6xl px-6 pb-24">
+            <div className="mx-auto max-w-6xl px-4 py-14 md:px-6 md:py-20">
                 {t.boundaries && <BoundarySection data={t.boundaries} />}
             </div>
         </div>

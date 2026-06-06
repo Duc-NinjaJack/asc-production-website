@@ -37,21 +37,21 @@ export default function Layout({ t, lang, setLang, children }) {
         <div className="min-h-screen bg-[#f7f5f2] flex flex-col font-sans text-slate-900 overflow-x-hidden">
             {/* Top Bar */}
             <div className="w-full bg-slate-900 text-slate-100">
-                <div className="mx-auto max-w-6xl px-4 py-2 flex items-center justify-between text-xs">
-                    <div className="flex items-center gap-2">
+                <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-2 text-xs">
+                    <div className="flex min-w-0 items-center gap-2">
                         <ShieldCheck className="h-4 w-4 shrink-0" />
-                        <span className="opacity-90 hidden sm:inline">{t.site.tagline}</span>
-                        <span className="opacity-90 sm:hidden text-[10px] max-w-[60vw] truncate">{t.site.tagline}</span>
+                        <span className="hidden opacity-90 sm:inline">{t.site.tagline}</span>
+                        <span className="max-w-[68vw] text-[10px] leading-snug opacity-90 sm:hidden">{t.site.tagline}</span>
                     </div>
-                    <div className="flex items-center gap-1">
+                    <div className="flex shrink-0 items-center gap-1 rounded-md bg-white/5 p-0.5">
                         <button
-                            className={`px-2 py-1 rounded-md cursor-pointer text-xs ${lang === "en" ? "bg-slate-800 text-white" : "hover:bg-slate-800"}`}
+                            className={`cursor-pointer rounded px-2 py-1 text-xs ${lang === "en" ? "bg-white text-slate-900" : "hover:bg-slate-800"}`}
                             onClick={() => setLang("en")}
                         >
                             EN
                         </button>
                         <button
-                            className={`px-2 py-1 rounded-md cursor-pointer text-xs ${lang === "vi" ? "bg-slate-800 text-white" : "hover:bg-slate-800"}`}
+                            className={`cursor-pointer rounded px-2 py-1 text-xs ${lang === "vi" ? "bg-white text-slate-900" : "hover:bg-slate-800"}`}
                             onClick={() => setLang("vi")}
                         >
                             VI
@@ -61,8 +61,8 @@ export default function Layout({ t, lang, setLang, children }) {
             </div>
 
             {/* Header */}
-            <header className="sticky top-0 z-50 glass-panel transition-all duration-300">
-                <div className="mx-auto max-w-6xl px-4 md:px-6 h-16 md:h-20 flex items-center justify-between">
+            <header className="sticky top-0 z-50 border-b border-slate-200 bg-white/95 shadow-sm backdrop-blur transition-all duration-300">
+                <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 md:h-[72px] md:px-6">
                     <Link to="/" className="flex items-center gap-2 md:gap-3 group shrink-0">
                         {logoOk ? (
                             <img
@@ -83,14 +83,14 @@ export default function Layout({ t, lang, setLang, children }) {
                     </Link>
 
                     {/* Desktop Navigation */}
-                    <nav className="hidden md:flex items-center gap-4 lg:gap-6 text-sm font-medium text-slate-600">
+                    <nav className="hidden items-center gap-1 text-sm font-medium text-slate-600 md:flex">
                         {NAV_LINKS.map((item) => (
                             <Link
                                 key={item.path}
                                 to={item.path}
-                                className={`px-1 py-2 border-b-2 transition-all duration-300 hover:text-slate-900 whitespace-nowrap ${location.pathname === item.path
-                                    ? "border-[#D4AF37] text-slate-900"
-                                    : "border-transparent hover:border-slate-300"
+                                className={`rounded-md px-3 py-2 transition-all duration-200 hover:bg-slate-100 hover:text-slate-900 whitespace-nowrap ${location.pathname === item.path
+                                    ? "bg-slate-100 text-slate-900"
+                                    : "text-slate-600"
                                     }`}
                             >
                                 {t.nav[item.labelKey]}
@@ -119,10 +119,10 @@ export default function Layout({ t, lang, setLang, children }) {
 
             {/* Footer */}
             <footer className="bg-slate-900 text-slate-300">
-                <div className="mx-auto max-w-6xl px-4 md:px-6 py-10 md:py-16 grid gap-8 md:gap-10 md:grid-cols-[2fr,1fr] text-sm leading-relaxed">
+                <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 text-sm leading-relaxed md:grid-cols-[minmax(0,2fr)_minmax(260px,1fr)] md:gap-10 md:px-6 md:py-14">
                     <div className="space-y-4">
                         <p className="text-xs font-bold tracking-widest uppercase text-[#D4AF37]">Disclaimer</p>
-                        <p className="text-slate-400 max-w-2xl text-sm">
+                        <p className="max-w-3xl text-sm leading-relaxed text-slate-400">
                             {t.legal.body}
                         </p>
                     </div>

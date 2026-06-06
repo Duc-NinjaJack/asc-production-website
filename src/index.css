@@ -37,8 +37,7 @@
   h3,
   .heading-serif {
     font-family: var(--font-serif);
-    letter-spacing: -0.03em;
-    /* Tighter tracking for display serif */
+    letter-spacing: 0;
     line-height: 1.2;
   }
 
@@ -76,4 +75,3 @@
   /* Forces GPU layer on iOS */
   -webkit-transform: translateZ(0);
 }
-

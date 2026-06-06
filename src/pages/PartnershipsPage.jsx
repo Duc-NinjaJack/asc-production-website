@@ -23,14 +23,14 @@ export default function PartnershipsPage({ t, lang }) {
                 image="/assets/others/institution_partnership_1.png"
                 parentSection={t.pageLabels?.partnerships || "Partnerships"}
             />
-            <div className="mx-auto max-w-6xl px-6 space-y-12 pb-24">
+            <div className="mx-auto max-w-6xl space-y-10 px-4 py-14 md:space-y-12 md:px-6 md:py-20">
                 <PartnershipBridge roles={t.partnerships.roles} stepLabel={t.partnerships.stepLabel} />
 
                 {mouAnnouncement && (
-                    <div className="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+                    <div className="rounded-lg border border-slate-200 bg-slate-50 p-5 md:p-7">
                         <div className="text-xs font-bold text-[#D4AF37] uppercase tracking-wider mb-3">{mouAnnouncement.category}</div>
-                        <h3 className="text-2xl font-serif font-medium text-slate-900 mb-3">{mouAnnouncement.title}</h3>
-                        <p className="text-sm text-slate-600 leading-relaxed mb-6">{mouAnnouncement.summary}</p>
+                        <h3 className="mb-3 max-w-3xl text-2xl font-serif font-medium text-slate-900">{mouAnnouncement.title}</h3>
+                        <p className="mb-6 max-w-3xl text-sm leading-relaxed text-slate-600">{mouAnnouncement.summary}</p>
                         <Link
                             to={`/insights/${mouAnnouncement.slug}`}
                             className="inline-flex items-center gap-2 text-sm font-semibold text-slate-900 hover:text-[#D4AF37] transition-colors"
@@ -41,7 +41,7 @@ export default function PartnershipsPage({ t, lang }) {
                 )}
 
                 {/* Key Mechanics / Text Content */}
-                <div className="grid gap-12 md:grid-cols-2 items-start">
+                <div className="grid items-start gap-8 md:grid-cols-[minmax(0,1fr)_minmax(300px,0.9fr)] md:gap-10">
                     <div className="space-y-6">
                         <h3 className="text-2xl font-serif font-medium text-slate-900">{t.partnerships.mechanicsTitle}</h3>
                         <div className="space-y-4 text-slate-700 leading-relaxed">
@@ -50,7 +50,7 @@ export default function PartnershipsPage({ t, lang }) {
                             ))}
                         </div>
                     </div>
-                    <div className="bg-slate-50 rounded-2xl p-8 border border-slate-200">
+                    <div className="rounded-lg border border-slate-200 bg-slate-50 p-5 md:p-7">
                         <h4 className="text-lg font-semibold text-slate-900 mb-4">{t.partnerships.investorNoticeTitle}</h4>
                         <ul className="space-y-4">
                             {noticeBullets.map((paragraph) => (
@@ -74,9 +74,9 @@ export default function PartnershipsPage({ t, lang }) {
                 </div>
 
                 {/* Roles Section */}
-                <div className="grid gap-6 md:grid-cols-3">
+                <div className="grid gap-4 md:grid-cols-3">
                     {t.partnerships.roles.map((role, idx) => (
-                        <div key={role.title} className="relative bg-white border border-slate-200 rounded-xl p-6 shadow-sm hover:shadow-md transition-all duration-300 group overflow-hidden">
+                        <div key={role.title} className="relative overflow-hidden rounded-lg border border-slate-200 bg-white p-5 shadow-sm transition-all duration-300 hover:shadow-md">
                             <div className="absolute top-0 left-0 w-full h-1 bg-slate-200 group-hover:bg-[#D4AF37] transition-colors duration-300" />
                             <div className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-3">
                                 {role.roleLabel}

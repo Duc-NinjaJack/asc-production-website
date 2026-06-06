@@ -23,7 +23,7 @@ export default function InsightArticlePage({ lang, t }) {
     const heroImage = article.heroImage;
     const gallery = article.gallery || [];
     return (
-        <div className="py-16 bg-white">
+        <div className="bg-white py-14 md:py-20">
             <SEO
                 title={article.title}
                 description={article.body?.[0] || article.title}
@@ -31,22 +31,22 @@ export default function InsightArticlePage({ lang, t }) {
                 image={heroImage ? article.heroImage.src : undefined}
                 lang={lang}
             />
-            <div className="mx-auto max-w-3xl px-4 space-y-4">
+            <article className="mx-auto max-w-4xl space-y-5 px-4 md:px-6">
                 <span className="text-xs uppercase tracking-wide text-slate-500">{breadcrumb}</span>
-                <h1 className="text-3xl font-semibold text-slate-900">{article.title}</h1>
+                <h1 className="max-w-3xl text-3xl font-semibold leading-tight text-slate-900 md:text-4xl">{article.title}</h1>
                 {article.dateLine && <p className="text-sm text-slate-500">{article.dateLine}</p>}
                 {heroImage && (
-                    <figure className="pt-4 space-y-2">
+                    <figure className="space-y-2 pt-3">
                         <img
                             src={prefixBase(heroImage.src)}
                             alt={heroImage.alt || article.title}
-                            className="w-full rounded-2xl border border-slate-200 shadow-sm"
+                            className="w-full rounded-lg border border-slate-200 shadow-sm"
                             loading="lazy"
                         />
                         {heroImage.caption && <figcaption className="text-xs text-slate-500">{heroImage.caption}</figcaption>}
                     </figure>
                 )}
-                <div className="space-y-4 text-slate-700 leading-relaxed">
+                <div className="max-w-3xl space-y-4 text-base leading-relaxed text-slate-700">
                     {article.body.map((paragraph, idx) => (
                         <p key={idx}>{paragraph}</p>
                     ))}
@@ -58,7 +58,7 @@ export default function InsightArticlePage({ lang, t }) {
                                 <img
                                     src={prefixBase(image.src)}
                                     alt={image.alt || article.title}
-                                    className="w-full rounded-2xl border border-slate-200 shadow-sm"
+                                    className="w-full rounded-lg border border-slate-200 shadow-sm"
                                     loading="lazy"
                                 />
                                 {image.caption && <figcaption className="text-xs text-slate-500">{image.caption}</figcaption>}
@@ -66,10 +66,10 @@ export default function InsightArticlePage({ lang, t }) {
                         ))}
                     </div>
                 )}
-                <Link to="/insights" className="inline-flex items-center gap-2 text-sm text-slate-900 font-semibold">
+                <Link to="/insights" className="inline-flex items-center gap-2 rounded-md border border-slate-200 px-4 py-2 text-sm font-semibold text-slate-900 transition-colors hover:border-[#D4AF37]">
                     ← {t.insights.backToInsights}
                 </Link>
-            </div>
+            </article>
         </div>
     );
 }

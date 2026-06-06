@@ -5,6 +5,7 @@ import PageHeader from "../components/PageHeader";
 import InsightCard from "../components/InsightCard";
 
 export default function InsightsPage({ t, lang }) {
+    const [featured, ...otherItems] = t.insights.items;
     return (
         <div className="bg-white">
             <SEO
@@ -19,9 +20,18 @@ export default function InsightsPage({ t, lang }) {
                 image="/assets/others/office_minimal_modern_1.png"
                 parentSection={t.pageLabels?.research || "Research"}
             />
-            <div className="mx-auto max-w-6xl px-4 md:px-6 space-y-8 md:space-y-12 pb-12 md:pb-24">
+            <div className="mx-auto max-w-6xl space-y-6 px-4 py-14 md:space-y-8 md:px-6 md:py-20">
+                {featured && (
+                    <div className="md:max-w-3xl">
+                        <InsightCard
+                            item={featured}
+                            readMoreLabel={t.insights.readMore}
+                            comingSoonLabel={t.insights.comingSoonLabel}
+                        />
+                    </div>
+                )}
                 <div className="grid gap-4 md:gap-6 md:grid-cols-2">
-                    {t.insights.items.map((item) => (
+                    {otherItems.map((item) => (
                         <InsightCard
                             key={item.slug}
                             item={item}
